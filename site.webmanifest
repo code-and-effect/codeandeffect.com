@@ -1,6 +1,6 @@
 {
-    "name": "Code and Effect",
-    "short_name": "Code and Effect",
+    "name": "",
+    "short_name": "",
     "icons": [
         {
             "src": "/assets/images/android-chrome-192x192.png",
@@ -13,7 +13,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#000000",
-    "background_color": "#000000",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
     "display": "standalone"
 }
