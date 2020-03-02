@@ -1,0 +1,38 @@
+{%- assign default_paths = site.pages | map: "path" -%}
+{%- assign page_paths = site.header_pages | default: default_paths -%}
+
+<nav class="navbar navbar-expand-md navbar-dark bg-dark mb-4">
+  <div class="container">
+    <a class="navbar-brand" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+      <ul class="navbar-nav ml-auto">
+        {% for item in site.menus.header %}
+          {% if item.children %}
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="dropdown-{{ item.slug }}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                {{ item.title }}
+              </a>
+
+              <div class="dropdown-menu" aria-labelledby="dropdown-{{ item.slug }}">
+                {% for item in item.children %}
+                  <a class="dropdown-item" href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
+                {% endfor %}
+              </div>
+            </li>
+          {% else %}
+            <li class="nav-item nav-item-{{ loop.index }}">
+              <a class="nav-link" href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</nav>
+
+

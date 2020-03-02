@@ -1,0 +1,33 @@
+---
+label: Page
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  config:
+    required: true
+  default: page
+- type: text
+  name: title
+  label: title
+  config:
+    required: true
+- type: text
+  name: description
+  label: description
+  config:
+    required: true
+    max: '160'
+- type: text
+  name: permalink
+  label: permalink
+  config:
+    required: true
+- name: redirect_from
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: redirect_from
