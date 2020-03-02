@@ -1,25 +1,76 @@
 ---
 header:
-  - url: /
-    title: Home
-    identifier: home
-
-  - url: /about/
+  - url: '#'
     title: About
     identifier: about
 
-  - url: /blog/
-    title: Blog
-    identifier: blog
+  - url: '#'
+    title: Services
+    identifier: services
 
   - url: '#'
-    title: Dropdown
-    identifier: dropdown
+    title: Consulting
+    identifier: consulting
 
-dropdown:
-  - url: /about/
-    title: About 2
+  - url: '#'
+    title: Products
+    identifier: products
 
-  - url: /about/
-    title: About 3
+  - url: /careers/
+    title: Careers
+    identifier: careers
+
+  - url: /contact/
+    title: Contact
+    identifier: contact
+
+about:
+  - url: /team/
+    title: Our Team
+
+  - url: /speaking/
+    title: Speaking
+
+  - url: /space/
+    title: Our Space
+
+  - url: /story/
+    title: Our Story
+
+services:
+  - url: /ecommerce-development/
+    title: E-commerce Development
+
+  - url: /web-app-development/
+    title: Web App Development
+
+  - url: /mobile-app-development/
+    title: Mobile App Development
+
+consulting:
+  - url: /consulting/
+    title: Start Here
+
+  - url: /research-and-recommend/
+    title: Research and Recommend
+
+  - url: /discover-and-plan/
+    title: Discover and Plan
+
+  - url: /develop-and-launch/
+    title: Develop and Launch
+
+  - url: /support-and-improve/
+    title: Support and Improve
+
+  - url: /coach-and-grow/
+    title: Coach and Grow
+
+
+products:
+  - url: /tadum/
+    title: 'Tadum'
+
+  - url: /effective-gems/
+    title: Effective Gems
 ---

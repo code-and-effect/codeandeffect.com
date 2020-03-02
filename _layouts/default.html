@@ -17,9 +17,8 @@ layout: compress
       {%- seo -%}
     {%- endif -%}
 
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ "/assets/css/application.css" | relative_url }}">
-
-    {%- feed_meta -%}
 
     {%- if jekyll.environment == 'production' and site.google_analytics -%}
       <script>
@@ -33,6 +32,16 @@ layout: compress
       }
       </script>
     {%- endif -%}
+
+
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ /assets/images/apple-touch-icon.png | relative_url }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ /assets/images/favicon-32x32.png | relative_url }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ /favicon-16x16.png | relative_url }}">
+    <link rel="manifest" href="{{ /site.webmanifest | relative_url }}">
+    <link rel="mask-icon" href="{{ /assets/images/safari-pinned-tab.svg | relative_url }}" color="#ffb600">
+    <meta name="msapplication-TileColor" content="#000000">
+    <meta name="theme-color" content="#000000">
+
   </head>
 
   <body>

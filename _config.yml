@@ -17,32 +17,31 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: effective_jekyll  # The site title used as part of the title tag like 'page.title | title'.
-tagline: REPLACE_ME_TAGLINE # A short description used as part of the title tag of the home page like 'title | tagline'.
-email: REPLACE_ME_EMAIL
-description: A starter Jekyll site # Used for the description meta tag and is the fallback for pages that don't provide their own description
+title: Code and Effect  # The site title used as part of the title tag like 'page.title | title'.
+tagline: Edmonton Ruby on Rails Web and App Development # A short description used as part of the title tag of the home page like 'title | tagline'.
+email: hello@codeandeffect.com
+description: todo # Used for the description meta tag and is the fallback for pages that don't provide their own description
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://effective-jekyll-demo.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
-author: REPLACE_ME_AUTHOR
-logo: REPLACE_ME_LOGO # URL to a site-wide logo (e.g., /assets/your-company-logo.png)
+url: "https://codeandeffect.com" # the base hostname & protocol for your site, e.g. http://example.com
+author: Code and Effect Inc.
+logo: code-and-effect-logo.png # URL to a site-wide logo (e.g., /assets/your-company-logo.png)
 
 twitter:
-  username: REPLACE_ME_TWITTER
+  username: Code_and_Effect
   card: summary
 
 github:
-  username: REPLACE_ME_GITHUB
+  username: code-and-effect
 
 linkedin:
-  username: REPLACE_ME_LINKEDIN
+  username: code-and-effect
 
 social:
-  name: REPLACE_ME_SOCIAL
+  name: Code and Effect
   links:
-    - https://twitter.com/REPLACE_ME
-    - https://www.facebook.com/REPLACE_ME
-    - https://www.linkedin.com/in/REPLACE_ME
-    - https://github.com/REPLACE_ME
+    - https://twitter.com/code_and_effect
+    - https://www.linkedin.com/company/code-and-effect
+    - https://github.com/code-and-effect
 
 
 # Plugin settings
@@ -64,8 +63,6 @@ compress_html:
 show_excerpts: true
 permalink: :title/ # always trailing slashes
 plugins:
-  - jekyll-feed
-  - jekyll-paginate-v2
   - jekyll-menus
   - jekyll-redirect-from
   - jekyll-seo-tag
