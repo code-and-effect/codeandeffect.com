@@ -1,23 +1,11 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/880b30d7-85fe-413a-92dd-05a3cc64cea3/deploy-status)](https://app.netlify.com/sites/effective-jekyll-demo/deploys)
+# codeandeffect.com
 
-# Effective Jekyll
-
-This is a starter Jekyll site that uses:
-
-- Bootstrap 4.4.1
-- forestry.io as the CMS
-- Netlify for the deployment/hosting
-
-Doesn't use a theme gem.
-
-Demo: https://effective-jekyll-demo.netlify.com/
+This the public website for Code and Effect. It used [effective_jekyll](https://github.com/code-and-effect/effective_jekyll) as the starter template.
 
 ## Installed Plugins
 
 - [jekyll-compress-html](https://github.com/penibelst/jekyll-compress-html)
-- [jekyll-feed](https://github.com/jekyll/jekyll-feed)
 - [jekyll-menus](https://github.com/forestryio/jekyll-menus)
-- [jekyll-paginate-v2](https://github.com/sverrirs/jekyll-paginate-v2)
 - [jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from)
 - [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag)
 - [jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap)
@@ -39,10 +27,6 @@ Demo: https://effective-jekyll-demo.netlify.com/
 1. Clone this repo
 2. `bundle install`
 3. `bundle exec jekyll serve`
-4. Search all files for REPLACE_ME and update as appropriate
-5. Update the footer h-card contact details for the business or person
-6. (optional) Adjust the config.baseurl to "" if deploying to the root of a custom domain
-7. Deploy on Netlify using default Jekyll build options
 
 ## License
 

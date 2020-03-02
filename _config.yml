@@ -50,23 +50,6 @@ sass:
   sass_dir: _sass # _sass is default
   style: compressed # nested, expanded, compact, or compressed
 
-pagination:
-  enabled: true
-  debug: false
-  collection: 'posts'
-  per_page: 2
-  permalink: '/page/:num/'
-  title: ':title - Page :num'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
-
-feed:
-  excerpt_only: true # only show excerpt in /feed.xml
-  categories:
-    - news
-    - updates
-
 compress_html:
   clippings: all
   comments: all
