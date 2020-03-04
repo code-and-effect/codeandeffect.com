@@ -11,62 +11,64 @@ layout: default
   </div>
 </div>
 
-<div class="page-home">
-  <h2 class="text-center">Our Services</h2>
+<div class="container">
+  <div class="page-home">
+    <h2 class="text-center">Our Services</h2>
 
-  <div class="row mb-5">
-    {% for service in page.services %}
-      <div class="service col-6">
-        <h3>
-          <a href="{{ service.service_link }}">
-            {{ service.service_title }}
-          </a>
-        </h3>
-        <p>{{ service.service_description }}</p>
-      </div>
-    {% endfor %}
+    <div class="row mb-5">
+      {% for service in page.services %}
+        <div class="service col-6">
+          <h3>
+            <a href="{{ service.service_link }}">
+              {{ service.service_title }}
+            </a>
+          </h3>
+          <p>{{ service.service_description }}</p>
+        </div>
+      {% endfor %}
+    </div>
+
+    <blockquote class="blockquote text-center mb-5">
+      <p class="mb-0">
+        “We’re different from other shops because of our repeatable process, our structured communication, and the values we live and work by.
+      </p>
+      <footer class="blockquote-footer">— Ashley Janssen, CEO at Code and Effect</footer>
+    </blockquote>
+
+    <h2 class="text-center">Our Core Values</h2>
+
+    <div class="row mb-5">
+      {% for value in page.values %}
+        <div class="value col">
+          <h3>{{ value.value_title }}</h3>
+          <p>{{ value.value_description }}</p>
+        </div>
+      {% endfor %}
+    </div>
+
+    <h2 class="text-center">Example Projects We Work On</h2>
+
+    <div class="row mb-5">
+      {% for project in page.projects %}
+        <div class="value col">
+          <h3>{{ project.project_title }}</h3>
+          <p>{{ project.project_description }}</p>
+        </div>
+      {% endfor %}
+    </div>
+
+    <h2 class="text-center">Example Organizations We Work With</h2>
+
+    <div class="row">
+      {% for organization in page.organizations %}
+        <div class="value col-6">
+          <p>
+            <strong>{{ organization.organization_title }}</strong>
+            {{ organization.organization_description }}
+          </p>
+        </div>
+      {% endfor %}
+    </div>
+
   </div>
-
-  <blockquote class="blockquote text-center mb-5">
-    <p class="mb-0">
-      “We’re different from other shops because of our repeatable process, our structured communication, and the values we live and work by.
-    </p>
-    <footer class="blockquote-footer">— Ashley Janssen, CEO at Code and Effect</footer>
-  </blockquote>
-
-  <h2 class="text-center">Our Core Values</h2>
-
-  <div class="row mb-5">
-    {% for value in page.values %}
-      <div class="value col">
-        <h3>{{ value.value_title }}</h3>
-        <p>{{ value.value_description }}</p>
-      </div>
-    {% endfor %}
-  </div>
-
-  <h2 class="text-center">Example Projects We Work On</h2>
-
-  <div class="row mb-5">
-    {% for project in page.projects %}
-      <div class="value col">
-        <h3>{{ project.project_title }}</h3>
-        <p>{{ project.project_description }}</p>
-      </div>
-    {% endfor %}
-  </div>
-
-  <h2 class="text-center">Example Organizations We Work With</h2>
-
-  <div class="row">
-    {% for organization in page.organizations %}
-      <div class="value col-6">
-        <p>
-          <strong>{{ organization.organization_title }}</strong>
-          {{ organization.organization_description }}
-        </p>
-      </div>
-    {% endfor %}
-  </div>
-
 </div>
