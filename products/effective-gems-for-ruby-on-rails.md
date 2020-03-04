@@ -1,8 +1,8 @@
 ---
-layout: home
+layout: page
 title: Effective Gems for Ruby on Rails
 permalink: "/effective-gems/"
-title_subtext: 'Developers run into roadblocks; it comes with the territory. Thankfully,
+subtext: 'Developers run into roadblocks; it comes with the territory. Thankfully,
   Ruby on Rails has an amazing developer community and the gems created by these developers
   have helped us out many times. Now, it’s our turn to give back: we’ve built effective_gems
   to streamline common features on many of our web applications. They’ve certainly

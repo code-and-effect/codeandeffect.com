@@ -1,8 +1,8 @@
 ---
-layout: home
+layout: page
 title: Our Team
 permalink: "/team/"
-title_subtext: Our team has delivered hundreds of projects together and have an exceptional
+subtext: Our team has delivered hundreds of projects together and have an exceptional
   skill combination to bring your web app, mobile app, or e-commerce project to life.
 meta_description: Our team is made up of Ashley Janssen, Dana Janssen, Matthew Riemer,
   and Sam Ibach.

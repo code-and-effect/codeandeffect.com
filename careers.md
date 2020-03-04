@@ -1,12 +1,11 @@
 ---
-layout: home
+layout: page
 title: Careers
 permalink: "/careers/"
-title_subtext: We are actively seeking a Senior Ruby on Rails Developer. We offer
-  a flexible, results-oriented work environment with a talented, experienced team.
-meta_description: We are actively seeking Ruby on Rails Developers. We offer a flexible,
-  results oriented work environment with a talented, experienced team.
+subtext: |
+  "We are actively seeking a Senior Ruby on Rails Developer. We offer a flexible, results-oriented work environment with a talented, experienced team. meta_description: We are actively seeking Ruby on Rails Developers. We offer a flexible, results oriented work environment with a talented, experienced team."
 ---
+
 ## Senior Ruby on Rails Developer
 
 We’re looking for a Senior Ruby on Rails Developer with the following skills:

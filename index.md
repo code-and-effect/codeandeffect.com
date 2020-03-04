@@ -1,7 +1,6 @@
 ---
 layout: home
 title: 'Code and Effect: Edmonton Web App Design and Development'
-title_subtext: ''
 meta_description: 'Code and Effect: Edmonton Web App Design and Development'
 jumbotron_text: 'We use Ruby on Rails to design and develop web and mobile apps.'
 

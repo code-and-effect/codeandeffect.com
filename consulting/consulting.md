@@ -1,10 +1,11 @@
 ---
-layout: home
+layout: page
 title: Software Consulting Services
 permalink: "/consulting/"
-title_subtext: 'We only do things that we are really, really good at. This focus dramatically
+subtext: |
+  "We only do things that we are really, really good at. This focus dramatically
   reduces project risk and lets us provide transparent pricing for our core services.
-  Here''s what we can do together:'
+  Here's what we can do together:"
 meta_description: Learn more about all of the software consulting services we offer.
 ---
 ## [Research and Recommend](https://codeandeffect.com/research-and-recommend/)

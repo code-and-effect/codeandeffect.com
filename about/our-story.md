@@ -1,8 +1,8 @@
 ---
-layout: home
+layout: page
 title: Our Story
 permalink: "/story/"
-title_subtext: We have come a long way since we started in 2007. Learn more about
+subtext: We have come a long way since we started in 2007. Learn more about
   what we do, why we do it, and what's important to us going forward.
 meta_description: We have come a long way since we started in 2007. Learn more about
   what we do, why we do it, and what's important to us going forward.
