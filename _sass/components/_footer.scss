@@ -1,0 +1,19 @@
+.footer { margin-top: 4rem; }
+
+.footer-pre {
+  background: $black;
+  color: $primary;
+  padding: 2rem 0;
+  text-align: center;
+
+  a { text-decoration: underline; }
+}
+
+.footer-main {
+  font-size: 1rem;
+  background: $primary;
+  color: $black;
+  padding: 2rem 0 3rem 0;
+}
+
+.copyright { text-align: center; }
