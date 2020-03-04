@@ -1,5 +1,5 @@
 ---
-header:
+navbar:
   - url: '#'
     title: About
     identifier: about

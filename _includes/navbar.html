@@ -1,7 +1,7 @@
 {%- assign default_paths = site.pages | map: "path" -%}
 {%- assign page_paths = site.header_pages | default: default_paths -%}
 
-<nav class="navbar navbar-expand-md navbar-light bg-primary py-3 mb-4">
+<nav class="navbar navbar-expand-md navbar-light bg-primary py-4">
   <div class="container">
     <a class="navbar-brand" href="{{ "/" | relative_url }}">
       <img src="/assets/images/code-and-effect-logo.png" width="194" height="40" alt="Code and Effect Logo">
@@ -13,14 +13,14 @@
 
     <div class="collapse navbar-collapse" id="navbarsExampleDefault">
       <ul class="navbar-nav ml-auto">
-        {% for item in site.menus.header %}
+        {% for item in site.menus.navbar %}
           {% if item.children %}
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="dropdown-{{ item.slug }}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <a class="nav-link" href="#" id="dropdown-{{ item.identifier }}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 {{ item.title }}
               </a>
 
-              <div class="dropdown-menu" aria-labelledby="dropdown-{{ item.slug }}">
+              <div class="dropdown-menu" aria-labelledby="dropdown-{{ item.identifier }}">
                 {% for item in item.children %}
                   <a class="dropdown-item" href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
                 {% endfor %}
