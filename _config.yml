@@ -25,6 +25,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://codeandeffect.com" # the base hostname & protocol for your site, e.g. http://example.com
 author: Code and Effect Inc.
 logo: code-and-effect-logo.png # URL to a site-wide logo (e.g., /assets/your-company-logo.png)
+google_analytics: UA-1478414-49
+
 
 twitter:
   username: Code_and_Effect
