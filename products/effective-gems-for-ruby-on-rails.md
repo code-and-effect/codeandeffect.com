@@ -12,9 +12,9 @@ description: The effective_gems offer solutions for common hurdles faced by Ruby
 ---
 Watch Code and Effect co-founder Matthew Riemer give a presentation about using the effective gems to quickly and consistently develop Ruby on Rails applications:
 
-INSERT VIDEO OF MATT
-
-***
+<div class="mx-auto text-center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ogN8brc4OZk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## About the effective_gems
 

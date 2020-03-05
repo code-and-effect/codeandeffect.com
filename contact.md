@@ -24,7 +24,7 @@ description: 'Have a chat with Dana: hello@codeandeffect.com or Call +1 780‑61
 
 <div class="row">
   <div class="col">
-    <img src="{{ "/assets/images/code-and-effect-parking-map.png" | absolute_url }}" alt="Parking near Code and Effect" class="img-fluid">
+    <a href="https://g.page/codeandeffect?share"><img src="{{ "/assets/images/code-and-effect-parking-map.png" | absolute_url }}" alt="Parking near Code and Effect" class="img-fluid"></a>
   </div>
 </div>
 
