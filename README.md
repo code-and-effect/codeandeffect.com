@@ -5,6 +5,7 @@ This the public website for Code and Effect. It used [effective_jekyll](https://
 ## Installed Plugins
 
 - [jekyll-compress-html](https://github.com/penibelst/jekyll-compress-html)
+- [jekyll-gzip](https://github.com/philnash/jekyll-gzip)
 - [jekyll-menus](https://github.com/forestryio/jekyll-menus)
 - [jekyll-redirect-from](https://github.com/jekyll/jekyll-redirect-from)
 - [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag)
