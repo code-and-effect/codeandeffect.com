@@ -5,7 +5,7 @@ permalink: "/discover-and-plan/"
 subtext: Our experience is that successful software projects are driven by clear
   communication and “just enough” planning. Our discovery process ensures you get
   the features you need (and only what you need need) to solve your problem.
-meta_description: Discover and Plan is a structured, repeatable process that identifies,
+description: Discover and Plan is a structured, repeatable process that identifies,
   prioritizes, and costs out custom software requirements.
 ---
 ## What is Discover and Plan?

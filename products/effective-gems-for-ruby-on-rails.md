@@ -7,7 +7,7 @@ subtext: 'Developers run into roadblocks; it comes with the territory. Thankfull
   have helped us out many times. Now, it’s our turn to give back: we’ve built effective_gems
   to streamline common features on many of our web applications. They’ve certainly
   helped us, and we think they can help you too.'
-meta_description: The effective_gems offer solutions for common hurdles faced by Ruby
+description: The effective_gems offer solutions for common hurdles faced by Ruby
   on Rails developers.
 ---
 Watch Code and Effect co-founder Matthew Riemer give a presentation about using the effective gems to quickly and consistently develop Ruby on Rails applications:

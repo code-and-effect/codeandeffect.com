@@ -6,11 +6,11 @@ subtext: |
   "We only do things that we are really, really good at. This focus dramatically
   reduces project risk and lets us provide transparent pricing for our core services.
   Here's what we can do together:"
-meta_description: Learn more about all of the software consulting services we offer.
+description: Learn more about all of the software consulting services we offer.
 ---
 ## [Research and Recommend](https://codeandeffect.com/research-and-recommend/)
 
-**You think your needs could be met by an existing software as a service (SaaS) vendor, but don’t know which one.** We work with you to identify core requirements, research the vendors that could meet those requirements, make a recommendation, and then help you get set up. **$2,250.** [Learn more.](https://codeandeffect.com/research-and-recommend/)
+**You think your needs could be met by an existing software as a service (SaaS) vendor, but don’t know which one.** We work with you to identify core requirements, research the vendors that could meet those requirements, make a recommendation, and then help you get set up. **$2,250+.** [Learn more.](https://codeandeffect.com/research-and-recommend/)
 
 ## [Discover and Plan](https://codeandeffect.com/discover-and-plan/)
 
@@ -26,8 +26,4 @@ meta_description: Learn more about all of the software consulting services we of
 
 ## [Coach and Grow](https://codeandeffect.com/coach-and-grow/)
 
-**You need to work through business challenges using formal structure and process.** We work with you to break down, prioritize, and solve whatever your biggest challenge is. Then repeat. **$1,000+/mo.** [Learn more.](https://codeandeffect.com/coach-and-grow/)
-
-***
-
-**Looking for something else?** We may be a fit, and the only way to find out is to [contact us](https://codeandeffect.com/contact/). Worst case is we can't take on your project, but instead refer you to one of our amazing partners.
+**You need to work through business challenges using formal structure and process.** We work with you to break down, prioritize, and solve whatever your biggest challenge is. Then repeat. **$500+/mo.** [Learn more.](https://codeandeffect.com/coach-and-grow/)

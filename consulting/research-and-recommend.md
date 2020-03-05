@@ -6,7 +6,7 @@ subtext: There is already software for common processes like project management,
   online booking, and customer relationship management. But what if you don’t  know
   where to start when selecting software? That's when we work with you to prioritize
   requirements, research on your behalf, and empower you to make an informed decision.
-meta_description: Research and Recommend is a service that helps you find an existing
+description: Research and Recommend is a service that helps you find an existing
   software as a service (SasS) vendor that meets your requirements.
 ---
 ## What is Research and Recommend?

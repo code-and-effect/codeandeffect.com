@@ -16,10 +16,6 @@ navbar:
     title: Products
     identifier: products
 
-  - url: /careers/
-    title: Careers
-    identifier: careers
-
   - url: /contact/
     title: Contact
     identifier: contact
@@ -30,9 +26,6 @@ about:
 
   - url: /speaking/
     title: Speaking
-
-  - url: /space/
-    title: Our Space
 
   - url: /story/
     title: Our Story

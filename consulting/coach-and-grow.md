@@ -6,7 +6,7 @@ subtext: We understand that business is complex and ever-changing, and we’ve
   likely faced many of the same challenges that you have or will. We take the same
   concepts and processes that we have learned in our twelve years of experience and
   apply them to your business to help you overcome your challenges.
-meta_description: Coach and Grow is a structured consulting and coaching engagement
+description: Coach and Grow is a structured consulting and coaching engagement
   that provides the tactics, tools, and accountability to overcome challenges.
 ---
 ## What is Coach and Grow?

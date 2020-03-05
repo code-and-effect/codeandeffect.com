@@ -1,0 +1,16 @@
+.callout {
+  padding: 2rem 0;
+  text-align: center;
+
+  a { text-decoration: underline; }
+}
+
+.callout-dark {
+  background: $black;
+  color: $primary;
+}
+
+.callout-light {
+  background: $primary;
+  color: $black;
+}

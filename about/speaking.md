@@ -7,24 +7,18 @@ subtext: Code and Effect participates in the local Edmonton business and technol
   variety of topics such as productivity, meeting and agenda management, web development
   project management, the challenges of entrepreneurship, and more! To learn more
   about the topics we can speak on, or to book an engagement, please contact us.
-meta_description: We participate in the local business and technology communities
+description: We participate in the local business and technology communities
   by sharing our expertise as guests and speakers.
 ---
 ## Upcoming Speaking
 
 Check back soon!
 
-***
-
-## Past Speaking
-
-### 2020
+## 2020
 
 * **YEGRB Meetup** - [Ruby on Rails Tips and Tricks](https://www.youtube.com/watch?v=Ci3ViXnVCng)
 
-***
-
-### 2019
+## 2019
 
 * **ATB X Accelerator** - Bring Structure to Your Chaos: Productivity, Organization and Time Management Tactics Workshop
 * **Business and Professional Women of Edmonton (BPW)** - Time Mastery Workshop
@@ -38,9 +32,7 @@ Check back soon!
 * **TEC Edmonton** - Overcoming Impostor Syndrome Workshop
 * **ScaleUp YEG** - Scaling with Technology Panel: When & How to Leverage Tech for Growth
 
-***
-
-### 2018
+## 2018
 
 * **University of Alberta ArtsWorks Conference** - Careers in Creative and Innovative Fields Panel
 * **CBC Centre Stage** - Startup Week - Meet the Founders Panel
@@ -56,9 +48,7 @@ Check back soon!
 * **Canada Learning Code & DiscoverE -** Alberta Girls Engineering & Technology Summit - Female Leaders Brunch
 * **University of Alberta** - Alberta Student Leadership Summit Panel
 
-***
-
-### 2017
+## 2017
 
 * **That’s So Maven** - [Podcast Interview](https://podcast.app/ashley-janssen-e26761974/)
 * **Medicine Hat College** - Building Your E-Commerce Business
@@ -71,9 +61,7 @@ Check back soon!
 * **Rotary Club of Edmonton West** - Intentional Networking
 * **ATB Entrepreneur SpeakEasy** - How do you keep your customers coming back for more?
 
-***
-
-### 2013-2016
+## 2013-2016
 
 * 2016 - **Digital Project Managers Meetup** - Know Yourself, Manage Better
 * 2016 - **DisruptHR YEG** - [Culture = Cash](https://vimeo.com/170539602)

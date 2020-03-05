@@ -5,7 +5,7 @@ permalink: "/web-app-development/"
 subtext: Code and Effect has been designing and developing custom web applications
   in Edmonton for over 12 years. We do an in-depth review of your existing processes,
   clarify your pain points, and then build you a web app that drives results.
-meta_description: We do an in-depth review of your existing processes, clarify your
+description: We do an in-depth review of your existing processes, clarify your
   pain points, and build you a web app that drives results.
 ---
 ## What do you mean by “Web App”?

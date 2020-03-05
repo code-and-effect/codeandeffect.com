@@ -4,7 +4,7 @@ title: Mobile App Development
 permalink: "/mobile-app-development/"
 subtext: Android or iOS? Web app or native mobile app? Let us help you figure
   out the best way to achieve your goals and get started!
-meta_description: Android or iOS? Web app or native mobile app? Let us help you figure
+description: Android or iOS? Web app or native mobile app? Let us help you figure
   out the best way to achieve your goals and get started!
 ---
 ## What type of mobile apps do you build?

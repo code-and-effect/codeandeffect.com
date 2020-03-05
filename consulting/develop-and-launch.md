@@ -6,7 +6,7 @@ subtext: Code and Effect specializes in the development of custom Ruby on Rails
   web applications. When your current software isn’t working for you, or you can’t
   find one on the market that meets your needs, get in touch with us. We will work
   with you to build exactly what you need to run your business.
-meta_description: Develop and Launch is a structured development and communication
+description: Develop and Launch is a structured development and communication
   process for building custom software.
 ---
 ## What is Develop and Launch?

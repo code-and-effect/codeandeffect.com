@@ -5,7 +5,7 @@ permalink: "/ecommerce-development/"
 subtext: Our customers come to us when existing ecommerce platforms are not
   quite good enough. We will work with you to map your ecommerce process and then
   build you a flexible, easy-to-use system that your customers will love.
-meta_description: When existing ecommerce platforms are not quite good enough we map
+description: When existing ecommerce platforms are not quite good enough we map
   out your unique processes then build a flexible system that your customers will
   love.
 ---

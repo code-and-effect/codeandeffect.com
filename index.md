@@ -1,8 +1,8 @@
 ---
 layout: home
-title: 'Code and Effect: Edmonton Web App Design and Development'
-meta_description: 'Code and Effect: Edmonton Web App Design and Development'
-jumbotron_text: 'We use Ruby on Rails to design and develop web and mobile apps.'
+title: 'Edmonton Web Application Design and Development'
+description: We are Edmonton-based software consultants. We use Ruby on Rails to design and develop web and mobile applications.
+jumbotron_text: 'We use Ruby on Rails to design and develop web mobile apps.'
 
 services:
   - service_title: Web App Development

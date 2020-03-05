@@ -5,7 +5,7 @@ permalink: "/support-and-improve/"
 subtext: We want it to be easy to apply small improvements to your web application.
   One way we do this is to avoid repeated small line item budget approvals by instead
   charging a reasonable flat rate that allows you to continuously make small improvements.
-meta_description: Support and Improve is a monthly web application maintenance subscription
+description: Support and Improve is a monthly web application maintenance subscription
   service.
 ---
 ## What is Support and Improve?

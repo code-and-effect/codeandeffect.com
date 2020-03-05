@@ -5,6 +5,9 @@
 @import 'bootstrap-4.4.1/bootstrap.scss';
 @import 'base/layout';
 
-
-@import 'components/navbar';
+@import 'components/blockquote';
+@import 'components/callout';
 @import 'components/footer';
+@import 'components/jumbotron';
+@import 'components/navbar';
+@import 'components/page';
