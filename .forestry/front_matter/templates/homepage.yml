@@ -1,0 +1,62 @@
+---
+label: Homepage
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: description
+  label: description
+- type: textarea
+  name: jumbotron_text
+  label: jumbotron_text
+- type: list
+  name: redirect_from
+  label: redirect_from
+- type: field_group_list
+  name: services
+  label: services
+  fields:
+  - type: text
+    name: service_title
+    label: service_title
+  - type: textarea
+    name: service_description
+    label: service_description
+  - type: text
+    name: service_link
+    label: service_link
+- type: field_group_list
+  name: values
+  label: values
+  fields:
+  - type: text
+    name: value_title
+    label: value_title
+  - type: textarea
+    name: value_description
+    label: value_description
+- type: field_group_list
+  name: projects
+  label: projects
+  fields:
+  - type: text
+    name: project_title
+    label: project_title
+  - type: textarea
+    name: project_description
+    label: project_description
+- type: field_group_list
+  name: organizations
+  label: organizations
+  fields:
+  - type: text
+    name: organization_title
+    label: organization_title
+  - type: text
+    name: organization_description
+    label: organization_description
