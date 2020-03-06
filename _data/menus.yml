@@ -24,11 +24,11 @@ about:
   - url: /team/
     title: Our Team
 
-  - url: /speaking/
-    title: Speaking
-
   - url: /story/
     title: Our Story
+
+  - url: /speaking/
+    title: Speaking
 
 services:
   - url: /ecommerce-development/

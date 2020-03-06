@@ -2,14 +2,14 @@
 layout: default
 ---
 
-<div class="jumbotron text-primary">
-  {%- if page.title -%}
-    <h1 class="display-1">{{ page.title }}</h1>
-  {%- endif -%}
-  <p class="lead">{{ page.jumbotron_text }}</p>
-</div>
-
 <div class="container">
+
+<header class="page-header page-home">
+  <h1 class="page-title">{{ page.title | escape }}</h1>
+  <p class="page-title-subtext">{{ page.jumbotron_text }}</p>
+</header>
+
+
   <h2 class="page-subtitle">Our Services</h2>
 
   <div class="row mb-5">
