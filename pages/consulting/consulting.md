@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Software Consulting Services
+title: Edmonton Software Consulting
 permalink: "/consulting/"
 subtext: |
   "We only do things that we are really, really good at. This focus dramatically
   reduces project risk and lets us provide transparent pricing for our core services.
   Here's what we can do together:"
-description: Learn more about all of the software consulting services we offer.
+description: Edmonton-based custom software consulting and web application consulting services.
 ---
 ## [Research and Recommend](https://www.codeandeffect.com/research-and-recommend/)
 
@@ -22,7 +22,7 @@ description: Learn more about all of the software consulting services we offer.
 
 ## [Support and Improve](https://www.codeandeffect.com/support-and-improve/)
 
-**You already have a business-critical application and need to ensure that it is maintained and monitored to prevent potential disasters.** We work to ensure your risk is managed by applying regular security patches, managing redundancy, immediately responding to serious issues, and doing regular updates at your request. **$750+/mo.** [Learn more.](https://www.codeandeffect.com/watch-and-maintain/)
+**You already have a business-critical application and need to ensure that it is maintained and monitored to prevent potential disasters.** We work to ensure your risk is managed by applying regular security patches, managing redundancy, immediately responding to serious issues, and doing regular updates at your request. **$750+/mo.** [Learn more.](https://www.codeandeffect.com/support-and-improve/)
 
 ## [Coach and Grow](https://www.codeandeffect.com/coach-and-grow/)
 

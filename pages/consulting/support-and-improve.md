@@ -7,6 +7,10 @@ subtext: We want it to be easy to apply small improvements to your web applicati
   charging a reasonable flat rate that allows you to continuously make small improvements.
 description: Support and Improve is a monthly web application maintenance subscription
   service.
+redirect_from:
+  - /watch-and-maintain/
+  - watch-and-maintain
+
 ---
 ## What is Support and Improve?
 

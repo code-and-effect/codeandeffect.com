@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Speaking
+title: Speaking and Workshops
 permalink: "/speaking/"
 subtext: Code and Effect participates in the local Edmonton business and technology
   communities by sharing our expertise as guests and speakers. We speak on a wide
