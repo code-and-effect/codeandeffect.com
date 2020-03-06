@@ -14,7 +14,7 @@ layout: default
 
   <div class="row mb-5">
     {% for service in page.services %}
-      <div class="service col-6">
+      <div class="service col-sm-6">
         <h3>
           <a href="{{ service.service_link }}">
             {{ service.service_title }}
@@ -37,7 +37,7 @@ layout: default
   <h2 class="page-subtitle">Our Core Values</h2>
   <div class="row mb-5">
     {% for value in page.values %}
-      <div class="value col">
+      <div class="value col-sm">
         <h3>{{ value.value_title }}</h3>
         <p>{{ value.value_description }}</p>
       </div>
@@ -47,7 +47,7 @@ layout: default
   <h2 class="page-subtitle">Example Projects We Work On</h2>
   <div class="row mb-5">
     {% for project in page.projects %}
-      <div class="value col">
+      <div class="value col-sm">
         <h3>{{ project.project_title }}</h3>
         <p>{{ project.project_description }}</p>
       </div>
@@ -57,7 +57,7 @@ layout: default
   <h2 class="page-subtitle">Example Organizations We Work With</h2>
   <div class="row">
     {% for organization in page.organizations %}
-      <div class="value col-6">
+      <div class="value col-sm-6">
         <p>
           <strong>{{ organization.organization_title }}</strong>
           {{ organization.organization_description }}
