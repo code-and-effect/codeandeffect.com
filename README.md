@@ -2,7 +2,7 @@
 
 # codeandeffect.com
 
-This the public website for Code and Effect. It used [effective_jekyll](https://github.com/code-and-effect/effective_jekyll) as the starter template.
+This the public website for Code and Effect. It used [effective_jekyll](https://github.com/code-and-effect/effective_jekyll) as the starter template and is hosted by [Netlify](https://www.netlify.com).
 
 ## Installed Plugins
 
