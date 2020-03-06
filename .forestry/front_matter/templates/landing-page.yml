@@ -1,0 +1,22 @@
+---
+label: Landing Page
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: textarea
+  name: subtext
+  label: subtext
+- type: text
+  name: description
+  label: description
+- type: boolean
+  name: sitemap
+  label: sitemap
