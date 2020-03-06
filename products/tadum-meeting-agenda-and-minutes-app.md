@@ -9,6 +9,8 @@ description: Tadum is meeting agenda and minutes software that helps teams get
   organized and stay accountable.
 ---
 
+Tadum is our [online meeting agenda and minutes app](https://tadum.app) that helps teams get organized and stay accountable.
+
 ## Automatically Create Agendas
 
 Tadum makes meeting preparation a snap. Meeting agendas are automatically drafted with all open items from the previous meeting carried forward. Read-only meeting minutes are automatically created at the end of each meeting, and accessible from one central online location. No more copy-pasting previous meeting agendas!
@@ -28,3 +30,5 @@ If you can’t measure it, you can’t improve it! Our easy-to-update agendas in
 ## Recurring Meetings
 
 Our meeting management tools give you everything you need to prepare your agenda and get organized for your meetings. Every agenda can have any number or combination of our five-section types: Todos, Attachments, Discussions, Updates, and Metrics. You can prepare the agenda topics based on whatever works best for your team.
+
+[Try Tadum for free!](https://tadum.app)

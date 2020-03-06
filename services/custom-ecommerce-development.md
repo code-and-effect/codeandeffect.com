@@ -33,19 +33,19 @@ An IT company with a custom web app that their customers can use to request supp
 
 ## What is your ecommerce app development process?
 
-We have a set process: start with [Discover and Plan](https://www.codeandeffect.com/discover-and-plan) to understand your needs and scope the work, implement with [Develop and Launch](https://www.codeandeffect.com/develop-and-launch), and then provide long-term sustainability with [Support and Improve](https://www.codeandeffect.com/support-and-improve).
+We have a set process: start with [Discover and Plan](https://www.codeandeffect.com/discover-and-plan/) to understand your needs and scope the work, implement with [Develop and Launch](https://www.codeandeffect.com/develop-and-launch/), and then provide long-term sustainability with [Support and Improve](https://www.codeandeffect.com/support-and-improve/).
 
 ## What technologies do you build your ecommerce apps in?
 
-We develop our custom ecommerce using Ruby on Rails. We maintain a number of [open-source libraries](https://www.codeandeffect.com/effective-gems) that help us move quickly and safely--including effective_orders, our shopping cart gem for Ruby on Rails, which has processed tens of millions of dollars worth of transactions to date.
+We develop our custom ecommerce using Ruby on Rails. We maintain a number of [open-source libraries](https://www.codeandeffect.com/effective-gems/) that help us move quickly and safely--including effective_orders, our shopping cart gem for Ruby on Rails, which has processed tens of millions of dollars worth of transactions to date.
 
 ## How much does ecommerce app development cost?
 
-That depends. We normally see ecommerce app development included as a major feature on one of our web app development projects, which has a recommended minimum budget of $50,000. Read more about [web app development here](https://www.codeandeffect.com/web-app-development).
+That depends. We normally see ecommerce app development included as a major feature on one of our web app development projects, which has a recommended minimum budget of $50,000. Read more about [web app development here](https://www.codeandeffect.com/web-app-development/)).
 
 ## How long does it take to develop an ecommerce app?
 
-How long it takes to build an ecommerce app depends on many factors. [Discover and Plan](https://www.codeandeffect.com/discover-and-plan) usually runs for 6 to 8 weeks. [Develop and Launch](https://www.codeandeffect.com/develop-and-launch) is a minimum of 12 weeks, and will depend on the size of the project. You can expect most app development projects to run for a minimum of 18 weeks.
+How long it takes to build an ecommerce app depends on many factors. [Discover and Plan](https://www.codeandeffect.com/discover-and-plan/) usually runs for 6 to 8 weeks. [Develop and Launch](https://www.codeandeffect.com/develop-and-launch/) is a minimum of 12 weeks, and will depend on the size of the project. You can expect most app development projects to run for a minimum of 18 weeks.
 
 ## What payment gateways do you integrate with?
 
@@ -89,4 +89,4 @@ Yes. We can help you create automatically renewing subscriptions (e.g. membershi
 
 ## How do I get started?
 
-First, check out our page on [custom web app development](https://www.codeandeffect.com/web-app-development). Then let’s have a conversation about your ecommerce needs to make sure we’re a good fit for one another.
+First, check out our page on [custom web app development](https://www.codeandeffect.com/web-app-development/)). Then let’s have a conversation about your ecommerce needs to make sure we’re a good fit for one another.

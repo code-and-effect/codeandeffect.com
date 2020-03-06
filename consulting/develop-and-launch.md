@@ -75,4 +75,4 @@ The scope and cost is determined collaboratively through [Discover and Plan](htt
 
 ## What ongoing costs are there?
 
-We strongly recommend [Support and Improve](https://www.codeandeffect.com/support-and-improve) for all of our web applications. In addition, you can expect $50-$100/mo in hosting costs, billed directly to you through our recommended cloud host. We do not resell hosting, domains, or other related services.
+We strongly recommend [Support and Improve](https://www.codeandeffect.com/support-and-improve/) for all of our web applications. In addition, you can expect $50-$100/mo in hosting costs, billed directly to you through our recommended cloud host. We do not resell hosting, domains, or other related services.

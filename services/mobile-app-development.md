@@ -35,7 +35,7 @@ We work with people solving real, proven business problems. This is cross-indust
 
 ## What is your mobile app development process?
 
-We have a set process: start with [Discover and Plan](https://www.codeandeffect.com/discover-and-plan) to understand your needs and scope the work, implement with [Develop and Launch](https://www.codeandeffect.com/develop-and-launch), and then provide long-term sustainability with [Support and Improve](https://www.codeandeffect.com/support-and-improve).
+We have a set process: start with [Discover and Plan](https://www.codeandeffect.com/discover-and-plan/) to understand your needs and scope the work, implement with [Develop and Launch](https://www.codeandeffect.com/develop-and-launch/), and then provide long-term sustainability with [Support and Improve](https://www.codeandeffect.com/support-and-improve/).
 
 ## What technologies do you build your apps in?
 
@@ -43,12 +43,12 @@ We build our web apps in Ruby on Rails. For our mobile-friendly front-end, we us
 
 ## How much does mobile app development cost?
 
-That depends. We normally see mobile app development included as a major feature on one of our web app development projects, which has a recommended minimum budget of $50,000. Read more about [web app development here](https://www.codeandeffect.com/web-app-development).
+That depends. We normally see mobile app development included as a major feature on one of our web app development projects, which has a recommended minimum budget of $50,000. Read more about [web app development here](https://www.codeandeffect.com/web-app-development/)).
 
 ## How long does it take to develop a mobile app?
 
-How long it takes to build a mobile app depends on many factors. [Discover and Plan](https://www.codeandeffect.com/discover-and-plan) usually runs for 6 to 8 weeks. [Develop and Launch](https://www.codeandeffect.com/develop-and-launch) is a minimum of 12 weeks, and will depend on the size of the project. You can expect most app development projects to run for a minimum of 18 weeks.
+How long it takes to build a mobile app depends on many factors. [Discover and Plan](https://www.codeandeffect.com/discover-and-plan/) usually runs for 6 to 8 weeks. [Develop and Launch](https://www.codeandeffect.com/develop-and-launch/) is a minimum of 12 weeks, and will depend on the size of the project. You can expect most app development projects to run for a minimum of 18 weeks.
 
 ## How do I get started?
 
-First, check out our page on [custom web app development](https://www.codeandeffect.com/web-app-development). Then let’s have a conversation about your mobile app development needs to make sure we’re a good fit for one another.
+First, check out our page on [custom web app development](https://www.codeandeffect.com/web-app-development/)). Then let’s have a conversation about your mobile app development needs to make sure we’re a good fit for one another.

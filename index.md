@@ -3,6 +3,9 @@ layout: home
 title: 'Edmonton Web Application Design and Development'
 description: We are Edmonton-based software consultants. We use Ruby on Rails to design and develop web and mobile applications.
 jumbotron_text: 'We use Ruby on Rails to design and develop web mobile apps.'
+redirect_from:
+  - /space/
+  - /space
 
 services:
   - service_title: Web App Development
