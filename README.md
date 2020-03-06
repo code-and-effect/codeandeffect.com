@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/20a9b92a-ac5f-459e-8ec6-1be39f13f3a2/deploy-status)](https://app.netlify.com/sites/codeandeffect/deploys)
+
 # codeandeffect.com
 
 This the public website for Code and Effect. It used [effective_jekyll](https://github.com/code-and-effect/effective_jekyll) as the starter template.

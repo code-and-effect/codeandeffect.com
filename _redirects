@@ -1,0 +1,6 @@
+# Netlify redirects docs - https://docs.netlify.com/routing/redirects/
+# Note we don't use this other than the subdomain redirect.
+# Page 301 redirects should be handled by jekyll-redirect-from
+
+# Redirect default Netlify subdomain to primary domain
+https://codeandeffect.netlify.com/* https://www.codeandeffect.com/:splat 301!
