@@ -18,12 +18,12 @@ Develop and Launch is a structured development and communication process for bui
 We have three types of customers that benefit from Develop and Launch:
 
 1. Organizations that have an existing software system that isn’t meeting their needs.
-2. Organizations that have looked into the available solutions, often through [Research and Recommend](https://codeandeffect.com/research-and-recommend/), but can’t find one that meets their needs.
+2. Organizations that have looked into the available solutions, often through [Research and Recommend](https://www.codeandeffect.com/research-and-recommend/), but can’t find one that meets their needs.
 3. Organizations that have a new business/software idea that they need a development partner to build.
 
 ## How does Develop and Launch work?
 
-We agree on the scope, fixed cost, and schedule through [Discover and Plan](https://codeandeffect.com/discover-and-plan/). We strongly recommend you only use 80% of your actual budget, leaving 20% aside for unexpected work and as cost savings on low-value features that are removed from scope. Our process, tools, and expertise will guide you on just how to make confident decisions on these things.
+We agree on the scope, fixed cost, and schedule through [Discover and Plan](https://www.codeandeffect.com/discover-and-plan/). We strongly recommend you only use 80% of your actual budget, leaving 20% aside for unexpected work and as cost savings on low-value features that are removed from scope. Our process, tools, and expertise will guide you on just how to make confident decisions on these things.
 
 At the same time every week, we meet or have a phone call for 20 to 40 minutes to provide an update on the status of the project and make decisions.
 
@@ -67,7 +67,7 @@ A great place to learn more is [The Rails Doctrine](http://rubyonrails.org/doctr
 
 Starting at $35,000.
 
-The scope and cost is determined collaboratively through [Discover and Plan](https://codeandeffect.com/discover-and-plan/). We recommend the total cost is no more than 80% of your actual budget.
+The scope and cost is determined collaboratively through [Discover and Plan](https://www.codeandeffect.com/discover-and-plan/). We recommend the total cost is no more than 80% of your actual budget.
 
 ## What is the minimum timeline for Develop and Launch?
 
@@ -75,4 +75,4 @@ The scope and cost is determined collaboratively through [Discover and Plan](htt
 
 ## What ongoing costs are there?
 
-We strongly recommend [Support and Improve](https://codeandeffect.com/support-and-improve) for all of our web applications. In addition, you can expect $50-$100/mo in hosting costs, billed directly to you through our recommended cloud host. We do not resell hosting, domains, or other related services.
+We strongly recommend [Support and Improve](https://www.codeandeffect.com/support-and-improve) for all of our web applications. In addition, you can expect $50-$100/mo in hosting costs, billed directly to you through our recommended cloud host. We do not resell hosting, domains, or other related services.

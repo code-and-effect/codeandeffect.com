@@ -13,7 +13,7 @@ We write custom software. Customers come to us when they can’t find an off-the
 
 Rather than specializing in particular industries, we serve any small or medium-sized business that has unique processes requiring unique software. Some examples include custom e-commerce, mobile development, association management software, and customer management systems.
 
-For specifics on our range of services, [start here](https://codeandeffect.com/consulting/).
+For specifics on our range of services, [start here](https://www.codeandeffect.com/consulting/).
 
 ## Why do you do that kind of work?
 
@@ -23,7 +23,7 @@ It brings us joy to help people work through their business problems in a struct
 
 We have been at this since 2007. For the first 10 years of our company’s existence, we were known as AgileStyle, and we earned a reputation for doing professional, reliable work. We rebranded to Code and Effect in 2017. Our clients tell us we provide stress-free service, and they feel taken care of.
 
-A [number of organizations](https://codeandeffect.com/speaking/) have invited us to share our insights over the years, and we take that as an indication that others see value in what we’ve learned.
+A [number of organizations](https://www.codeandeffect.com/speaking/) have invited us to share our insights over the years, and we take that as an indication that others see value in what we’ve learned.
 
 We check in with our customers all of the time and have earned an average [Net Promoter Score](https://en.wikipedia.org/wiki/Net_Promoter) of 9.5 out of 10 since 2015. On average, our customers have been with us for 5.5 years. They trust us not to up-sell them; they know we will recommend the best solution, not necessarily the most expensive one.
 

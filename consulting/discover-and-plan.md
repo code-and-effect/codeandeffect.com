@@ -37,7 +37,7 @@ Discover and Plan breaks down into three phases:
 2. **Prototype**. We create a clickable, browser-based prototype that allows you to see and interact with the requirements. This prototype looks and acts like real software, only all the data and pages are faked. Expect to go through multiple revisions as we narrow down to the correct vision for each feature.
 3. **Collaborative feature spreadsheet**. Because we have a prototype showing exactly what a feature "is", we can quote a price for it. With these prices, we sit down together and build the final scope of the project by prioritizing each individual feature based on need, cost, and risk and determining what fits inside the budget. "_That isn't worth $400, remove it from scope_" and "_what are the lower risk alternatives?_" are actual phrases you will say!
 
-When the feature spreadsheet has been prioritized you will receive a [Develop and Launch](https://codeandeffect.com/develop-and-launch/) quote to complete the project. This quote is based on _what we agree you need to meet your goals_, nothing more or less. You also own the prototype and all related documentation created during Discover and Plan.
+When the feature spreadsheet has been prioritized you will receive a [Develop and Launch](https://www.codeandeffect.com/develop-and-launch/) quote to complete the project. This quote is based on _what we agree you need to meet your goals_, nothing more or less. You also own the prototype and all related documentation created during Discover and Plan.
 
 ## I already have completed the upfront planning, can you quote based on that?
 
@@ -50,14 +50,14 @@ No. There are a few reasons why we insist on Discover and Plan before we are abl
 
 ## Is there a long term commitment after Discover and Plan?
 
-No, you are not locked into a contract forcing you to proceed with [Develop and Launch](https://codeandeffect.com/develop-and-launch/) after Discover and Plan. You'll have a quote to make a decision on, but there are a number of very reasonable reasons why you may decide to not continue. Our experience is you will feel extremely confident in moving forward with Develop and Launch.
+No, you are not locked into a contract forcing you to proceed with [Develop and Launch](https://www.codeandeffect.com/develop-and-launch/) after Discover and Plan. You'll have a quote to make a decision on, but there are a number of very reasonable reasons why you may decide to not continue. Our experience is you will feel extremely confident in moving forward with Develop and Launch.
 
 ## What deliverables do I get at the end of Discover and Plan?
 
 * A clear understanding of the total cost and timeline to complete your project
 * A functioning, clickable prototype
 * A feature spreadsheet of prioritized and priced out functionality
-* A quote for [Develop and Launch](https://codeandeffect.com/develop-and-launch/)
+* A quote for [Develop and Launch](https://www.codeandeffect.com/develop-and-launch/)
 * A productive, strong working relationship with Code and Effect
 
 ## How much does Discover and Plan cost?

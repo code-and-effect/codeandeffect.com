@@ -22,7 +22,7 @@ We develop business apps that replace paper-based forms, messy excel spreadsheet
 
 ## What kind of ecommerce websites do you develop?
 
-We develop custom ecommerce websites when a vendor platform (e.g. Shopify or WooCommerce) can’t meet your business needs. Check out our page on [custom ecommerce development](https://codeandeffect.com/ecommerce-development) for more details.
+We develop custom ecommerce websites when a vendor platform (e.g. Shopify or WooCommerce) can’t meet your business needs. Check out our page on [custom ecommerce development](https://www.codeandeffect.com/ecommerce-development) for more details.
 
 ## What kind of member portals do you develop?
 
@@ -38,23 +38,23 @@ It’s the same with web app development: What problem are you trying to solve? 
 
 But we have a recommended minimum budget of $50,000, split into two phases:
 
-[Discover and Plan](https://codeandeffect.com/discover-and-plan) is our process to answer all the unknowns. The standard Discover and Plan starts at $15,000. It’s our tried-and-true way to get the information we need to get a clear blueprint to develop your app and provide you with an accurate estimate.
+[Discover and Plan](https://www.codeandeffect.com/discover-and-plan) is our process to answer all the unknowns. The standard Discover and Plan starts at $15,000. It’s our tried-and-true way to get the information we need to get a clear blueprint to develop your app and provide you with an accurate estimate.
 
-[Develop and Launch](https://codeandeffect.com/develop-and-launch), where we build out the web app we planned together, starts at $35,000.
+[Develop and Launch](https://www.codeandeffect.com/develop-and-launch), where we build out the web app we planned together, starts at $35,000.
 
 ## How long does it take to develop a web app?
 
-Similar to asking how much does app development cost, how long it takes to develop an app depends on many factors. [Discover and Plan](https://codeandeffect.com/discover-and-plan) usually runs for 6 to 8 weeks. [Develop and Launch](https://codeandeffect.com/develop-and-launch) is a minimum of 12 weeks, and will depend on the size of the project. You can expect most app development projects to run for a minimum of 18 weeks.
+Similar to asking how much does app development cost, how long it takes to develop an app depends on many factors. [Discover and Plan](https://www.codeandeffect.com/discover-and-plan) usually runs for 6 to 8 weeks. [Develop and Launch](https://www.codeandeffect.com/develop-and-launch) is a minimum of 12 weeks, and will depend on the size of the project. You can expect most app development projects to run for a minimum of 18 weeks.
 
 ## Are there ongoing costs after my web app is launched?
 
 Yes, but not from us. We will set you up as the billing contact for your hosting and third-party integrations. The typical minimum cost for these services is $50/month. Code and Effect does not charge you a fixed retainer or monthly cost for support--you’ll only receive an invoice if you’ve requested and approved work.
 
-We optionally offer a more complete support package via [Support and Improve](https://codeandeffect.com/support-and-improve). Historically we see new projects invest an additional 20% of their original budget post-launch.
+We optionally offer a more complete support package via [Support and Improve](https://www.codeandeffect.com/support-and-improve). Historically we see new projects invest an additional 20% of their original budget post-launch.
 
 ## What is your process?
 
-We have a set process: start with [Discover and Plan](https://codeandeffect.com/discover-and-plan) to understand your needs and scope the work, implement with [Develop and Launch](https://codeandeffect.com/develop-and-launch), and then provide long-term sustainability with [Support and Improve](https://codeandeffect.com/support-and-improve).
+We have a set process: start with [Discover and Plan](https://www.codeandeffect.com/discover-and-plan) to understand your needs and scope the work, implement with [Develop and Launch](https://www.codeandeffect.com/develop-and-launch), and then provide long-term sustainability with [Support and Improve](https://www.codeandeffect.com/support-and-improve).
 
 ## How do you communicate during a project?
 
@@ -65,12 +65,12 @@ We use structured meetings! All projects have a weekly or bi-weekly meeting sche
 We work with customers across a variety of industries and business types. Instead of a specific niche, we usually work with customers with one of these 3 problems:
 
 1. They have existing software that isn’t meeting their needs;
-2. They have looked into the available vendor solutions, often through [Research and Recommend](https://codeandeffect.com/research-and-recommend/), but can’t find one that meets their needs; or,
+2. They have looked into the available vendor solutions, often through [Research and Recommend](https://www.codeandeffect.com/research-and-recommend/), but can’t find one that meets their needs; or,
 3. They have a new business idea that they need a partner to develop because they don’t have the expertise in-house.
 
 ## What technology do you develop your web apps in?
 
-We develop all of our web applications using Ruby on Rails. It’s the best technology available for creating business-centric web applications, and we have [many tools](https://codeandeffect.com/effective-gems) built out already that we can leverage for new projects.
+We develop all of our web applications using Ruby on Rails. It’s the best technology available for creating business-centric web applications, and we have [many tools](https://www.codeandeffect.com/effective-gems) built out already that we can leverage for new projects.
 
 ## Do you integrate with other software?
 

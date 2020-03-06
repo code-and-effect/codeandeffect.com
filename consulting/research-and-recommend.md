@@ -11,7 +11,7 @@ description: Research and Recommend is a service that helps you find an existing
 ---
 ## What is Research and Recommend?
 
-Research and Recommend is a service that finds you the software as a service (SasS) vendor that meets your requirements. It is an alternative to [Develop and Launch](https://codeandeffect.com/develop-and-launch/).
+Research and Recommend is a service that finds you the software as a service (SasS) vendor that meets your requirements. It is an alternative to [Develop and Launch](https://www.codeandeffect.com/develop-and-launch/).
 
 ## Who should use Research and Recommend?
 
@@ -19,7 +19,7 @@ Existing organizations who need to implement a solution for common processes tha
 
 ## What if I don't know if what I need is "common"?
 
-No problem! We can tell you (for free) but you need to take the leap and [reach out to us](https://codeandeffect.com/contact/) first. If you phrase your needs as _"I need software that solves (my problem)"_ then it will be a quick and easy conversation.
+No problem! We can tell you (for free) but you need to take the leap and [reach out to us](https://www.codeandeffect.com/contact/) first. If you phrase your needs as _"I need software that solves (my problem)"_ then it will be a quick and easy conversation.
 
 ## How does Research and Recommend work?
 
