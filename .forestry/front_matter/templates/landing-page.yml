@@ -5,18 +5,31 @@ fields:
 - type: text
   name: layout
   label: layout
+  config:
+    required: true
+  default: landing
 - type: text
   name: title
   label: title
+  config:
+    required: true
 - type: text
   name: permalink
   label: permalink
+  config:
+    required: true
 - type: textarea
   name: subtext
   label: subtext
+  config:
+    required: true
 - type: text
   name: description
   label: description
+  config:
+    required: true
+    min: '1'
+    max: '150'
 - type: boolean
   name: sitemap
   label: sitemap
