@@ -2,14 +2,14 @@
 layout: default
 ---
 
-<div class="container">
-
-<header class="page-header page-home">
-  <h1 class="page-title">{{ page.title | escape }}</h1>
-  <p class="page-title-subtext">{{ page.jumbotron_text }}</p>
+<header class="jumbotron jumbotron-fluid jumbotron-home text-white">
+  <div class="container">
+    <h1 class="display-1">{{ page.title | escape }}</h1>
+    <p class="lead">{{ page.jumbotron_text }}</p>
+  </div>
 </header>
 
-
+<div class="container">
   <h2 class="page-subtitle">Our Services</h2>
 
   <div class="row mb-5">
@@ -27,7 +27,7 @@ layout: default
 
   <div class="callout callout-light mb-5">
     <blockquote class="blockquote mb-0">
-      <p class="mb-0 text-left">
+      <p class="text-left">
         &ldquo;We’re different from other firms because of our repeatable process, our structured communication, and the values we live and work by.&rdquo;
       </p>
       <footer class="blockquote-footer text-right">Ashley Janssen, Co-founder</footer>
@@ -44,6 +44,8 @@ layout: default
     {% endfor %}
   </div>
 
+  <img src="/assets/images/ce-2017-33.jpg" alt="Code and Effect Office" class="img-fluid my-3">
+
   <h2 class="page-subtitle">Example Projects We Work On</h2>
   <div class="row mb-5">
     {% for project in page.projects %}
@@ -53,6 +55,8 @@ layout: default
       </div>
     {% endfor %}
   </div>
+
+  <img src="/assets/images/ce-2017-20.jpg" alt="Code and Effect Office" class="img-fluid my-3">
 
   <h2 class="page-subtitle">Example Organizations We Work With</h2>
   <div class="row">

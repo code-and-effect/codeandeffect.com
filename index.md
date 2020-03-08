@@ -2,7 +2,7 @@
 layout: home
 title: 'Edmonton Web Application Design and Development'
 description: We are Edmonton-based software consultants. We use Ruby on Rails to design and develop web and mobile applications.
-jumbotron_text: 'Code and Effect is a software consultancy that plans, implements, and maintains custom software for businesses of all sizes and industries. We achieve this using our predictable process and the Ruby on Rails web application framework.'
+jumbotron_text: 'We are a software consultancy that plans, implements, and maintains custom software for businesses of all sizes and industries. We achieve this using our predictable process and the Ruby on Rails web application framework.'
 redirect_from:
   - /space/
   - /space

@@ -1,15 +1,32 @@
 .jumbotron {
-  padding: 6rem 2rem;
+  padding: 4rem 2rem;
   text-align: center;
   margin-bottom: 3rem;
-  background: #000;
+  line-height: 1.1;
+}
+
+.jumbotron-home {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.7) 0%,rgba(0,0,0,0.7) 100%), url('/assets/images/ce-2017-19.jpg');
+  background-attachment: static;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .display-1 {
   line-height: 1;
   margin-bottom: 1rem;
+
+
+  @include media-breakpoint-down(sm) {
+    font-size: 2.5rem;
+  }
 }
 
 .lead {
-  margin-bottom: 0;
+  margin: 0 auto;
+  max-width: 800px;
 }
+
