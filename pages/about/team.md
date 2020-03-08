@@ -28,16 +28,15 @@ people:
 
   - name: Matthew Riemer
     title: Co-founder
-    github: https://github.com/Matt-Riemer
+    github: https://github.com/matt-riemer
     image: matt-riemer.jpg
     description: |
       Matt is Code and Effect’s lead developer. He specializes in quickly and effectively deploying software solutions that alleviate the pain our customers are feeling. Matt’s superpower is execution and focus: he knows the ins and outs of development like few others, and combines that with his entrepreneurial experience to deliver exceptional results.
 
   - name: Sam Ibach
     title: Front-end Designer
-    github: https://github.com/danajanssen
+    github: https://github.com/sgibachm
     linkedin: https://www.linkedin.com/in/sam-ibach
-    twitter: https://twitter.com/Dana_Janssen
     image: sam-ibach.jpg
     description: |
       Sam is Code and Effect’s front-end designer and developer. He specializes in making pages, data, and forms that are functional, organized, and presented in an aesthetically pleasing way. His superpower is condensing abstract design goals into an actionable, unified vision. Sam combines his background in print and digital design with development skills for effective front-end solutions.
