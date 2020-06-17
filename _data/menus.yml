@@ -16,10 +16,6 @@ navbar:
     title: Products
     identifier: products
 
-  - url: /contact/
-    title: Contact
-    identifier: contact
-
 about:
   - url: /team/
     title: Our Team

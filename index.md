@@ -18,7 +18,7 @@ services:
     service_link: /custom-solutions/member-portals/
     service_icon: "/assets/images/icons/Solutions - Member portals - website.svg"
 
-  - service_title: "Applications to Join or Reclassify"
+  - service_title: "Applications to Join"
     service_description: "Streamline complex applicant workflows, including: submissions, references, payments, committee reviews, revisions, and approvals."
     service_link: /custom-solutions/applications-join-reclassify/
     service_icon: "/assets/images/icons/Solutions - Applications to join or reclassify - user-add.svg"
@@ -28,7 +28,7 @@ services:
     service_link: /custom-solutions/dues-renewals/
     service_icon: "/assets/images/icons/Solutions - Dues and renewals - sand-clock.svg"
 
-  - service_title: "Continuing Professional Development"
+  - service_title: "Professional Development"
     service_description: "Web-based tools to track, submit, roll forward, and audit all required annual continuing education."
     service_link: /custom-solutions/continuing-education-professional-development/
     service_icon: "/assets/images/icons/Solutions - Continuing education - readme.svg"

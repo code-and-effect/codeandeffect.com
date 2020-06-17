@@ -1,10 +1,10 @@
 {%- assign default_paths = site.pages | map: "path" -%}
 {%- assign page_paths = site.header_pages | default: default_paths -%}
 
-<nav class="navbar navbar-expand-md navbar-light bg-primary py-4">
+<nav class="navbar navbar-expand-md navbar-light mt-5 py-0">
   <div class="container">
     <a class="navbar-brand" href="{{ "/" | relative_url }}">
-      <img src="/assets/images/code-and-effect-logo.png" width="194" height="40" alt="Code and Effect Logo">
+      {% svg "/assets/images/code-and-effect-logo.svg" width="195" height="40" alt="Code and Effect Logo" %}
     </a>
 
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
@@ -12,7 +12,7 @@
     </button>
 
     <div class="collapse navbar-collapse" id="navbarsExampleDefault">
-      <ul class="navbar-nav ml-auto">
+      <ul class="navbar-nav">
         {% for item in site.menus.navbar %}
           {% if item.children %}
             <li class="nav-item dropdown">
@@ -34,6 +34,11 @@
         {% endfor %}
       </ul>
     </div>
+
+    <span class="navbar-text">
+      <a href='/contact'>Get Started</a>
+    </span>
+
   </div>
 </nav>
 

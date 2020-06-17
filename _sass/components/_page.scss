@@ -35,11 +35,11 @@
   margin-bottom: 1rem;
 }
 
-.metric svg { color: #fafafa; }
+// .metric svg { color: #fafafa; }
 
-.value svg { color: $primary; }
+// .value svg { color: $primary; }
 
 
-.service svg { color: $primary; }
-.service a { color: $body-color; }
-.service a:hover { color: $primary; }
+// .service svg { color: $primary; }
+.service h3 a { color: $body-color; text-decoration: none; }
+.service a:hover { color: $primary; text-decoration: underline; }

@@ -1,10 +1,8 @@
 body {
-  background: $primary;
+  background: #fff;
 }
 
 .main {
-  // background: #fafafa;
-  background: #fdfdfd;
   padding-bottom: 3rem;
 }
 
@@ -14,5 +12,5 @@ h2, .h2 {
 
 h3, .h3 {
   font-family: $font-family-sans-serif;
-  font-weight: 600;
+  font-weight: 400;
 }
