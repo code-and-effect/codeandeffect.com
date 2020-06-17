@@ -1,60 +1,54 @@
 ---
 layout: home
-title: 'Edmonton Web Application Design and Development'
-description: We are Edmonton-based software consultants. We use Ruby on Rails to design and develop web and mobile applications.
-jumbotron_text: 'We are a software consultancy that plans, implements, and maintains custom software for businesses of all sizes and industries. We achieve this using our predictable process and the Ruby on Rails web application framework.'
+title: 'Member Databases and Portals for Associations'
+description: 'We are Edmonton-based software consultants that develop cloud-based software that fits the rules, bylaws, and regulatory requirements of associations.'
+jumbotron_text: ''
 redirect_from:
   - /space/
   - /space
 
 services:
-  - service_title: Web App Development
-    service_description:
-      We do an in-depth review of your existing processes, clarify your pain points,
-      and build you a web app that drives results.
-    service_link: /web-app-development/
-  - service_title: Ecommerce Development
-    service_description:
-      When existing ecommerce platforms are not quite good enough, we map out your unique purchasing and checkout processes.
-      Then we build a flexible, easy-to-use system that both you and your customers will love.
-    service_link: /ecommerce-development/
-  - service_title: Mobile App Development
-    service_description:
-      Android or iOS? Web app or native mobile app? Let us help you figure out the best way to achieve your goals and get started!
-    service_link: /mobile-app-development/
-  - service_title: Business Coaching
-    service_description:
-      We have run hundreds of software projects and have experienced many of the ups and downs of running a business.
-      We will help you manage a software project, build a technical team, improve your operations, or grow as a leader.
-    service_link: /coach-and-grow/
+  - service_title: "Member Databases"
+    service_description: "Custom member relationship management databases to track anything, including: demographics, activity or history, applications, discipline, and continuing education."
+    service_link: /custom-solutions/member-databases/
+    service_icon: "/assets/images/icons/Solutions - Member databases - database.svg"
 
-values:
-  - value_title: Relationships First
-    value_description:
-      "All our success is traceable to the relationships we've started and cultivated. Reputation, trust, reliability: it doesn't matter what label we use to measure them. They always come first."
-  - value_title: Give a Damn
-    value_description:
-      You either do or you don’t, and we surround ourselves with people that do. It means doing what we say we will, going that extra mile, or pushing back hard when that extra mile is a mistake.
-  - value_title: Do the Right Amount
-    value_description:
-      It's easy to over-engineer or not consider the impact on the future. We always strive to do _just the right_ amount of thinking and execution. Then we reflect on the result and do it again.
+  - service_title: "Member Portals"
+    service_description: "Empower members to sign in and manage their information, submit payments, request changes to their status, and download secure files."
+    service_link: /custom-solutions/member-portals/
+    service_icon: "/assets/images/icons/Solutions - Member portals - website.svg"
+
+  - service_title: "Applications to Join or Reclassify"
+    service_description: "Streamline complex applicant workflows, including: submissions, references, payments, committee reviews, revisions, and approvals."
+    service_link: /custom-solutions/applications-join-reclassify/
+    service_icon: "/assets/images/icons/Solutions - Applications to join or reclassify - user-add.svg"
+
+  - service_title: "Dues and Renewals"
+    service_description: "Calculate and charge the correct dues or fees, including for complex statuses and changes. Full financial reporting."
+    service_link: /custom-solutions/dues-renewals/
+    service_icon: "/assets/images/icons/Solutions - Dues and renewals - sand-clock.svg"
+
+  - service_title: "Continuing Professional Development"
+    service_description: "Web-based tools to track, submit, roll forward, and audit all required annual continuing education."
+    service_link: /custom-solutions/continuing-education-professional-development/
+    service_icon: "/assets/images/icons/Solutions - Continuing education - readme.svg"
+
+  - service_title: "Association Websites"
+    service_description: "Communicate with members and the public with a professional, easy-to-update website."
+    service_link: /custom-solutions/association-websites/
+    service_icon: "/assets/images/icons/Solutions - Association Websites - screen.svg"
+
 
 projects:
-  - project_title: Business Software
-    project_description:
-      Instead of shoehorning your business into a tool that doesn’t quite do what you want, we work with you to build <em>exactly what you need</em>.
-      This often means we help transition away from paper-based systems, messy excel spreadsheets, and legacy software.
-      Or, together we will build your vision from the ground up!
-  - project_title: Custom Ecommerce
-    project_description:
-      There are complex purchasing and checkout processes with many steps that other ecommerce platforms are not able to support.
-      That’s where we come in! We map out your ecommerce processes to ensure your customers enjoy a user-friendly experience
-      while giving you a flexible and easy-to-use backend to keep your products up-to-date.
-  - project_title: Member Portals
-    project_description:
-      Professional and regulatory associations each have unique bylaws, accreditation, application management, and professional development.
-      We’ve seen them all. The member portals that we build help your membership maintain good standing, simplifies your processes,
-      and provide tools to effectively manage your membership.
+  - project_title: "Regulated Associations"
+    project_description: "You have a mandated authority to credential and audit your profession or industry. We help you educate, implement, and enforce this responsibility."
+  - project_title: "Professional Associations"
+    project_description: "You advocate for key issues on behalf of your profession. We help you engage the public and streamline your membership processes."
+  - project_title: "Trade Associations"
+    project_description: "You align an industry towards the goals of your membership. We help you coordinate the voice of your membership."
+  - project_title: "Member Organizations"
+    project_description: "You provide services, benefits, and information to benefit your members. We help you focus on your purpose instead of your administration."
+
 
 organizations:
   - organization_title: A small business

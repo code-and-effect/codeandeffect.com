@@ -33,13 +33,19 @@ people:
     description: |
       Matt is Code and Effect’s lead developer. He specializes in quickly and effectively deploying software solutions that alleviate the pain our customers are feeling. Matt’s superpower is execution and focus: he knows the ins and outs of development like few others, and combines that with his entrepreneurial experience to deliver exceptional results.
 
-  - name: Sam Ibach
-    title: Front-end Designer
-    github: https://github.com/sgibachm
-    linkedin: https://www.linkedin.com/in/sam-ibach
-    image: sam-ibach.jpg
-    description: |
-      Sam is Code and Effect’s front-end designer and developer. He specializes in making pages, data, and forms that are functional, organized, and presented in an aesthetically pleasing way. His superpower is condensing abstract design goals into an actionable, unified vision. Sam combines his background in print and digital design with development skills for effective front-end solutions.
----
+values:
+  - value_title: "Relationships First"
+    value_description: "All of our success is traceable to the relationships we've cultivated with our customers and peers. Reputation, trust, reliability: it doesn't matter what label we use to measure a relationship, it always comes first."
+    value_icon: "/assets/images/icons/Values - Relationships first - hello.svg"
 
+  - value_title: "Give a Damn"
+    value_description: "You either do or you don’t, and we surround ourselves with people that do. It means doing what we say we will, going that extra mile, and pushing back hard when we see a risk."
+    value_icon: "/assets/images/icons/Values - Give a damn - heart.svg"
 
+  - value_title: "Do the Right Amount"
+    value_description: "It's easy to over-engineer, build too much, and not consider the future. We instead strive to do _just the right_ amount of thinking and execution. Then we observe the result and adapt."
+    value_icon: "/assets/images/icons/Values - Do the right amount - timelapse.svg"
+
+  - value_title: "Habits Drive Results"
+    value_description: "We think the best way to be successful is to consistently work at a goal, and the best way to be consistent is to develop a habit. All of our processes are based on consistent habits."
+    value_icon: "/assets/images/icons/Values - Habits drive results - repeat.svg"

@@ -5,26 +5,51 @@ layout: default
 <header class="jumbotron jumbotron-fluid jumbotron-home text-white">
   <div class="container">
     <h1 class="display-1">{{ page.title | escape }}</h1>
-    <p class="lead">{{ page.jumbotron_text }}</p>
+    <p class="lead mb-5">We develop cloud-based software that fit your rules, bylaws, and regulatory requirements. We speak your language, have a deep knowledge of association operations, and help you implement a long-term technology plan to serve your membership.</p>
+    <p class="lead">Learn <a href='#'>what we do</a>, <a href='#'>who we do it for</a>, and <a href='#'>how we do it</a>.</p>
   </div>
 </header>
 
 <div class="container">
-  <h2 class="page-subtitle">Our Services</h2>
-
   <div class="row mb-5">
     {% for service in page.services %}
       <div class="service col-sm-6">
-        <h3>
-          <a href="{{ service.service_link }}">
-            {{ service.service_title }}
-          </a>
-        </h3>
+        {% svg "{{service.service_icon}}" width=32 class="mb-2" %}
+        <h3><a href="{{ service.service_link }}">{{ service.service_title }}</a></h3>
         <p>{{ service.service_description }}</p>
       </div>
     {% endfor %}
   </div>
+</div>
 
+<div class="callout callout-light my-5 pt-1 pb-1">
+  <div class="container">
+    <div class="row my-4">
+      <div class="metric col-sm my-3">
+        {% svg "/assets/images/icons/Numbers - Members and customers - profile.svg" width=48 class="mb-2" %}
+        <h3>75,000<br /> members served</h3>
+      </div>
+
+      <div class="metric col-sm my-3">
+        {% svg "/assets/images/icons/Numbers - Processed member applications - clipboard.svg" width=48 class="mb-2" %}
+        <h3>20,000<br /> applications to join</h3>
+      </div>
+
+      <div class="metric col-sm my-3">
+        {% svg "/assets/images/icons/Numbers - Online orders - credit-card.svg" width=48 class="mb-2" %}
+        <h3>140,000<br /> online orders</h3>
+      </div>
+
+      <div class="metric col-sm my-3">
+        {% svg "/assets/images/icons/Numbers - Total transaction dollars - dollar.svg" width=48 class="mb-2" %}
+        <h3>18 million<br /> dollars transacted</h3>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!--
   <div class="callout callout-light mb-5">
     <blockquote class="blockquote mb-0">
       <p class="text-left">
@@ -33,40 +58,23 @@ layout: default
       <footer class="blockquote-footer text-right">Ashley Janssen, Co-founder</footer>
     </blockquote>
   </div>
+-->
 
-  <h2 class="page-subtitle">Our Core Values</h2>
-  <div class="row mb-5">
-    {% for value in page.values %}
-      <div class="value col-sm">
-        <h3>{{ value.value_title }}</h3>
-        <p>{{ value.value_description }}</p>
-      </div>
-    {% endfor %}
-  </div>
+<div class="container">
 
-  <img src="/assets/images/ce-2017-33.jpg" alt="Code and Effect Office" class="img-fluid my-3">
+  <!-- <img src="/assets/images/ce-2017-33.jpg" alt="Code and Effect Office" class="img-fluid my-3"> -->
 
-  <h2 class="page-subtitle">Example Projects We Work On</h2>
-  <div class="row mb-5">
+  <h2 class="page-subtitle">Customers We Serve</h2>
+  <p class="mb-5">A typical organization we work with is: self-managed, with a non-working board, complemented by working subcommittees (e.g. registration and discipline), with a minimum of one full-time employee (e.g. an executive director). These associations are usually one of the following:</p>
+  <div class="row">
     {% for project in page.projects %}
-      <div class="value col-sm">
+      <div class="customer col-sm-6">
         <h3>{{ project.project_title }}</h3>
         <p>{{ project.project_description }}</p>
       </div>
     {% endfor %}
   </div>
 
-  <img src="/assets/images/ce-2017-20.jpg" alt="Code and Effect Office" class="img-fluid my-3">
+  <!-- <img src="/assets/images/ce-2017-20.jpg" alt="Code and Effect Office" class="img-fluid my-3"> -->
 
-  <h2 class="page-subtitle">Example Organizations We Work With</h2>
-  <div class="row">
-    {% for organization in page.organizations %}
-      <div class="value col-sm-6">
-        <p>
-          <strong>{{ organization.organization_title }}</strong>
-          {{ organization.organization_description }}
-        </p>
-      </div>
-    {% endfor %}
-  </div>
 </div>

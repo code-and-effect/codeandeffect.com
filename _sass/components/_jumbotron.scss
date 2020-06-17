@@ -1,23 +1,26 @@
 .jumbotron {
   padding: 4rem 2rem;
-  text-align: center;
+  text-align: left;
   margin-bottom: 3rem;
-  line-height: 1.1;
 }
+
+.jumbotron a { text-decoration: underline; }
 
 .jumbotron-home {
   padding-top: 4rem;
   padding-bottom: 4rem;
-  background-image: linear-gradient(to bottom, rgba(0,0,0,0.7) 0%,rgba(0,0,0,0.7) 100%), url('/assets/images/ce-2017-19.jpg');
-  background-attachment: static;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background: $gray-900;
+
+  // background-image: linear-gradient(to bottom, rgba(0,0,0,0.7) 0%,rgba(0,0,0,0.7) 100%), url('/assets/images/ce-2017-19.jpg');
+  // background-attachment: static;
+  // background-position: center;
+  // background-repeat: no-repeat;
+  // background-size: cover;
 }
 
 .display-1 {
-  line-height: 1;
   margin-bottom: 1rem;
+  font-weight: 500;
 
 
   @include media-breakpoint-down(sm) {
