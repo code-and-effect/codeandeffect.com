@@ -35,12 +35,19 @@
   margin-bottom: 1rem;
 }
 
-// .metric svg { color: #fafafa; }
-
-// .value svg { color: $primary; }
-
-
-// .service svg { color: $primary; }
 .service h3 a { color: $body-color; text-decoration: none; }
 .service a:hover { color: $primary; text-decoration: underline; }
 
+
+.metrics { text-align: center; }
+.metrics .border { border-width: 2px !important; }
+.metrics span { display: block; font-weight: 300; }
+
+hr {
+  border: none;
+  background: #f7f7f7;
+  max-width: 900px;
+  margin: 0 auto 3rem auto;
+  height: 5px;
+  border-radius: 5px;
+}

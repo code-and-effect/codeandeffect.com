@@ -1,40 +1,70 @@
 ---
 navbar:
-  - url: '#'
-    title: About
-    identifier: about
 
   - url: '#'
-    title: Services
-    identifier: services
+    title: Solutions
+    identifier: solutions
 
   - url: '#'
-    title: Consulting
+    title: Customers
+    identifier: customers
+
+  - url: '#'
+    title: Process
     identifier: consulting
 
   - url: '#'
     title: Products
     identifier: products
 
+  - url: '/about/'
+    title: About
+    identifier: about
+
 about:
   - url: /team/
     title: Our Team
 
-  - url: /story/
-    title: Our Story
-
   - url: /speaking/
     title: Speaking
 
-services:
-  - url: /ecommerce-development/
-    title: E-commerce Development
+  - url: /tadum/
+    title: 'Tadum'
 
-  - url: /web-app-development/
-    title: Web App Development
+  - url: /effective-gems/
+    title: Effective Gems
 
-  - url: /mobile-app-development/
-    title: Mobile App Development
+solutions:
+  - url: /member-databases/
+    title: Member Databases
+
+  - url: /member-portals/
+    title: Member Portals
+
+  - url: /applications-to-join/
+    title: Applications to Join
+
+  - url: /dues-and-renewals/
+    title: Dues and Renewals
+
+  - url: /professiona-development/
+    title: Professional Development
+
+  - url: /association-websites/
+    title: Association Websites
+
+customers:
+  - url: /regulated-associations/
+    title: Regulated Associations
+
+  - url: /professional-associations/
+    title: Professional Associations
+
+  - url: /trade-associations/
+    title: Trade Associations
+
+  - url: /member-organizations/
+    title: Member Organizations
 
 consulting:
   - url: /consulting/
@@ -56,10 +86,4 @@ consulting:
     title: Coach and Grow
 
 
-products:
-  - url: /tadum/
-    title: 'Tadum'
-
-  - url: /effective-gems/
-    title: Effective Gems
 ---

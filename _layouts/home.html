@@ -10,6 +10,7 @@ layout: default
   </div>
 </header>
 
+
 <div class="container">
   <div class="row">
     {% for service in page.services %}
@@ -17,85 +18,47 @@ layout: default
         {% svg "{{service.service_icon}}" width=32 class="mb-2" %}
         <h3><a href="{{ service.service_link }}">{{ service.service_title }}</a></h3>
         <p>{{ service.service_description }}</p>
-        <p><a href="#">Learn more &rarr;</a></p>
+        <p><a href="{{ service.service_link }}">Learn more &rarr;</a></p>
       </div>
     {% endfor %}
   </div>
 </div>
 
-<div class="container">
-  <h2 class="page-subtitle mb-3">Metrics about something</h2>
-  <div class="row pb-5 mb-5">
-    <div class="col-sm my-3">
-      <h2 style="font-size: 2.25rem;font-weight:600;" class="my-0">75,000</h3>
-      <h3 class="my-0" style="font-weight:300">members served</p>
-    </div>
-    <div class="col-sm my-3">
-      <h2 style="font-size: 2.25rem;font-weight:600;" class="my-0">20,000</h3>
-      <h3 class="my-0" style="font-weight:300">applications <br /> to join </p>
-    </div>
-    <div class="col-sm my-3">
-      <h2 style="font-size: 2.25rem;font-weight:600;" class="my-0">140,000</h3>
-      <h3 class="my-0" style="font-weight:300">online payments</p>
-    </div>
-    <div class="col-sm my-3">
-      <h2 style="font-size: 2.25rem;font-weight:600;" class="my-0">$18 million</h3>
-      <h3 class="my-0" style="font-weight:300">collected fees and dues</p>
-    </div>
-  </div>
-</div>
 
-<div class="container text-center">
-  <div class="row py-5 mb-5">
+<div class="container mb-5 metrics">
+  <div class="row py-5">
     <div class="col-sm my-3">
-      <div class="border border-primary p-3" style="border-width: 2px !important">
+      <div class="border border-primary p-3">
         {% svg "/assets/images/icons/Numbers - Members and customers - profile.svg" width=48 class="mb-2" %}
-        <h3>75,000<br /> <span style="font-weight:300">members served</span></h3>
+        <h3>75,000 <span>members served</span></h3>
       </div>
     </div>
     <div class="col-sm my-3">
-      <div class="border border-primary p-3" style="border-width: 2px !important">
+      <div class="border border-primary p-3">
         {% svg "/assets/images/icons/Numbers - Processed member applications - clipboard.svg" width=48 class="mb-2" %}
-        <h3>20,000<br /> <span style="font-weight:300">applications to join</span></h3>
+        <h3>20,000 <span>applications to join</span></h3>
       </div>
     </div>
     <div class="col-sm my-3">
-      <div class="border border-primary p-3" style="border-width: 2px !important">
+      <div class="border border-primary p-3">
         {% svg "/assets/images/icons/Numbers - Online orders - credit-card.svg" width=48 class="mb-2" %}
-        <h3>140,000<br /> <span style="font-weight:300">online orders processed</span></h3>
+        <h3>140,000 <span>online payments</span></h3>
       </div>
     </div>
     <div class="col-sm my-3">
-      <div class="border border-primary p-3" style="border-width: 2px !important" >
+      <div class="border border-primary p-3">
         {% svg "/assets/images/icons/Numbers - Total transaction dollars - dollar.svg" width=48 class="mb-2" %}
-        <h3>18 million<br /> <span style="font-weight:300">dollars transacted</span></h3>
+        <h3>18 million <span>collected dues</span></h3>
       </div>
     </div>
   </div>
 </div>
 
 
-<!--
-  <div class="callout callout-light mb-5">
-    <blockquote class="blockquote mb-0">
-      <p class="text-left">
-        &ldquo;We’re different from other firms because of our repeatable process, our structured communication, and the values we live and work by.&rdquo;
-      </p>
-      <footer class="blockquote-footer text-right">Ashley Janssen, Co-founder</footer>
-    </blockquote>
-  </div>
--->
-
-<div class="container mt-5">
-
-  <!-- <img src="/assets/images/ce-2017-33.jpg" alt="Code and Effect Office" class="img-fluid my-3"> -->
-
+<div class="container mb-5">
   <h2 class="page-subtitle">Organizations we work with</h2>
 
   <div class="row">
-
-    <p class="mb-5" style="display:none">A typical organization we work with is: self-managed, with a non-working board, complemented by working subcommittees (e.g. registration and discipline), with a minimum of one full-time employee (e.g. an executive director). These associations are usually one of the following:</p>
-
     {% for project in page.projects %}
       <div class="customer col-sm-6 mb-5">
         <h3>{{ project.project_title }}</h3>
@@ -106,8 +69,20 @@ layout: default
         <p><a href="#">Learn more &rarr;</a></p>
       </div>
     {% endfor %}
+  </div>
+
+  <div class="row text-center logos">
+    <div class="col-sm mb-5">
+        <img src="/assets/images/logos/logo-aspb.png" alt="ASPB Logo" class="img-fluid">
     </div>
-
-  <!-- <img src="/assets/images/ce-2017-20.jpg" alt="Code and Effect Office" class="img-fluid my-3"> -->
-
+    <div class="col-sm mb-5">
+        <img src="/assets/images/logos/logo-cab.png" alt="ASPB Logo" class="img-fluid">
+    </div>
+    <div class="col-sm mb-5">
+        <img src="/assets/images/logos/logo-aala.png" alt="ASPB Logo" class="img-fluid">
+    </div>
+    <div class="col-sm mb-5">
+        <img src="/assets/images/logos/logo-acpa.png" alt="ASPB Logo" class="img-fluid">
+    </div>
+  </div>
 </div>

@@ -3,41 +3,20 @@
 
     <nav class="container footer-nav">
       <div class="row">
-        <div class="col-sm-9">
-          <div class="row">
-            {% for item in site.menus.navbar %}
-              {% if item.children %}
-                <div class="col-sm mb-3">
-                  <h5 class="nav-title">{{ item.title }}</h5>
-                  <ul class="nav flex-column">
-                    {% for item in item.children %}
-                      <li class="nav-item">
-                        <a class="nav-link nav-link-footer" href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
-                      </li>
-                    {% endfor %}
-                  </ul>
-                </div>
-              {% endif %}
-            {% endfor %}
-          </div>
-        </div>
-
-        <div class="col-sm-3">
-          <h5 class="nav-title">Contact</h5>
-          <div class="address">
-            Code and Effect
-            <br>
-            <a href="https://g.page/codeandeffect?share">204-8540 109 Street</a>
-            <br>
-            Edmonton, Alberta T6G 1E6
-            <br>
-            <a href="tel:+17806198868">+1 780-619-8868</a>
-            <br>
-            <a href="mailto:hello@codeandeffect.com?subject=hey%20Dana!">hello@codeandeffect.com</a>
-          </div>
-          <p class="copyiright">&copy; 2007-2020 Code and Effect, Inc.</p>
-        </div>
-      </div>
+        {% for item in site.menus.navbar %}
+          {% if item.children %}
+            <div class="col-sm mb-3">
+              <h5 class="nav-title">{{ item.title }}</h5>
+              <ul class="nav flex-column">
+                {% for item in item.children %}
+                  <li class="nav-item">
+                    <a class="nav-link nav-link-footer" href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
+                  </li>
+                {% endfor %}
+              </ul>
+            </div>
+          {% endif %}
+        {% endfor %}
     </nav>
 
   </div>

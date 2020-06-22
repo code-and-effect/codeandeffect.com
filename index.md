@@ -10,44 +10,51 @@ redirect_from:
 services:
   - service_title: "Member Databases"
     service_description: "Custom member relationship management databases to track anything, including: demographics, activity or history, applications, discipline, and continuing education."
-    service_link: /custom-solutions/member-databases/
+    service_link: /member-databases/
     service_icon: "/assets/images/icons/Solutions - Member databases - database.svg"
 
   - service_title: "Member Portals"
     service_description: "Empower members to sign in and manage their information, submit payments, request changes to their status, and download secure files."
-    service_link: /custom-solutions/member-portals/
+    service_link: /member-portals/
     service_icon: "/assets/images/icons/Solutions - Member portals - website.svg"
 
   - service_title: "Applications to Join"
     service_description: "Streamline complex applicant workflows, including: submissions, references, payments, committee reviews, revisions, and approvals."
-    service_link: /custom-solutions/applications-join-reclassify/
+    service_link: /applications-to-join/
     service_icon: "/assets/images/icons/Solutions - Applications to join or reclassify - user-add.svg"
 
   - service_title: "Dues and Renewals"
     service_description: "Calculate and charge the correct dues or fees, including for complex statuses and changes. Full financial reporting."
-    service_link: /custom-solutions/dues-renewals/
+    service_link: /dues-and-renewals/
     service_icon: "/assets/images/icons/Solutions - Dues and renewals - sand-clock.svg"
 
   - service_title: "Professional Development"
     service_description: "Web-based tools to track, submit, roll forward, and audit all required annual continuing education."
-    service_link: /custom-solutions/continuing-education-professional-development/
+    service_link: /professional-development/
     service_icon: "/assets/images/icons/Solutions - Continuing education - readme.svg"
 
   - service_title: "Association Websites"
     service_description: "Communicate with members and the public with a professional, easy-to-update website."
-    service_link: /custom-solutions/association-websites/
+    service_link: /association-websites/
     service_icon: "/assets/images/icons/Solutions - Association Websites - screen.svg"
 
 
 projects:
   - project_title: "Regulated Associations"
-    project_description: "You have a mandated authority to credential and audit your profession or industry. We help you educate, implement, and enforce this responsibility."
+    project_you: "You have a mandated authority to credential and audit your profession or industry."
+    project_we: "We help you educate, implement, and enforce this responsibility."
+
   - project_title: "Professional Associations"
-    project_description: "You advocate for key issues on behalf of your profession. We help you engage the public and streamline your membership processes."
+    project_you: "You advocate for key issues on behalf of your profession."
+    project_we: "We help you engage the public and streamline your membership processes."
+
   - project_title: "Trade Associations"
-    project_description: "You align an industry towards the goals of your membership. We help you coordinate the voice of your membership."
+    project_you: "You align an industry towards the goals of your membership."
+    project_we: "We help you coordinate the voice of your membership."
+
   - project_title: "Member Organizations"
-    project_description: "You provide services, benefits, and information to benefit your members. We help you focus on your purpose instead of your administration."
+    project_you: "You provide services, benefits, and information to benefit your members."
+    project_we: "We help you focus on your purpose instead of your administration."
 
 
 organizations:
