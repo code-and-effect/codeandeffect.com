@@ -11,14 +11,14 @@ layout: default
 </header>
 
 
-<div class="container">
+<div class="container solutions">
   <div class="row">
-    {% for service in page.services %}
-      <div class="service col-sm-6 mb-5">
-        {% svg "{{service.service_icon}}" width=32 class="mb-2" %}
-        <h3><a href="{{ service.service_link }}">{{ service.service_title }}</a></h3>
-        <p>{{ service.service_description }}</p>
-        <p><a href="{{ service.service_link }}">Learn more &rarr;</a></p>
+    {% for solution in page.solutions %}
+      <div class="solution col-sm-6 mb-5">
+        {% svg "{{ solution.solution_icon }}" width=32 class="mb-2" %}
+        <h3><a href="{{ solution.solution_link }}">{{ solution.solution_title }}</a></h3>
+        <p>{{ solution.solution_description }}</p>
+        <p><a href="{{ solution.solution_link }}">Learn more &rarr;</a></p>
       </div>
     {% endfor %}
   </div>
@@ -59,30 +59,22 @@ layout: default
   <h2 class="page-subtitle">Organizations we work with</h2>
 
   <div class="row">
-    {% for project in page.projects %}
-      <div class="customer col-sm-6 mb-5">
-        <h3>{{ project.project_title }}</h3>
+    {% for organization in page.organizations %}
+      <div class="organization col-sm-6 mb-5">
+        <h3><a href="{{ organization.organization_link }}">{{ organization.organization_title }}</a></h3>
         <p>
-          {{ project.project_you }}
-          {{ project.project_we }}
+          {{ organization.organization_you }}
+          {{ organization.organization_we }}
         </p>
-        <p><a href="#">Learn more &rarr;</a></p>
+        <p><a href="{{ organization.organization_link }}">Learn more &rarr;</a></p>
       </div>
     {% endfor %}
   </div>
 
   <div class="row text-center logos">
-    <div class="col-sm mb-5">
-        <img src="/assets/images/logos/logo-aspb.png" alt="ASPB Logo" class="img-fluid">
-    </div>
-    <div class="col-sm mb-5">
-        <img src="/assets/images/logos/logo-cab.png" alt="ASPB Logo" class="img-fluid">
-    </div>
-    <div class="col-sm mb-5">
-        <img src="/assets/images/logos/logo-aala.png" alt="ASPB Logo" class="img-fluid">
-    </div>
-    <div class="col-sm mb-5">
-        <img src="/assets/images/logos/logo-acpa.png" alt="ASPB Logo" class="img-fluid">
-    </div>
+    <div class="col-sm mb-5"><img src="/assets/images/logos/logo-aspb.png" alt="ASPB Logo" class="img-fluid"></div>
+    <div class="col-sm mb-5"><img src="/assets/images/logos/logo-cab.png"  alt="CAB Logo"  class="img-fluid"></div>
+    <div class="col-sm mb-5"><img src="/assets/images/logos/logo-aala.png" alt="AALA Logo" class="img-fluid"></div>
+    <div class="col-sm mb-5"><img src="/assets/images/logos/logo-acpa.png" alt="ACPA Logo" class="img-fluid"></div>
   </div>
 </div>

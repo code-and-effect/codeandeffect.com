@@ -30,13 +30,16 @@
 }
 
 .value,
-.service,
-.customer {
+.solution,
+.organization {
   margin-bottom: 1rem;
 }
 
-.service h3 a { color: $body-color; text-decoration: none; }
-.service a:hover { color: $primary; text-decoration: underline; }
+.solution h3 a,
+.organization h3 a { color: $body-color; text-decoration: none; }
+
+.solution a:hover,
+.organization h3 a:hover { color: $primary; text-decoration: underline; }
 
 
 .metrics { text-align: center; }
@@ -45,7 +48,7 @@
 
 hr {
   border: none;
-  background: #f7f7f7;
+  background: $primary;
   max-width: 900px;
   margin: 0 auto 3rem auto;
   height: 5px;

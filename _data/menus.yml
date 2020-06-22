@@ -14,22 +14,21 @@ navbar:
     identifier: consulting
 
   - url: '#'
-    title: Products
-    identifier: products
-
-  - url: '/about/'
     title: About
     identifier: about
 
 about:
+  - url: /contact/
+    title: Contact
+
   - url: /team/
-    title: Our Team
+    title: Team
 
   - url: /speaking/
-    title: Speaking
+    title: Speaking Engagements
 
   - url: /tadum/
-    title: 'Tadum'
+    title: 'Tadum Meeting Agendas'
 
   - url: /effective-gems/
     title: Effective Gems
