@@ -11,144 +11,64 @@ layout: default
 </header>
 
 <div class="container">
-  <div class="row mb-5">
+  <div class="row">
     {% for service in page.services %}
       <div class="service col-sm-6 mb-5">
         {% svg "{{service.service_icon}}" width=32 class="mb-2" %}
         <h3><a href="{{ service.service_link }}">{{ service.service_title }}</a></h3>
-        <p>
-          {{ service.service_description }}
-        </p>
+        <p>{{ service.service_description }}</p>
         <p><a href="#">Learn more &rarr;</a></p>
       </div>
     {% endfor %}
   </div>
 </div>
 
-<div class="my-5 pt-1 pb-1 text-center">
-  <div class="container">
-    <div>
-      <div>
-        <h2 style="font-size: 2.5rem">75,000 <span class="text-muted">members served</span></h2>
-        <h2 style="font-size: 2.5rem">20,000 <span class="text-muted">applications to join</span></h2>
-        <h2 style="font-size: 2.5rem">140,000 <span class="text-muted">online orders</span></h2>
-        <h2 style="font-size: 2.5rem">18 million <span class="text-muted">dollars transacted</span></h2>
-      </div>
+<div class="container">
+  <h2 class="page-subtitle mb-3">Metrics about something</h2>
+  <div class="row pb-5 mb-5">
+    <div class="col-sm my-3">
+      <h2 style="font-size: 2.25rem;font-weight:600;" class="my-0">75,000</h3>
+      <h3 class="my-0" style="font-weight:300">members served</p>
+    </div>
+    <div class="col-sm my-3">
+      <h2 style="font-size: 2.25rem;font-weight:600;" class="my-0">20,000</h3>
+      <h3 class="my-0" style="font-weight:300">applications <br /> to join </p>
+    </div>
+    <div class="col-sm my-3">
+      <h2 style="font-size: 2.25rem;font-weight:600;" class="my-0">140,000</h3>
+      <h3 class="my-0" style="font-weight:300">online payments</p>
+    </div>
+    <div class="col-sm my-3">
+      <h2 style="font-size: 2.25rem;font-weight:600;" class="my-0">$18 million</h3>
+      <h3 class="my-0" style="font-weight:300">collected fees and dues</p>
     </div>
   </div>
 </div>
 
-<div class="my-5 pt-1 pb-1">
-  <div class="container">
-    <div class="row">
-      <div class="col-md my-3">
-        <div class="bg-light p-3 rounded">
-          {% svg "/assets/images/icons/Numbers - Members and customers - profile.svg" width=48 class="mb-2" %}
-          <h3>75,000<br /> <span style="font-weight:300">members served</span></h3>
-        </div>
-      </div>
-      <div class="col-md my-3">
-        <div class="bg-light p-3 rounded">
-          {% svg "/assets/images/icons/Numbers - Processed member applications - clipboard.svg" width=48 class="mb-2" %}
-          <h3>20,000<br /> <span style="font-weight:300">applications to join</span></h3>
-        </div>
-      </div>
-      <div class="col-md my-3">
-        <div class="bg-light p-3 rounded">
-          {% svg "/assets/images/icons/Numbers - Online orders - credit-card.svg" width=48 class="mb-2" %}
-          <h3>140,000<br /> <span style="font-weight:300">online orders processed</span></h3>
-        </div>
-      </div>
-      <div class="col-md my-3">
-        <div class="bg-light p-3 rounded" >
-          {% svg "/assets/images/icons/Numbers - Total transaction dollars - dollar.svg" width=48 class="mb-2" %}
-          <h3>18 million<br /> <span style="font-weight:300">dollars transacted</span></h3>
-      </div>
-    </div>
-    </div>
-  </div>
-</div>
-
-
-<div class="my-5 pt-1 pb-1">
-  <div class="container">
-    <div class="row">
-      <div class="col-md my-3">
-        <div class="bg-primary p-3">
-          {% svg "/assets/images/icons/Numbers - Members and customers - profile.svg" width=48 class="mb-2" %}
-          <h3>75,000<br /> <span style="font-weight:300">members served</span></h3>
-        </div>
-      </div>
-      <div class="col-md my-3">
-        <div class="bg-primary p-3">
-          {% svg "/assets/images/icons/Numbers - Processed member applications - clipboard.svg" width=48 class="mb-2" %}
-          <h3>20,000<br /> <span style="font-weight:300">applications to join</span></h3>
-        </div>
-      </div>
-      <div class="col-md my-3">
-        <div class="bg-primary p-3">
-          {% svg "/assets/images/icons/Numbers - Online orders - credit-card.svg" width=48 class="mb-2" %}
-          <h3>140,000<br /> <span style="font-weight:300">online orders processed</span></h3>
-        </div>
-      </div>
-      <div class="col-md my-3">
-        <div class="bg-primary p-3" >
-          {% svg "/assets/images/icons/Numbers - Total transaction dollars - dollar.svg" width=48 class="mb-2" %}
-          <h3>18 million<br /> <span style="font-weight:300">dollars transacted</span></h3>
-      </div>
-    </div>
-    </div>
-  </div>
-</div>
-
-<div class="my-5 pt-1 pb-1 text-center">
-  <div class="container">
-    <div class="d-flex justify-content-between my-4">
-      <div class="bg-primary p-3 rounded-circle" style="width: 200px; height: 200px;">
+<div class="container text-center">
+  <div class="row py-5 mb-5">
+    <div class="col-sm my-3">
+      <div class="border border-primary p-3" style="border-width: 2px !important">
         {% svg "/assets/images/icons/Numbers - Members and customers - profile.svg" width=48 class="mb-2" %}
-        <h3>75,000<br /> members served</h3>
-      </div>
-
-        <div class="bg-primary p-3 rounded-circle" style="width: 200px; height: 200px;">
-        {% svg "/assets/images/icons/Numbers - Processed member applications - clipboard.svg" width=48 class="mb-2" %}
-        <h3>20,000<br /> applications to join</h3>
-      </div>
-
-        <div class="bg-primary p-3 rounded-circle" style="width: 200px; height: 200px;">
-        {% svg "/assets/images/icons/Numbers - Online orders - credit-card.svg" width=48 class="mb-2" %}
-        <h3>140,000<br /> online orders processed</h3>
-      </div>
-
-        <div class="bg-primary p-3 rounded-circle" style="width: 200px; height: 200px;">
-        {% svg "/assets/images/icons/Numbers - Total transaction dollars - dollar.svg" width=48 class="mb-2" %}
-        <h3>18 million<br /> dollars transacted</h3>
+        <h3>75,000<br /> <span style="font-weight:300">members served</span></h3>
       </div>
     </div>
-  </div>
-</div>
-
-
-<div class="callout callout-light my-5 pt-1 pb-1">
-  <div class="container">
-    <div class="row my-4">
-      <div class="metric col-sm my-3">
-        {% svg "/assets/images/icons/Numbers - Members and customers - profile.svg" width=48 class="mb-2" %}
-        <h3>75,000<br /> members served</h3>
-      </div>
-
-      <div class="metric col-sm my-3">
+    <div class="col-sm my-3">
+      <div class="border border-primary p-3" style="border-width: 2px !important">
         {% svg "/assets/images/icons/Numbers - Processed member applications - clipboard.svg" width=48 class="mb-2" %}
-        <h3>20,000<br /> applications to join</h3>
+        <h3>20,000<br /> <span style="font-weight:300">applications to join</span></h3>
       </div>
-
-      <div class="metric col-sm my-3">
+    </div>
+    <div class="col-sm my-3">
+      <div class="border border-primary p-3" style="border-width: 2px !important">
         {% svg "/assets/images/icons/Numbers - Online orders - credit-card.svg" width=48 class="mb-2" %}
-        <h3>140,000<br /> online orders</h3>
+        <h3>140,000<br /> <span style="font-weight:300">online orders processed</span></h3>
       </div>
-
-      <div class="metric col-sm my-3">
+    </div>
+    <div class="col-sm my-3">
+      <div class="border border-primary p-3" style="border-width: 2px !important" >
         {% svg "/assets/images/icons/Numbers - Total transaction dollars - dollar.svg" width=48 class="mb-2" %}
-        <h3>18 million<br /> dollars transacted</h3>
+        <h3>18 million<br /> <span style="font-weight:300">dollars transacted</span></h3>
       </div>
     </div>
   </div>
@@ -166,20 +86,27 @@ layout: default
   </div>
 -->
 
-<div class="container">
+<div class="container mt-5">
 
   <!-- <img src="/assets/images/ce-2017-33.jpg" alt="Code and Effect Office" class="img-fluid my-3"> -->
 
-  <h2 class="page-subtitle">Customers We Serve</h2>
-  <p class="mb-5">A typical organization we work with is: self-managed, with a non-working board, complemented by working subcommittees (e.g. registration and discipline), with a minimum of one full-time employee (e.g. an executive director). These associations are usually one of the following:</p>
+  <h2 class="page-subtitle">Organizations we work with</h2>
+
   <div class="row">
+
+    <p class="mb-5" style="display:none">A typical organization we work with is: self-managed, with a non-working board, complemented by working subcommittees (e.g. registration and discipline), with a minimum of one full-time employee (e.g. an executive director). These associations are usually one of the following:</p>
+
     {% for project in page.projects %}
-      <div class="customer col-sm-6">
+      <div class="customer col-sm-6 mb-5">
         <h3>{{ project.project_title }}</h3>
-        <p>{{ project.project_description }}</p>
+        <p>
+          {{ project.project_you }}
+          {{ project.project_we }}
+        </p>
+        <p><a href="#">Learn more &rarr;</a></p>
       </div>
     {% endfor %}
-  </div>
+    </div>
 
   <!-- <img src="/assets/images/ce-2017-20.jpg" alt="Code and Effect Office" class="img-fluid my-3"> -->
 
