@@ -18,20 +18,20 @@ navbar:
     identifier: about
 
 about:
-  - url: /contact/
-    title: Contact
-
   - url: /team/
     title: Team
 
   - url: /speaking/
-    title: Speaking Engagements
+    title: Speaking
 
   - url: /tadum/
-    title: 'Tadum Meeting Agendas'
+    title: 'Tadum'
 
   - url: /effective-gems/
-    title: Effective Gems
+    title: Ruby Gems
+
+  - url: /contact/
+    title: Contact Us
 
 solutions:
   - url: /member-databases/
@@ -59,19 +59,13 @@ customers:
   - url: /professional-associations/
     title: Professional Associations
 
-  - url: /trade-associations/
-    title: Trade Associations
-
   - url: /member-organizations/
     title: Member Organizations
 
+  - url: /trade-associations/
+    title: Trade Associations
+
 consulting:
-  - url: /consulting/
-    title: Start Here
-
-  - url: /research-and-recommend/
-    title: Research and Recommend
-
   - url: /discover-and-plan/
     title: Discover and Plan
 
@@ -80,9 +74,5 @@ consulting:
 
   - url: /support-and-improve/
     title: Support and Improve
-
-  - url: /coach-and-grow/
-    title: Coach and Grow
-
 
 ---

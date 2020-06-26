@@ -4,7 +4,6 @@
 
 .display-1 {
   margin-bottom: 1rem;
-  max-width: 750px;
   line-height: 1.1;
 
   @include media-breakpoint-down(sm) {
@@ -12,7 +11,20 @@
   }
 }
 
+.jumbotron-home .display-1 {
+  max-width: 750px;
+}
+
 .lead {
   color: $text-muted;
 }
 
+
+ .jumbotron-footer {
+    text-align: center;
+    border-top: solid 1px #ddd;
+    background: #f4f4f4;
+    margin-bottom: 0;
+ }
+
+ .jumbotron-footer .container { max-width: 600px; }

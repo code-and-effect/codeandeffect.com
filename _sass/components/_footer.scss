@@ -1,21 +1,26 @@
-.footer { }
+.footer {
+  background: #444;
+  font-size: 1rem;
+  padding: 2.5rem 2.5rem 3.5rem 2.5rem;
+  color: #bbb;
+}
+
+.footer h5 {
+  color: #ddd;
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+}
+
+.footer a { color: #bbb; }
+.footer a:hover { color: $primary; }
 
 .footer-main {
-  font-size: 1rem;
-  // background: #f7f7f7;
-  color: $black;
-  padding: 2rem 0 3rem 0;
 }
 
 
 .copyright {
-  padding: 0.25rem 0;
-  font-size: 0.75rem;
-}
-
-.address {
-  padding: 0.25rem 0;
-  margin-bottom: 1rem;
-
-  a { color: $black; }
+  width: 100%;
+  border-top: solid 1px #ffffff1a;
+  margin-top: 1.25rem;
+  padding-top: 1.25rem;
 }
