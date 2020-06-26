@@ -4,9 +4,9 @@ layout: default
 
 <header class="jumbotron jumbotron-fluid jumbotron-home">
   <div class="container">
-    <h1 class="display-1">{{ page.title | escape }}</h1>
-    <p class="lead mb-5">We develop cloud-based software that fit your rules, bylaws, and regulatory requirements. We speak your language, have a deep knowledge of association operations, and help you implement a long-term technology plan to serve your membership.</p>
-    <p class="lead">Learn more about <a href='#'>what we do</a>, <a href='#'>who we do it for</a>, and <a href='#'>how we do it</a>.</p>
+    <h1 class="display-1">Your association management software should work exactly how you need.</h1>
+    <p class="lead mb-5">We develop cloud-based software that fits your rules, bylaws, and regulatory requirements. Don’t fight with your software and shoe-horn into something that doesn’t meet your organization’s needs. Our software is customized to your association to streamline your processes and serve your membership.</p>
+    <p class="text-right"><a class="btn btn-primary btn-lg" href="#" role="button">Schedule a free 30 minute Zoom call &rarr;</a></p>
   </div>
 </header>
 
@@ -53,6 +53,23 @@ layout: default
     </div>
   </div>
 </div>
+
+
+<div class="container">
+  <h2 class="page-subtitle">Our process</h2>
+
+  <div class="row">
+    {% for process in page.processes %}
+      <div class="process col-sm-4 mb-5">
+        <div class="process-step">{% svg "{{ process.process_icon }}" width=32 class="mb-2" %} Step {{ process.process_step }}:</div>
+        <h3><a href="{{ process.process_link }}">{{ process.process_title }}</a></h3>
+        <p>{{ process.process_description }}</p>
+        <p><a href="{{ process.process_link }}">Learn more &rarr;</a></p>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
 
 
 <div class="container mb-5">

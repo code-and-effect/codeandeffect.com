@@ -1,7 +1,5 @@
 .page {
-  padding-top: 4rem;
-  max-width: 670px;
-  margin: 0 auto;
+  margin-bottom: 6rem;
 }
 
 .page-title {
@@ -30,14 +28,22 @@
 }
 
 .value,
+.process,
 .solution,
 .organization {
   margin-bottom: 1rem;
 }
 
+.process-step {
+  font-size: $h3-font-size - 0.25rem;
+  font-weight: 400;
+}
+
+.process h3 a,
 .solution h3 a,
 .organization h3 a { color: $body-color; text-decoration: none; }
 
+.process a:hover,
 .solution a:hover,
 .organization h3 a:hover { color: $primary; text-decoration: underline; }
 
@@ -45,6 +51,12 @@
 .metrics { text-align: center; }
 .metrics .border { border-width: 2px !important; }
 .metrics span { display: block; font-weight: 300; }
+
+
+.display-0 {
+  font-size: 1rem;
+  color: $text-muted;
+}
 
 hr {
   border: none;
@@ -54,3 +66,4 @@ hr {
   height: 5px;
   border-radius: 5px;
 }
+

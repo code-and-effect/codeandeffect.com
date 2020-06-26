@@ -1,0 +1,40 @@
+.call {
+  border: solid 1px #efefef;
+  padding: 1.25rem;
+  line-height: 1.2;
+  top: 88px !important;
+}
+
+.call svg { margin-top: -4px; }
+
+.call-header {
+  text-align: center;
+}
+
+.call-img {
+  height: 4rem;
+  width: 4rem;
+}
+
+.call-avatar { }
+
+.call-name {
+  font-size: 1rem;
+  color: $text-muted;
+  font-weight: 300;
+}
+
+.call-title {
+  font-size: 1.75rem;
+  font-weight: 400;
+}
+
+.call-duration {
+  color: $text-muted;
+}
+
+.call-location {
+  color: $text-muted;
+}
+
+.call-button { }

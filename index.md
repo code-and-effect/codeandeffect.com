@@ -39,6 +39,26 @@ solutions:
     solution_icon: "/assets/images/icons/Solutions - Association Websites - screen.svg"
 
 
+processes:
+  - process_title: "Discover and Plan"
+    process_description: "We start by working with you to find out what’s frustrating you, clarify your goals, and understand your unique requirements. Your expertise in your association’s needs, combined with ours in association software development means we will make a plan to build exactly what your organization needs."
+    process_link: /discover-and-plan/
+    process_icon: "/assets/images/icons/Services - Discover and plan - template.svg"
+    process_step: 1
+
+  - process_title: "Develop and Launch"
+    process_description: "Based on the plan we made together, we get to work. Our regular update meetings keep you informed of our progress and the project moving smoothly. Clear feedback loops mean there is no guesswork and no surprises. Then we launch!"
+    process_link: /discover-and-plan/
+    process_icon: "/assets/images/icons/Services - Develop and launch - code-slash.svg"
+    process_step: 2
+
+  - process_title: "Support and Improve"
+    process_description: "Your software is business-critical. As you use the new software within your organization and with your members, new ideas for improvements, new use cases, and new processes will come up. We work together long after the first launch to continually improve your software and keep it well-maintained."
+    process_link: /support-and-improve/
+    process_icon: "/assets/images/icons/Services - Support and improve2 - infinity.svg"
+    process_step: 3
+
+
 organizations:
   - organization_title: "Regulated Associations"
     organization_you: "You have a mandated authority to credential and audit your profession or industry."
