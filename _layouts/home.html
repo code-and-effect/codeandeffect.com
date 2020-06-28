@@ -4,9 +4,15 @@ layout: default
 
 <header class="jumbotron jumbotron-fluid jumbotron-home">
   <div class="container">
-    <h1 class="display-1">Your association management software should work exactly how you need.</h1>
-    <p class="lead mb-5">We develop cloud-based software that fits your rules, bylaws, and regulatory requirements. Don’t fight with your software and shoe-horn into something that doesn’t meet your organization’s needs. Our software is customized to your association to streamline your processes and serve your membership.</p>
-    <p class="text-right"><a class="btn btn-primary btn-lg" href="#" role="button">Schedule a free 30 minute Zoom call &rarr;</a></p>
+    <h1 class="display-1">Your association management software should work exactly how you need</h1>
+
+    <p class="lead mb-5">We develop custom cloud-based software that fits your rules, bylaws, and regulatory requirements. Don’t fight with your software and shoe-horn into something that doesn’t meet your organization’s needs. Our software is customized to your association to streamline your processes and serve your membership.</p>
+
+    <p class="text-right">
+      <a class="btn btn-primary btn-lg" href="#" role="button">
+        Schedule a free 30 minute Zoom call &rarr;
+      </a>
+    </p>
   </div>
 </header>
 
@@ -15,10 +21,10 @@ layout: default
   <div class="row">
     {% for solution in page.solutions %}
       <div class="solution col-sm-6 mb-5">
-        {% svg "{{ solution.solution_icon }}" width=32 class="mb-2" %}
-        <h3><a href="{{ solution.solution_link }}">{{ solution.solution_title }}</a></h3>
-        <p>{{ solution.solution_description }}</p>
-        <p><a href="{{ solution.solution_link }}">Learn more &rarr;</a></p>
+        {% svg "{{ solution.icon }}" width=32 class="mb-2" role="img" %}
+        <h3><a href="{{ solution.link }}" title="{{ solution.title }}">{{ solution.title }}</a></h3>
+        <p>{{ solution.description }}</p>
+        <p><a href="{{ solution.link }}" title="Learn more">Learn more &rarr;</a></p>
       </div>
     {% endfor %}
   </div>
@@ -28,27 +34,27 @@ layout: default
 <div class="container mb-5 metrics">
   <div class="row py-5">
     <div class="col-sm my-3">
-      <div class="border border-primary p-3">
-        {% svg "/assets/images/icons/Numbers - Members and customers - profile.svg" width=48 class="mb-2" %}
+      <div class="border border-primary shadow rounded p-3">
+        {% svg "/assets/images/icons/Numbers - Members and customers - profile.svg" width=48 class="mb-2" role="img" %}
         <h3>75,000 <span>members served</span></h3>
       </div>
     </div>
     <div class="col-sm my-3">
-      <div class="border border-primary p-3">
-        {% svg "/assets/images/icons/Numbers - Processed member applications - clipboard.svg" width=48 class="mb-2" %}
+      <div class="border border-primary shadow rounded p-3">
+        {% svg "/assets/images/icons/Numbers - Processed member applications - clipboard.svg" width=48 class="mb-2" role="img" %}
         <h3>20,000 <span>applications to join</span></h3>
       </div>
     </div>
     <div class="col-sm my-3">
-      <div class="border border-primary p-3">
-        {% svg "/assets/images/icons/Numbers - Online orders - credit-card.svg" width=48 class="mb-2" %}
+      <div class="border border-primary shadow rounded p-3">
+        {% svg "/assets/images/icons/Numbers - Online orders - credit-card.svg" width=48 class="mb-2" role="img" %}
         <h3>140,000 <span>online payments</span></h3>
       </div>
     </div>
     <div class="col-sm my-3">
-      <div class="border border-primary p-3">
-        {% svg "/assets/images/icons/Numbers - Total transaction dollars - dollar.svg" width=48 class="mb-2" %}
-        <h3>18 million <span>collected dues</span></h3>
+      <div class="border border-primary shadow rounded p-3">
+        {% svg "/assets/images/icons/Numbers - Total transaction dollars - dollar.svg" width=48 class="mb-2" role="img" %}
+        <h3>18 million <span>in collected dues</span></h3>
       </div>
     </div>
   </div>
@@ -61,15 +67,17 @@ layout: default
   <div class="row">
     {% for process in page.processes %}
       <div class="process col-sm-4 mb-5">
-        <div class="process-step">{% svg "{{ process.process_icon }}" width=32 class="mb-2" %} Step {{ process.process_step }}:</div>
-        <h3><a href="{{ process.process_link }}">{{ process.process_title }}</a></h3>
-        <p>{{ process.process_description }}</p>
-        <p><a href="{{ process.process_link }}">Learn more &rarr;</a></p>
+        <div class="process-step">
+          {% svg "{{ process.icon }}" width=32 class="mb-2" role="img" %}
+          Step {{ process.step }}:
+        </div>
+        <h3><a href="{{ process.link }}" title="{{ process.title }}">{{ process.title }}</a></h3>
+        <p>{{ process.description }}</p>
+        <p><a href="{{ process.link }}" title="Learn more">Learn more &rarr;</a></p>
       </div>
     {% endfor %}
   </div>
 </div>
-
 
 
 <div class="container mb-5">
@@ -78,15 +86,16 @@ layout: default
   <div class="row">
     {% for organization in page.organizations %}
       <div class="organization col-sm-6 mb-5">
-        <h3><a href="{{ organization.organization_link }}">{{ organization.organization_title }}</a></h3>
+        <h3><a href="{{ organization.link }}" title="{{ organization.title }}">{{ organization.title }}</a></h3>
         <p>
-          {{ organization.organization_you }}
-          {{ organization.organization_we }}
+          {{ organization.you }}
+          {{ organization.we }}
         </p>
-        <p><a href="{{ organization.organization_link }}">Learn more &rarr;</a></p>
+        <p><a href="{{ organization.link }}" title="Learn more">Learn more &rarr;</a></p>
       </div>
     {% endfor %}
   </div>
+
 
   <div class="row text-center logos">
     <div class="col-sm mb-5"><img src="/assets/images/logos/logo-aspb.png" alt="ASPB Logo" class="img-fluid"></div>
@@ -96,11 +105,3 @@ layout: default
   </div>
 </div>
 
-
-<header class="jumbotron jumbotron-fluid jumbotron-footer">
-  <div class="container">
-    <h1 class="display-1">Helping professional and regulatory associations since 2007.</h1>
-    <p class="lead mb-5">Let’s chat to find out how we can help your association get the right software for your unique needs.</p>
-    <p class="mb-0"><a class="btn btn-primary btn-lg mb-0" href="#" role="button">Schedule a free 30 minute Zoom call &rarr;</a></p>
-  </div>
-</header>

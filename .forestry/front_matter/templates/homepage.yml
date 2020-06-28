@@ -55,8 +55,8 @@ fields:
   label: organizations
   fields:
   - type: text
-    name: organization_title
-    label: organization_title
+    name: title
+    label: title
   - type: text
-    name: organization_description
-    label: organization_description
+    name: description
+    label: description

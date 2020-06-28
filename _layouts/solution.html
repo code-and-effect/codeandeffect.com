@@ -40,7 +40,9 @@ layout: default
 
       <div class="col-sm-6">
         <a class="row rounded jump-link" href="{{ page.jl_link }}">
-          <div class="col-auto">{% svg "/assets/images/icons/arrow-left-r.svg" width=48 %}</div>
+          <div class="col-auto">
+            {% svg "/assets/images/icons/arrow-left-r.svg" width=48 role="img" %}
+          </div>
           <div class="col">
             <h4>{{ page.jl_title }}</h4>
             <p>{{ page.jl_description }}</p>
@@ -48,28 +50,19 @@ layout: default
         </a>
       </div>
 
-      <div class="col-sm-6 text-right">
-        <a class="row rounded jump-link" href="{{ page.jl_link }}">
+      <div class="col-sm-6">
+        <a class="row rounded jump-link text-right" href="{{ page.jr_link }}">
           <div class="col order-2 order-sm-1">
             <h4>{{ page.jr_title }}</h4>
             <p>{{ page.jr_description }}</p>
           </div>
-          <div class="col-sm-auto order-1 order-sm-2">{% svg "/assets/images/icons/arrow-right-r.svg" width=48 %}</div>
+          <div class="col-sm-auto order-1 order-sm-2">
+            {% svg "/assets/images/icons/arrow-right-r.svg" width=48 role="img" %}
+          </div>
         </a>
       </div>
-
 
     </div>
   </div>
 </div>
 
-</div>
-
-
-<header class="jumbotron jumbotron-fluid jumbotron-footer">
-  <div class="container">
-    <h1 class="display-1">Helping professional and regulatory associations since 2007.</h1>
-    <p class="lead mb-5">Let’s chat to find out how we can help your association get the right software for your unique needs.</p>
-    <p class="mb-0"><a class="btn btn-primary btn-lg mb-0" href="#" role="button">Schedule a free 30 minute Zoom call &rarr;</a></p>
-  </div>
-</header>

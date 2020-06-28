@@ -23,13 +23,13 @@ jr_description: "Help your members help themselves."
 
 ### Everything in one place
 
-We’ve helped associations create and manage online member databases that make it easy to look up information and simplify administrative tasks.
+We help associations create and manage their online member databases that make it easy to look up information and simplify administrative tasks.
 
 These databases dynamically record important events (like every email sent by the database, or the member starting dues payment) in a member’s history so that it can be pulled up later.
 
 ### Bring your data
 
-We will import all of your existing data, it doesn’t matter if it's coming from an Access database, a collection of Excel documents, or if it’s sitting in some other place.
+We will import all of your existing data! It doesn’t matter if it's coming from an Access database, a collection of Excel documents, or if it’s sitting in some other place.
 
 We’re detail orientated with your data, so at the time of import we’ll also clean it up, doing things like getting addresses and phone numbers formatted correctly.
 
