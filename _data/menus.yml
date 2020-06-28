@@ -11,15 +11,15 @@ navbar:
 
   - url: '#'
     title: Process
-    identifier: consulting
+    identifier: process
 
   - url: '#'
-    title: About
-    identifier: about
+    title: Company
+    identifier: company
 
-about:
-  - url: /team/
-    title: Team
+company:
+  - url: /about/
+    title: About
 
   - url: /speaking/
     title: Speaking
@@ -31,7 +31,7 @@ about:
     title: Ruby Gems
 
   - url: /contact/
-    title: Contact Us
+    title: Contact
 
 solutions:
   - url: /member-databases/
@@ -65,7 +65,7 @@ customers:
   - url: /trade-associations/
     title: Trade Associations
 
-consulting:
+process:
   - url: /discover-and-plan/
     title: Discover and Plan
 

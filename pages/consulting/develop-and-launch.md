@@ -19,6 +19,14 @@ jr_link: /support-and-improve/
 jr_description: "TODO TODO TODO"
 ---
 
+### How does Develop and Launch work?
+
+Develop and launch is based on the prototype, feature sheet, estimate and schedule we built together during Discover and Plan.
+
+1. <strong>Set a weekly or bi-weekly meeting.</strong> At the same time every week, we meet or have a phone call for 20 to 40 minutes to provide an update on the status of the project, ask questions, and make decisions as the project progresses.
+2. <mark>Progress demos.</mark> When the web application has progressed far enough we will review each feature together. These reviews happen with video conferencing / screen sharing as part of our regular weekly meetings. A secure staging server is available for you to review progress and you may access it at any point during development.
+3. <mark>Pre-launch.</mark> Before launch, an exhaustive automated and manual testing phase occurs. Edge cases or confusing processes are ironed out! We ensure your organization has the training they need to use the software and coordinate a launch date.
+4. <mark>Launch!</mark> When everything is ready to go, we go live! You should expect everything to go smoothly.
 
 ## How does Develop and Launch work?
 

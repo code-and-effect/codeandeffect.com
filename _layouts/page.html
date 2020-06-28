@@ -8,21 +8,21 @@ layout: default
     <h1 class="display-0">{{ page.title | escape }}</h1>
     <p class="display-1">{{ page.titletext | escape }}</p>
 
+    {% if page.subtext %}<p class="lead">{{ page.subtext }}</p>{% endif %}
+
+    {% if page.bullets %}
+      <ul>
+        {% for bullet in page.bullets %}
+          <li class="lead">{{ bullet }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
   </header>
 
   <div class="row">
     <div class="col-md-8 order-2 order-sm-1">
-
-      {% if page.bullets %}
-        <ul>
-          {% for bullet in page.bullets %}
-            <li class="lead">{{ bullet }}</li>
-          {% endfor %}
-        </ul>
-      {% endif %}
-
       <article class="page">
-        <div class="post-content">{{ content }}</div>
+        {{ content }}
       </article>
     </div>
 
@@ -30,9 +30,8 @@ layout: default
       {% include schedule-call.html %}
     </div>
   </div>
-
-
 </div>
+
 
 {% include processes.html %}
 

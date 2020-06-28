@@ -6,9 +6,12 @@ jumbotron_text: ''
 redirect_from:
   - /space/
   - /space
-
-
-
+  - /app-development/
+  - /app-development
+  - /research-and-recommend
+  - /research-and-recommend/
+  - /coach-and-grow
+  - /coach-and-grow/
 
 
 
