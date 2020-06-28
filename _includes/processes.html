@@ -1,0 +1,17 @@
+<div class="container">
+  <h2 class="page-subtitle">Our process</h2>
+
+  <div class="row">
+    {% for process in site.data.processes %}
+      <div class="process col-sm-4 mb-5">
+        <div class="process-step">
+          {% svg "{{ process.icon }}" width=32 class="mb-2" role="img" %}
+          Step {{ process.step }}:
+        </div>
+        <h3><a href="{{ process.link }}" title="{{ process.title }}">{{ process.title }}</a></h3>
+        <p>{{ process.description }}</p>
+        <p><a href="{{ process.link }}" title="Learn more">Learn more &rarr;</a></p>
+      </div>
+    {% endfor %}
+  </div>
+</div>

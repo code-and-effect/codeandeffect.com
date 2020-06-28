@@ -19,7 +19,7 @@ layout: default
 
 <div class="container solutions">
   <div class="row">
-    {% for solution in page.solutions %}
+    {% for solution in site.data.solutions %}
       <div class="solution col-sm-6 mb-5">
         {% svg "{{ solution.icon }}" width=32 class="mb-2" role="img" %}
         <h3><a href="{{ solution.link }}" title="{{ solution.title }}">{{ solution.title }}</a></h3>
@@ -31,53 +31,9 @@ layout: default
 </div>
 
 
-<div class="container mb-5 metrics">
-  <div class="row py-5">
-    <div class="col-sm my-3">
-      <div class="border border-primary shadow rounded p-3">
-        {% svg "/assets/images/icons/Numbers - Members and customers - profile.svg" width=48 class="mb-2" role="img" %}
-        <h3>75,000 <span>members served</span></h3>
-      </div>
-    </div>
-    <div class="col-sm my-3">
-      <div class="border border-primary shadow rounded p-3">
-        {% svg "/assets/images/icons/Numbers - Processed member applications - clipboard.svg" width=48 class="mb-2" role="img" %}
-        <h3>20,000 <span>applications to join</span></h3>
-      </div>
-    </div>
-    <div class="col-sm my-3">
-      <div class="border border-primary shadow rounded p-3">
-        {% svg "/assets/images/icons/Numbers - Online orders - credit-card.svg" width=48 class="mb-2" role="img" %}
-        <h3>140,000 <span>online payments</span></h3>
-      </div>
-    </div>
-    <div class="col-sm my-3">
-      <div class="border border-primary shadow rounded p-3">
-        {% svg "/assets/images/icons/Numbers - Total transaction dollars - dollar.svg" width=48 class="mb-2" role="img" %}
-        <h3>18 million <span>in collected dues</span></h3>
-      </div>
-    </div>
-  </div>
-</div>
+{% include metrics.html %}
 
-
-<div class="container">
-  <h2 class="page-subtitle">Our process</h2>
-
-  <div class="row">
-    {% for process in page.processes %}
-      <div class="process col-sm-4 mb-5">
-        <div class="process-step">
-          {% svg "{{ process.icon }}" width=32 class="mb-2" role="img" %}
-          Step {{ process.step }}:
-        </div>
-        <h3><a href="{{ process.link }}" title="{{ process.title }}">{{ process.title }}</a></h3>
-        <p>{{ process.description }}</p>
-        <p><a href="{{ process.link }}" title="Learn more">Learn more &rarr;</a></p>
-      </div>
-    {% endfor %}
-  </div>
-</div>
+{% include processes.html %}
 
 
 <div class="container mb-5">

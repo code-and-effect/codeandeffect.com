@@ -1,39 +1,55 @@
 ---
 layout: page
 title: Develop and Launch
+titletext: "Clear feedback loops mean no guesswork or surprises"
 permalink: "/develop-and-launch/"
-subtext: Code and Effect specializes in the development of custom Ruby on Rails
-  web applications. When your current software isn’t working for you, or you can’t
-  find one on the market that meets your needs, get in touch with us. We will work
-  with you to build exactly what you need to run your business.
+subtext:
+bullets:
+  - "Develop and Launch is our structured development and communication process for building your association management software based on Discover and Plan. "
+  - "Our regular update meetings keep you informed of our progress and the project moving smoothly. "
+  - "Clear feedback loops mean there is no guesswork and no surprises."
 description: Develop and Launch is a structured development and communication
   process for building custom software.
+
+jl_title: "Discover and Plan"
+jl_link: /discover-and-plan/
+jl_description: "Step 1: TODO"
+jr_title: "Step 3: Support and Improve"
+jr_link: /support-and-improve/
+jr_description: "TODO TODO TODO"
 ---
-## What is Develop and Launch?
 
-Develop and Launch is a structured development and communication process for building custom software.
-
-## Who is Develop and Launch for?
-
-We have three types of customers that benefit from Develop and Launch:
-
-1. Organizations that have an existing software system that isn’t meeting their needs.
-2. Organizations that have looked into the available solutions, often through [Research and Recommend](https://www.codeandeffect.com/research-and-recommend/), but can’t find one that meets their needs.
-3. Organizations that have a new business/software idea that they need a development partner to build.
 
 ## How does Develop and Launch work?
 
-We agree on the scope, fixed cost, and schedule through [Discover and Plan](https://www.codeandeffect.com/discover-and-plan/). We strongly recommend you only use 80% of your actual budget, leaving 20% aside for unexpected work and as cost savings on low-value features that are removed from scope. Our process, tools, and expertise will guide you on just how to make confident decisions on these things.
+Develop and launch is based on the prototype, feature sheet, estimate and schedule we built together during Discover and Plan.
 
-At the same time every week, we meet or have a phone call for 20 to 40 minutes to provide an update on the status of the project and make decisions.
+1. <strong>Set a weekly or bi-weekly meeting.</strong> At the same time every week, we meet or have a phone call for 20 to 40 minutes to provide an update on the status of the project, ask questions, and make decisions as the project progresses.
+2. <mark>Progress demos.</mark> When the web application has progressed far enough we will review each feature together. These reviews happen with video conferencing / screen sharing as part of our regular weekly meetings. A secure staging server is available for you to review progress and you may access it at any point during development.
+3. <mark>Pre-launch.</mark> Before launch, an exhaustive automated and manual testing phase occurs. Edge cases or confusing processes are ironed out! We ensure your organization has the training they need to use the software and coordinate a launch date.
+4. <mark>Launch!</mark> When everything is ready to go, we go live! You should expect everything to go smoothly.
 
-When the web application has progressed far enough we will review each feature together. These reviews happen with video conferencing / screen sharing as part of our regular weekly meetings.
+## How does Develop and Launch work?
 
-A secure staging server is available for you to review progress and you may access it at any point during development.
+Develop and launch is based on the prototype, feature sheet, estimate and schedule we built together during Discover and Plan.
 
-Before launch, an exhaustive automated and manual testing phase occurs. Edge cases or confusing processes are ironed out!
+### 1. Set a weekly or bi-weekly meeting
 
-For launch we ensure your organization has the training they need to use the software, coordinate a date, and go live. You should expect everything to go smoothly.
+At the same time every week, we meet or have a phone call for 20 to 40 minutes to provide an update on the status of the project, ask questions, and make decisions as the project progresses.
+
+### 2. Progress demos
+
+When the web application has progressed far enough we will review each feature together. These reviews happen with video conferencing / screen sharing as part of our regular weekly meetings. A secure staging server is available for you to review progress and you may access it at any point during development.
+
+### 3. Pre-launch testing
+
+Before launch, an exhaustive automated and manual testing phase occurs. Edge cases or confusing processes are ironed out! We ensure your organization has the training they need to use the software and coordinate a launch date.
+
+### 4. Launch!
+
+When everything is ready to go, we go live! You should expect everything to go smoothly.
+
+
 
 ## Can I change features during development?
 
@@ -44,35 +60,14 @@ Yes! Because we know that all projects will have something unexpected come up du
 
 We give you the tools and information to weigh the choices and make a confident decision.
 
-## Why do you we need to meet every week?
+##  Why do we need to meet every week?
 
-Our experience is that a weekly rhythm is _just the right amount_ of project meetings. Our goals are communication, accountability, and focus:
+Our experience is that a weekly rhythm is just the right amount of project meetings. Our goals are communication, accountability, and focus:
 
-* **Communication**: every meeting you will know what has been done since our last meeting, what will be done before our next meeting, and what's preventing us from getting something specific done. We'll provide an update on schedule (which will be on-time) and solve any new issues that have cropped up. You will have no uncertainty about project status!
-* **Accountability**: shared action items help us stay accountable to one another. If we promise to do something, we write it down as an action item which will appear on the next week's agenda. Human nature makes it hard to avoid accountability when we need to report back in one week, and one week is almost always enough time to get the promise done. Of course, the same goes for anything you promise!
-* **Focus**: regular meetings let us schedule discussions and decisions that might otherwise interrupt day-to-day work, helping all stakeholders focus. Do you really want your inbox full of one-off project questions and dozens of email threads every week? We don't either, and "let's add that to our next check-in agenda" is a powerful phrase for focus.
+Communication: every meeting you will know what has been done since our last meeting, what will be done before our next meeting, and what’s preventing us from getting something specific done. We’ll provide an update on schedule and solve any new issues that have cropped up. You will have no uncertainty about project status!
 
-## Why do you write software in Ruby on Rails?
 
-It's the best tool for the types of problems our customers need to solve. Really! Business applications all boil down to _data in / data out_, which Ruby on Rails excels at. Some additional reasons why we choose Ruby on Rails are:
+Accountability: shared action items help us stay accountable to one another. If we promise to do something, we write it down as an action item which will appear on the next week’s agenda. Of course, the same goes for anything you promise!
 
-* Rapidly develop and deploy features
-* Easily add-on new features to existing work
-* Excellent testing and error catching tools
-* Strong developer community
 
-A great place to learn more is [The Rails Doctrine](http://rubyonrails.org/doctrine/).
-
-## What is the minimum Develop and Launch cost?
-
-Starting at $35,000.
-
-The scope and cost is determined collaboratively through [Discover and Plan](https://www.codeandeffect.com/discover-and-plan/). We recommend the total cost is no more than 80% of your actual budget.
-
-## What is the minimum timeline for Develop and Launch?
-
-3 months from kickoff.
-
-## What ongoing costs are there?
-
-We strongly recommend [Support and Improve](https://www.codeandeffect.com/support-and-improve/) for all of our web applications. In addition, you can expect $50-$100/mo in hosting costs, billed directly to you through our recommended cloud host. We do not resell hosting, domains, or other related services.
+Focus: regular meetings let us schedule discussions and decisions that might otherwise interrupt day-to-day work, helping all stakeholders focus. Do you really want your inbox full of one-off project questions and dozens of email threads every week? We don’t either, and “let’s add that to our next check-in agenda” is a powerful phrase for focus.
