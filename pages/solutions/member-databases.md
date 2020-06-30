@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Custom member database software"
+title: "Association Member Databases"
 titletext: "Membership information at your fingertips"
 permalink: "/member-databases/"
 description: "TODO"

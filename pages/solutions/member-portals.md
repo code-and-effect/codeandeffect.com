@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Custom member portals for associations"
+title: "Association Member Portals"
 titletext: "Help your members help themselves"
 permalink: "/member-portals/"
 description: "TODO"

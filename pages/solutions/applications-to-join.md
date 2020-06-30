@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Applications to join and reclassify"
+title: "Association Applications to Join and Reclassify"
 titletext: "Streamline your application and reclassification processes"
 permalink: "/applications-to-join/"
 description: "TODO"
@@ -13,8 +13,8 @@ show_jump_solutions: true
 jl_title: Member Portals
 jl_link: /member-portals/
 jl_description: "Help your members help themselves."
-jr_title: Dues and Renewals
-jr_link: /dues-and-renewals/
+jr_title: Dues, Renewals, and Fees
+jr_link: /dues-renewals-fees/
 jr_description: "Calculate and collect complex dues or fees"
 ---
 
@@ -27,7 +27,7 @@ jr_description: "Calculate and collect complex dues or fees"
 
 We’ve helped our clients collect, review, and process over 20,000 membership applications. And these aren’t simple “fill in a form and you’re in” applicants: we’re talking detailed submissions that include university transcripts, proof of published work, references, and many other little details.
 
-## Coordinate your committees online
+## Coordinate your committees
 
 We also build the tools that let registrars and registration committee members review the applicant submissions (entirely online, no printouts or dropbox folders!), make their recommendation, and ultimately process the applicant. We handle all the common “gotchas” in this process like requests for missing/unclear applicant information, calculating valid course credits, and approval for an alternative membership category.
 

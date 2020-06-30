@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Continuing education and professional development management"
+title: "Association Professional Development"
 titletext: "Professional development recording made easy"
 permalink: "/professional-development/"
 description: "TODO"
@@ -10,8 +10,8 @@ bullets:
 - "Track and enforce mandatory training like courses and exams."
 
 show_jump_solutions: true
-jl_title: Dues and Renewals
-jl_link: /dues-and-renewals/
+jl_title: Dues, Renewals, and Fees
+jl_link: /dues-renewals-fees/
 jl_description: "Calculate and collect complex dues or fees"
 jr_title: Association Websites
 jr_link: /association-websites/

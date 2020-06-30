@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "Dues and renewals"
+title: "Association Dues, Renewals, and Fees"
 titletext: "Calculate and collect complex dues or fees"
-permalink: "/dues-and-renewals/"
+permalink: "/dues-renewals-fees/"
 description: "TODO"
 bullets:
   - "Pay the correct renewal amount, even for your most complex calculations."

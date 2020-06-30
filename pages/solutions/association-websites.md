@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Association websites"
+title: "Association Websites"
 titletext: "Good looking and easy to update websites"
 permalink: "/association-websites/"
 description: "TODO"
@@ -11,8 +11,8 @@ bullets:
 
 
 show_jump_solutions: true
-jl_title: Dues and Renewals
-jl_link: /dues-and-renewals/
+jl_title: Dues, Renewals, and Fees
+jl_link: /dues-renewals-fees/
 jl_description: "Calculate and collect complex dues or fees"
 jr_title: Member Databases
 jr_link: /member-databases/

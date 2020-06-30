@@ -13,9 +13,9 @@
   link: /applications-to-join/
   icon: "/assets/images/icons/user-add.svg"
 
-- title: "Dues and Renewals"
+- title: "Dues, Renewals, and Fees"
   description: "Calculate and charge the correct dues or fees, including for complex statuses and changes. Full financial reporting."
-  link: /dues-and-renewals/
+  link: /dues-renewals-fees/
   icon: "/assets/images/icons/sand-clock.svg"
 
 - title: "Professional Development"

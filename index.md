@@ -1,7 +1,7 @@
 ---
 layout: home
 title: 'Member Databases and Portals for Associations'
-description: 'We are Edmonton-based software consultants that develop cloud-based software that fits the rules, bylaws, and regulatory requirements of associations.'
+description: 'We develop cloud-based software that fits the rules, bylaws, and regulatory requirements of associations.'
 jumbotron_text: ''
 redirect_from:
   - /space/
@@ -12,8 +12,6 @@ redirect_from:
   - /research-and-recommend/
   - /coach-and-grow
   - /coach-and-grow/
-
-
 
 organizations:
   - title: "Regulated Associations"
