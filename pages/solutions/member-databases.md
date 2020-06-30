@@ -3,23 +3,20 @@ layout: page
 title: "Custom member database software"
 titletext: "Membership information at your fingertips"
 permalink: "/member-databases/"
-show_form: true
 description: "TODO"
 bullets:
-  - "Cloud-based database that allows you to browse, search, and export"
-  - "Track everything in one place (members, applicants, payments)"
-  - "Record a history of all changes, emails, and important events"
-short_title: "member databases"
+  - "Cloud-based database that allows you to browse, search, and export."
+  - "Track everything in one place (members, applicants, payments)."
+  - "Record a history of all changes, emails, and important events."
 
+show_jump_solutions: true
 jl_title: Association Websites
 jl_link: /assocation-websites/
 jl_description: "Membership information at your fingertips."
 jr_title: Member Portals
 jr_link: /member-portals/
 jr_description: "Help your members help themselves."
-
 ---
-
 
 ### Everything in one place
 

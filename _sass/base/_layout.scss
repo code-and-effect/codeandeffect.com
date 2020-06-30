@@ -1,13 +1,9 @@
-body {
-  background: #fff;
-}
+body { background: #444; }
+.navbar-light,
+.main,
+.jumbotron { background: #fff; }
 
-
-h2 {
-  margin: 3rem 0 1rem;
-}
+h2 { margin: 3rem 0 1rem; }
 
 .page h2:first-child { margin-top: 0 !important; }
 
-.page li,
-li.lead { margin-bottom: 0.5rem; }

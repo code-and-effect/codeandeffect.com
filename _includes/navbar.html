@@ -1,7 +1,7 @@
 {%- assign default_paths = site.pages | map: "path" -%}
 {%- assign page_paths = site.header_pages | default: default_paths -%}
 
-<nav class="navbar navbar-expand-md navbar-light mt-5 py-0">
+<nav class="navbar navbar-expand-md navbar-light pt-5 pb-0">
   <div class="container">
     <a class="navbar-brand" href="{{ "/" | relative_url }}">
       {% svg "/assets/images/code-and-effect-logo.svg" width="195" height="40" role="img" %}

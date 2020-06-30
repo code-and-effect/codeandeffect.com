@@ -2,12 +2,19 @@
   border-top: solid 1px #ddd;
 }
 
+.jump-links .process { margin-bottom: 0; }
+
 .jump-link {
   padding: 1.5rem 0;
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
 }
 
+.jump-link.jump-link-process {
+  padding: 1.5rem;
+}
+
+.jump-link h3,
 .jump-link h4 {
   color: $body-color;
   font-weight: 400;
@@ -15,16 +22,19 @@
   margin: 0;
 }
 
+.jump-link .process-step,
 .jump-link p {
   color: $body-color;
   margin: 0;
 }
 
 
-.jump-link:hover { background: #efefef; text-decoration: none; }
+.jump-link:hover { background: #efefef; text-decoration: none !important; }
 
 .jump-link:hover p,
-.jump-link:hover h4 { color: $body-color; text-decoration: none; }
+.jump-link:hover h3,
+.jump-link:hover h4,
+.jump-link:hover svg { color: $body-color !important; text-decoration: none; }
 
 .jump-link:hover svg { color: $primary; }
 

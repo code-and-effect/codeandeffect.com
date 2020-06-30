@@ -17,26 +17,15 @@ layout: default
 </header>
 
 
-<div class="container solutions">
-  <div class="row">
-    {% for solution in site.data.solutions %}
-      <div class="solution col-sm-6 mb-5">
-        {% svg "{{ solution.icon }}" width=32 class="mb-2" role="img" %}
-        <h3><a href="{{ solution.link }}" title="{{ solution.title }}">{{ solution.title }}</a></h3>
-        <p>{{ solution.description }}</p>
-        <p><a href="{{ solution.link }}" title="Learn more">Learn more &rarr;</a></p>
-      </div>
-    {% endfor %}
-  </div>
-</div>
 
+{% include solutions.html %}
 
 {% include metrics.html %}
 
 {% include processes.html %}
 
 
-<div class="container mb-5">
+<div class="container">
   <h2 class="page-subtitle">Organizations we work with</h2>
 
   <div class="row">
@@ -53,7 +42,7 @@ layout: default
   </div>
 
 
-  <div class="row text-center logos">
+  <div class="row text-center logos pb-5">
     <div class="col-sm mb-5"><img src="/assets/images/logos/logo-aspb.png" alt="ASPB Logo" class="img-fluid"></div>
     <div class="col-sm mb-5"><img src="/assets/images/logos/logo-cab.png"  alt="CAB Logo"  class="img-fluid"></div>
     <div class="col-sm mb-5"><img src="/assets/images/logos/logo-aala.png" alt="AALA Logo" class="img-fluid"></div>
