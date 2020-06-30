@@ -1,29 +1,29 @@
 - title: "Member Databases"
   description: "Custom member relationship management databases to track anything, including: demographics, activity or history, applications, discipline, and continuing education."
   link: /member-databases/
-  icon: "/assets/images/icons/Solutions - Member databases - database.svg"
+  icon: "/assets/images/icons/database.svg"
 
 - title: "Member Portals"
   description: "Empower members to sign in and manage their information, submit payments, request changes to their status, and download secure files."
   link: /member-portals/
-  icon: "/assets/images/icons/Solutions - Member portals - website.svg"
+  icon: "/assets/images/icons/website.svg"
 
 - title: "Applications to Join"
   description: "Streamline complex applicant workflows, including: submissions, references, payments, committee reviews, revisions, and approvals."
   link: /applications-to-join/
-  icon: "/assets/images/icons/Solutions - Applications to join or reclassify - user-add.svg"
+  icon: "/assets/images/icons/user-add.svg"
 
 - title: "Dues and Renewals"
   description: "Calculate and charge the correct dues or fees, including for complex statuses and changes. Full financial reporting."
   link: /dues-and-renewals/
-  icon: "/assets/images/icons/Solutions - Dues and renewals - sand-clock.svg"
+  icon: "/assets/images/icons/sand-clock.svg"
 
 - title: "Professional Development"
   description: "Web-based tools to track, submit, roll forward, and audit all required annual continuing education."
   link: /professional-development/
-  icon: "/assets/images/icons/Solutions - Continuing education - readme.svg"
+  icon: "/assets/images/icons/readme.svg"
 
 - title: "Association Websites"
   description: "Communicate with members and the public with a professional, easy-to-update website."
   link: /association-websites/
-  icon: "/assets/images/icons/Solutions - Association Websites - screen.svg"
+  icon: "/assets/images/icons/screen.svg"

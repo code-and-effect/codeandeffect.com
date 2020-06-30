@@ -20,7 +20,7 @@
                 {{ item.title }}
               </a>
 
-              <div class="dropdown-menu" aria-labelledby="dropdown-{{ item.identifier }}">
+              <div class="dropdown-menu shadow" aria-labelledby="dropdown-{{ item.identifier }}">
                 {% for item in item.children %}
                   <a class="dropdown-item" href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
                 {% endfor %}

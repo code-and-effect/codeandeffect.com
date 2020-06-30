@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: simple
 title: 'Tadum: Meeting Agenda and Minutes App'
 permalink: "/tadum/"
 subtext: Our customers keep telling us how much they love how we run our project

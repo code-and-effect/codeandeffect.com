@@ -31,12 +31,11 @@ layout: default
   <div class="row">
     {% for organization in page.organizations %}
       <div class="organization col-sm-6 mb-5">
-        <h3><a href="{{ organization.link }}" title="{{ organization.title }}">{{ organization.title }}</a></h3>
+        <h3>{{ organization.title }}</a></h3>
         <p>
           {{ organization.you }}
           {{ organization.we }}
         </p>
-        <p><a href="{{ organization.link }}" title="Learn more">Learn more &rarr;</a></p>
       </div>
     {% endfor %}
   </div>

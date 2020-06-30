@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: simple
 title: Effective Gems for Ruby on Rails
 permalink: "/effective-gems/"
 subtext: 'Developers run into roadblocks; it comes with the territory. Thankfully,

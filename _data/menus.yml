@@ -6,10 +6,6 @@ navbar:
     identifier: solutions
 
   - url: '#'
-    title: Customers
-    identifier: customers
-
-  - url: '#'
     title: Process
     identifier: process
 
@@ -52,27 +48,14 @@ solutions:
   - url: /association-websites/
     title: Association Websites
 
-customers:
-  - url: /regulated-associations/
-    title: Regulated Associations
-
-  - url: /professional-associations/
-    title: Professional Associations
-
-  - url: /member-organizations/
-    title: Member Organizations
-
-  - url: /trade-associations/
-    title: Trade Associations
-
 process:
   - url: /discover-and-plan/
-    title: Discover and Plan
+    title: "Step 1: Discover and Plan"
 
   - url: /develop-and-launch/
-    title: Develop and Launch
+    title: "Step 2: Develop and Launch"
 
   - url: /support-and-improve/
-    title: Support and Improve
+    title: "Step 3: Support and Improve"
 
 ---

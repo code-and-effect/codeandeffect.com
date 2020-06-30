@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: simple
 title: Speaking and Workshops
 permalink: "/speaking/"
 subtext: Code and Effect participates in the local Edmonton business and technology
