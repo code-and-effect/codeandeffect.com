@@ -14,6 +14,9 @@ navbar:
     identifier: company
 
 company:
+  - url: /contact/
+    title: Contact
+
   - url: /about/
     title: About
 
@@ -26,8 +29,6 @@ company:
   - url: /effective-gems/
     title: Ruby Gems
 
-  - url: /contact/
-    title: Contact
 
 solutions:
   - url: /member-databases/

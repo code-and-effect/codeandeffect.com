@@ -1,18 +1,19 @@
 <header class="jumbotron jumbotron-fluid jumbotron-footer">
   <div class="container">
-    <h1 class="display-1">Helping associations with technology since 2007.</h1>
-    <p class="lead mb-5">Let’s chat to find out how we can help your association get the right software for your unique needs.</p>
-    <p class="mb-0"><a class="btn btn-primary btn-lg mb-0" href="#" role="button">Schedule a free 30 minute Zoom call &rarr;</a></p>
+    <h1 class="display-1">Imagine association software that does what you need.</h1>
+    <p class="lead mb-5">It's not a dream! We've done this since 2007
+      <br> and are excited to chat about what's possible.</p>
+    <p class="mb-0"><a class="btn btn-primary btn-lg mb-0" href="https://calendly.com/danaj/30min-zoom" tareget="_blank" role="button">Schedule a free 30 minute Zoom call &rarr;</a></p>
   </div>
 </header>
 
 <footer class="footer">
   <div class="container footer-main">
 
-    <nav class="row footer-nav">
+    <nav class="footer-nav d-flex justify-content-between">
       {% for item in site.menus.navbar %}
         {% if item.children %}
-          <div class="col-sm mb-3">
+          <div class="mb-3">
             <h5 class="nav-title">{{ item.title }}</h5>
             <ul class="nav flex-column">
               {% for item in item.children %}
@@ -24,9 +25,15 @@
           </div>
         {% endif %}
       {% endfor %}
+      <div class="mb-3 text-right">
+        <h5 class="nav-title">Get in touch</h5>
+        <a href="tel:+17806198868">+1 780-619-8868</a>
+        <br />
+        <a href="mailto:hello@codeandeffect.com?subject=hey%20Dana!" target="_blank">hello@codeandeffect.com</a>
+      </div>
     </nav>
 
-    <div class="row jump">
+    <div class="row">
       <div class="col">
         <div class="copyright">&copy; 2007-2020 Code and Effect</div>
       </div>
