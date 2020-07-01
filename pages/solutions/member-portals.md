@@ -3,7 +3,7 @@ layout: page
 title: "Association Member Portals"
 titletext: "Help your members help themselves"
 permalink: "/member-portals/"
-description: "TODO"
+description: "Empower members to sign in and manage their information, submit payments, request changes to their status, and download secure files."
 bullets:
   - "Create a self-serve portal for your members to access association services."
   - "Wizards guide users step-by-step through applications, dues renewal, and more/"
@@ -12,10 +12,10 @@ bullets:
 show_jump_solutions: true
 jl_title: Member Databases
 jl_link: /member-databases/
-jl_description: "Membership information at your fingertips."
+jl_description: "Information at your fingertips."
 jr_title: Applications to Join
 jr_link: /applications-to-join/
-jr_description: "Streamline your application process."
+jr_description: "Streamline your member applications and reclassifications."
 ---
 
 **Problem:** The office has to manually deal with administration, causing overload and delays.

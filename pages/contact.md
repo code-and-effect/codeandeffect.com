@@ -5,8 +5,14 @@ permalink: "/contact/"
 description: 'Have a chat with Dana: hello@codeandeffect.com or Call +1 780‑619‑8868'
 ---
 
-<div class="row mb-4">
+<p class="lead">
+  Ready to get started?
+</p>
+<p class="lead mb-5">
+  Then <a href="https://calendly.com/danaj/30min-zoom" target="_blank">click here</a> to book a call with Dana. Can't wait to hear from you :)
+</p>
 
+<div class="row mb-5">
   <div class="col-sm-3">
     <p>
       <strong>Code and Effect</strong>

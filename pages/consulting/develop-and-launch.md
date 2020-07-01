@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Develop and Launch
-titletext: "Clear feedback loops mean no guesswork or surprises"
+titletext: "Software projects that stay inside the budget and schedule"
 permalink: "/develop-and-launch/"
 subtext:
 bullets:

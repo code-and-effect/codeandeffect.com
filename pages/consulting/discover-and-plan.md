@@ -3,7 +3,12 @@ layout: page
 title: Discover and Plan
 titletext: "Your expertise + our expertise = the right software for your association"
 permalink: "/discover-and-plan/"
-subtext: "Discover and Plan is a structured, collaborative process that identifies, prioritizes, and costs out your association software requirements. Even if you are only able to describe what you need in high-level terms, or are non-technical, that's no problem. Your expertise in your association’s needs, combined with ours in association software development means we will make a plan to build exactly what your organization needs."
+subtext: false
+bullets:
+- Discover and Plan is a structured, collaborative process that identifies, prioritizes, and budgets software requirements.
+- A short, fast process with many feedback opportunities.
+- You don't need to do any planning in advance.
+
 description: Discover and Plan is a structured, repeatable process that identifies, prioritizes, and costs out custom software requirements.
 show_jump_processes: true
 ---
@@ -43,7 +48,7 @@ Starting at $15,000.
 
 ## How long does Discover and Plan take to complete?
 
-6-8 weeks.
+2-3 weeks.
 
 ## What's the next step after Discover and Plan?
 

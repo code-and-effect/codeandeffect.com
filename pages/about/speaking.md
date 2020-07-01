@@ -2,14 +2,11 @@
 layout: simple
 title: Speaking and Workshops
 permalink: "/speaking/"
-subtext: Code and Effect participates in the local Edmonton business and technology
-  communities by sharing our expertise as guests and speakers. We speak on a wide
-  variety of topics such as productivity, meeting and agenda management, web development
-  project management, the challenges of entrepreneurship, and more! To learn more
-  about the topics we can speak on, or to book an engagement, please contact us.
+subtext: Code and Effect participates in the local Edmonton business and technology communities by sharing our expertise as guests and speakers. We speak on a wide variety of topics such as productivity, meeting and agenda management, web development project management, the challenges of entrepreneurship, and more! To learn more about the topics we can speak on, or to book an engagement, please contact us.
 description: We participate in the local business and technology communities
   by sharing our expertise as guests and speakers.
 ---
+
 ## Upcoming Speaking
 
 Check back soon!

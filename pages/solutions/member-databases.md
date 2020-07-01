@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Association Member Databases"
-titletext: "Membership information at your fingertips"
+titletext: "Information at your fingertips"
 permalink: "/member-databases/"
-description: "TODO"
+description: "Custom member relationship management databases to track anything, including: demographics, activity or history, applications, discipline, and continuing education."
 bullets:
   - "Cloud-based database that allows you to browse, search, and export."
   - "Track everything in one place (members, applicants, payments)."
@@ -11,8 +11,8 @@ bullets:
 
 show_jump_solutions: true
 jl_title: Association Websites
-jl_link: /assocation-websites/
-jl_description: "Membership information at your fingertips."
+jl_link: /association-websites/
+jl_description: "Good looking and easy to update."
 jr_title: Member Portals
 jr_link: /member-portals/
 jr_description: "Help your members help themselves."

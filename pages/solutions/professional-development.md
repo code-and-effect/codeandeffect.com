@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "Association Professional Development"
-titletext: "Professional development recording made easy"
+titletext: "Easy professional development records"
 permalink: "/professional-development/"
-description: "TODO"
+description: "Web-based tools to track, submit, roll forward, and audit all required annual continuing education."
 bullets:
-- "Report and audit your members continuing education and professional development."
+- "Report and audit your continuing education and professional development."
 - "Automatically calculate units, caps, and carryforwards."
 - "Track and enforce mandatory training like courses and exams."
 
@@ -15,7 +15,7 @@ jl_link: /dues-renewals-fees/
 jl_description: "Calculate and collect complex dues or fees"
 jr_title: Association Websites
 jr_link: /association-websites/
-jr_description: "Good looking, easy to update websites"
+jr_description: "Good looking and easy to update"
 ---
 
 **Problem:** Tracking CE and PD can be cumbersome and time-consuming, but it's mandated.

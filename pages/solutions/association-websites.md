@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Association Websites"
-titletext: "Good looking and easy to update websites"
+titletext: "Good looking and easy to update"
 permalink: "/association-websites/"
-description: "TODO"
+description: "Communicate with members and the public with a professional, easy-to-update website."
 bullets:
   - "Professionally communicate information to the public and your membership"
   - "Easy to update and maintain"
@@ -11,12 +11,12 @@ bullets:
 
 
 show_jump_solutions: true
-jl_title: Dues, Renewals, and Fees
-jl_link: /dues-renewals-fees/
-jl_description: "Calculate and collect complex dues or fees"
+jl_title: Professional Development
+jl_link: /professional-development/
+jl_description: "Easy professional development records."
 jr_title: Member Databases
 jr_link: /member-databases/
-jr_description: "Membership information at your fingertips."
+jr_description: "Information at your fingertips."
 ---
 
 **Problem:** Hard to use websites that don’t communicate well to your membership, not knowing what platform to go with.

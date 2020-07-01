@@ -3,8 +3,12 @@ layout: page
 title: Support and Improve
 titletext: "Extend the lifetime of your software"
 permalink: "/support-and-improve/"
-subtext: "Support and Improve is our ongoing support, maintenance, and improvement of your association management software once it has been launched. Software is never really “done”. As you use the new software within your organization and with your members, new ideas for improvements, new use cases, and new processes will come up. Software also needs to be maintained with the latest updates so that it stays snappy and runs smoothly. "
-description: TODO
+subtext: false
+bullets:
+- "Support and Improve ongoing maintenance and development of your association management software after launch."
+- "As you use the software new improvements and features will be added."
+- "Regularly apply the latest security and feature updates."
+description: "Support and Improve ongoing maintenance and development of your association management software after launch."
 redirect_from:
   - /watch-and-maintain/
   - watch-and-maintain

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Association Dues, Renewals, and Fees"
-titletext: "Calculate and collect complex dues or fees"
+titletext: "Calculate complex annual payments"
 permalink: "/dues-renewals-fees/"
-description: "TODO"
+description: "Calculate and charge the correct dues or fees, including for complex statuses and changes. Full financial reporting."
 bullets:
   - "Pay the correct renewal amount, even for your most complex calculations."
   - "Automatic late fees, membership removal, and reinstatement."
@@ -12,10 +12,10 @@ bullets:
 show_jump_solutions: true
 jl_title: Applications to Join
 jl_link: /applications-to-join/
-jl_description: "Streamline your application process."
+jl_description: "Streamline your member applications and reclassifications."
 jr_title: Professional Development
 jr_link: /professional-development/
-jr_description: "Professional development recording made easy"
+jr_description: "Easy professional development records."
 ---
 
 **Problem:** Getting members to pay the right amount at the right time.

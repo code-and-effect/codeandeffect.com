@@ -1,16 +1,18 @@
 <header class="jumbotron jumbotron-fluid jumbotron-footer">
   <div class="container">
     <h1 class="display-1">Imagine association software that does what you need.</h1>
-    <p class="lead mb-5">It's not a dream! We've done this since 2007
-      <br> and are excited to chat about what's possible.</p>
-    <p class="mb-0"><a class="btn btn-primary btn-lg mb-0" href="https://calendly.com/danaj/30min-zoom" tareget="_blank" role="button">Schedule a free 30 minute Zoom call &rarr;</a></p>
+    <p class="lead mb-5" style="max-width: 500px;">
+      It's not a dream! We've done this since 2007
+      and are excited to chat about what's possible.
+    </p>
+    <p class="mb-0"><a class="btn btn-primary btn-lg mb-0" href="https://calendly.com/danaj/30min-zoom" target="_blank" role="button">Schedule a free 30 minute Zoom call &rarr;</a></p>
   </div>
 </header>
 
 <footer class="footer">
   <div class="container footer-main">
 
-    <nav class="footer-nav d-flex justify-content-between">
+    <nav class="footer-nav d-sm-flex justify-content-between">
       {% for item in site.menus.navbar %}
         {% if item.children %}
           <div class="mb-3">
