@@ -1,5 +1,5 @@
 - title: "Member Databases"
-  description: "Custom member relationship management databases to track anything, including: demographics, activity or history, applications, discipline, and continuing education."
+  description: "Custom member relationship management databases to track: demographics, activity, history, applications, discipline, continuing education, and more."
   link: /member-databases/
   icon: "/assets/images/icons/database.svg"
 
@@ -14,7 +14,7 @@
   icon: "/assets/images/icons/user-add.svg"
 
 - title: "Dues, Renewals, and Fees"
-  description: "Calculate and charge the correct dues or fees, including for complex statuses and changes. Full financial reporting."
+  description: "Calculate and charge the correct dues or fees, including situations with complex statuses and changes. Have full financial reporting."
   link: /dues-renewals-fees/
   icon: "/assets/images/icons/sand-clock.svg"
 

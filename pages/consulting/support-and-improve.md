@@ -5,7 +5,7 @@ titletext: "Extend the lifetime of your software"
 permalink: "/support-and-improve/"
 subtext: false
 bullets:
-- "Support and Improve ongoing maintenance and development of your association management software after launch."
+- "Support and Improve is the ongoing maintenance and development of your association management software after launch."
 - "As you use the software new improvements and features will be added."
 - "Regularly apply the latest security and feature updates."
 description: "Support and Improve ongoing maintenance and development of your association management software after launch."

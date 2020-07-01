@@ -28,7 +28,7 @@ We’ve helped implement online continuing education and professional developmen
 
 ## Calculations, caps, and carry forwards
 
-For members, tracking is necessary to maintain their credentials. We ensure they have easy to use online continuing education and professional development tracking that automatically calculates hours or credits, minimums, maximums, per category restrictions, and more. It’s never been easier to stay on top of it!
+For members, tracking is necessary to maintain their credentials. We ensure they have easy-to-use online continuing education and professional development tracking that automatically calculates hours or credits, minimums, maximums, per category restrictions, and more. It’s never been easier to stay on top of it!
 
 ## Tools to audit
 

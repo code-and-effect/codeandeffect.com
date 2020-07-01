@@ -6,7 +6,7 @@ permalink: "/member-portals/"
 description: "Empower members to sign in and manage their information, submit payments, request changes to their status, and download secure files."
 bullets:
   - "Create a self-serve portal for your members to access association services."
-  - "Wizards guide users step-by-step through applications, dues renewal, and more/"
+  - "Wizards guide users step-by-step through applications, dues renewal, and more."
   - "Access important information like order history and member downloads."
 
 show_jump_solutions: true
@@ -20,11 +20,11 @@ jr_description: "Streamline your member applications and reclassifications."
 
 **Problem:** The office has to manually deal with administration, causing overload and delays.
 
-**Solution:** Members do it themselves, right away!
+**Solution:** Members have a portal do it themselves, right away!
 
 ## Self service member portals
 
-We help members take control over their information by putting it directly into their hands! Members can get answers to common questions like “what’s the status of my application?”, “how long do I have left to reinstate my membership?”, and “where can I download our member survey?”, and more.
+We help members take control over their information by putting it directly into their hands! Members can get answers to common questions like, “what’s the status of my application?”, “how long do I have left to reinstate my membership?”, and “where can I download our member survey?”, and more.
 
 ## Wizards to guide your members
 

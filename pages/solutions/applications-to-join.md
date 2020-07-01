@@ -18,7 +18,7 @@ jr_link: /dues-renewals-fees/
 jr_description: "Calculate and collect complex dues or fees."
 ---
 
-**Problem:** Complex application forms that have a lot of moving parts means lots of headaches for the ed/office. Things get delayed.
+**Problem:** Problem: Complex application forms that have a lot of moving parts means lots of headaches for the Executive Director and office.
 
 **Solution:** Custom forms that support these exact process so they are easy and move smoothly.
 

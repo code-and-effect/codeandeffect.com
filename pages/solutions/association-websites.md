@@ -5,9 +5,9 @@ titletext: "Good looking and easy to update"
 permalink: "/association-websites/"
 description: "Communicate with members and the public with a professional, easy-to-update website."
 bullets:
-  - "Professionally communicate information to the public and your membership"
-  - "Easy to update and maintain"
-  - "Looks great on all devices"
+  - "Professionally communicate information to the public and your membership."
+  - "Easy to update and maintain."
+  - "Looks great on all devices."
 
 
 show_jump_solutions: true
@@ -19,7 +19,7 @@ jr_link: /member-databases/
 jr_description: "Information at your fingertips."
 ---
 
-**Problem:** Hard to use websites that don’t communicate well to your membership, not knowing what platform to go with.
+**Problem:** Hard to use websites that don’t communicate well to your membership and not knowing what platform to go with.
 
 **Solution:** Member websites on the right platform that are easy to navigate, update, and clearly communicate with your members.
 

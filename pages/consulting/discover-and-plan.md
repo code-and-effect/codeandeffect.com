@@ -37,10 +37,10 @@ Everyone has a bad software story. We want to make sure that yours is a good one
 
 ## We already completed the planning, can you estimate based on that?
 
-No. There are a few reasons why require that we go through Discover and Plan before we are able to provide a cost for Develop and Launch:
+No. There are a few reasons why we require Discover and Plan before we are able to provide a cost for Develop and Launch:
 
-1. You have a clear vision for what you want for your association, but we don’t. Not yet. Discover and Plan ensures our team can quickly learn as much as possible about your association’s unique needs, using our proven process. This substantially reduces the risk of the project going over time and budget.
-2. You don’t know what you don’t know. Some of the ideas or approaches that you might have decided to take may have better alternatives. Just like you’re an expert in your field, we are experts in ours. We need the opportunity to share our knowledge and expertise to build you the best software possible!
+1. **You have a clear vision for what you want for your association, but we don’t.** Not yet. Discover and Plan ensures our team can quickly learn as much as possible about your association’s unique needs, using our proven process. This substantially reduces the risk of the project going over time and budget.
+2. **You don’t know what you don’t know.** Some of the ideas or approaches that you might have decided to take may have better alternatives. Just like you’re an expert in your field, we are experts in ours. We need the opportunity to share our knowledge and expertise to build you the best software possible!
 
 ## How much does Discover and Plan cost?
 

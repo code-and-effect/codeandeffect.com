@@ -7,7 +7,7 @@
   value_icon: "/assets/images/icons/heart.svg"
 
 - value_title: "Do the Right Amount"
-  value_description: "It's easy to over-engineer, build too much, and not consider the future. We instead strive to do _just the right_ amount of thinking and execution. Then we observe the result and adapt."
+  value_description: "It's easy to over-engineer, build too much, and not consider the future. We instead strive to do <em>just the right</em> amount of thinking and execution. Then we observe the result and adapt."
   value_icon: "/assets/images/icons/timelapse.svg"
 
 - value_title: "Habits Drive Results"

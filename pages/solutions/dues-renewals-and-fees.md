@@ -20,7 +20,7 @@ jr_description: "Easy professional development records."
 
 **Problem:** Getting members to pay the right amount at the right time.
 
-**Solution:** Dues are automatically calculated with all circumstances so you don’t have to try to figure it out manually
+**Solution:** Solution: Dues are automatically calculated with all conditions so you don’t have to figure it out manually.
 
 ## Smooth notification and collection
 

@@ -13,10 +13,10 @@ navbar:
     title: Company
     identifier: company
 
-company:
   - url: /contact/
     title: Contact
 
+company:
   - url: /about/
     title: About
 

@@ -15,7 +15,7 @@ show_jump_processes: true
 
 ## How does it work?
 
-Develop and launch is based on the prototype, feature sheet, estimate and schedule we built together during Discover and Plan.
+Develop and launch is based on the prototype, feature sheet, estimate, and schedule we built together during Discover and Plan.
 
 1. **Weekly or bi-weekly meetings:** At the same time every week, we meet or have a phone call for 20 to 40 minutes to provide an update on the status of the project, ask questions, and make decisions as the project progresses.
 2. **Progress demos:** When the web application has progressed far enough we will review each feature together. These reviews happen with video conferencing / screen sharing as part of our regular weekly meetings. A secure staging server is available for you to review progress and you may access it at any point during development.
@@ -24,7 +24,7 @@ Develop and launch is based on the prototype, feature sheet, estimate and schedu
 
 ## Where does it fit in the overall process?
 
-Develop and launch is Step 2 out of our 3 step process for designing and developing custom association management software. The first step is Discover and Plan, and the third step is Support and Improve.
+Develop and Launch is Step 2 out of our 3 step process for designing and developing custom association management software. The first step is [Discover and Plan](/discover-and-plan/), and the third step is [Suppport and Improve](/support-and-improve/).
 
 ## Can I change features during development?
 
@@ -47,12 +47,12 @@ Our experience is that a weekly or bi-weekly meeting rhythm is just the right am
 
 We recommend a minimum budget of $35,000.
 
-The scope and cost is determined collaboratively through Discover and Plan. We recommend the total cost is no more than 80% of your actual budget. This way you have some flexibility if new requirements come up during development and after launch (for Support and Improve!).
+The scope and cost is determined collaboratively through [Discover and Plan](/discover-and-plan/). We recommend the total cost is no more than 80% of your actual budget. This way you have some flexibility if new requirements come up during development and after launch (for [Support and Improve](/support-and-improve/)!
 
 ## What is the minimum timeline for Develop and Launch?
 
 We recommend a minimum schedule of 3 months.
 
-## What are the ongoing costs?
+## What are the ongoing fixed costs?
 
 You can expect $100/mo in hosting costs, billed directly to you through our recommended cloud host. We do not resell hosting, domains, or other related services.
