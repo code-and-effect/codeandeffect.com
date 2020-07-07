@@ -1,18 +1,20 @@
 ---
 layout: page
 title: Develop and Launch
-titletext: "Software projects that stay inside the budget and schedule"
+titletext: Software projects that stay inside the budget and schedule
 permalink: "/develop-and-launch/"
-subtext:
+subtext: 
 bullets:
-  - "Develop and Launch is our process for building association management software."
-  - "Our regular project meetings keep you informed of our progress and the project moving smoothly."
-  - "Clear feedback loops mean there is no guesswork and no surprises at the end of a project."
-description: Develop and Launch is a structured development and communication
-  process for building custom software.
+- Develop and Launch is our process for building association management software.
+- Our regular project meetings keep you informed of our progress and the project moving
+  smoothly.
+- Clear feedback loops mean there is no guesswork and no surprises at the end of a
+  project.
+description: Develop and Launch is a structured development and communication process
+  for building custom software.
 show_jump_processes: true
----
 
+---
 ## How does it work?
 
 Develop and launch is based on the prototype, feature sheet, estimate, and schedule we built together during Discover and Plan.
@@ -35,7 +37,7 @@ Because we know that all projects will have something unexpected come up during 
 
 We give you the tools and information to weigh the choices and make a confident decision.
 
-##  Why do we need to meet on a set schedule?
+## Why do we need to meet on a set schedule?
 
 Our experience is that a weekly or bi-weekly meeting rhythm is just the right amount of project meetings. Our goals are communication, accountability, and focus:
 
@@ -47,7 +49,7 @@ Our experience is that a weekly or bi-weekly meeting rhythm is just the right am
 
 We recommend a minimum budget of $35,000.
 
-The scope and cost is determined collaboratively through [Discover and Plan](/discover-and-plan/). We recommend the total cost is no more than 80% of your actual budget. This way you have some flexibility if new requirements come up during development and after launch (for [Support and Improve](/support-and-improve/)!
+The scope and cost is determined collaboratively through [Discover and Plan](/discover-and-plan/). We recommend the total cost is no more than 80% of your actual budget. This way you have some flexibility if new requirements come up during development and after launch (for [Support and Improve](/support-and-improve/)!)
 
 ## What is the minimum timeline for Develop and Launch?
 
