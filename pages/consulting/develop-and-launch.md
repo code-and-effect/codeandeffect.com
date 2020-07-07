@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Develop and Launch
-titletext: Software projects that stay inside the budget and schedule
+titletext: Software projects that stay inside your budget and schedule
 permalink: "/develop-and-launch/"
 subtext: 
 bullets:
