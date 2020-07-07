@@ -24,7 +24,7 @@ jr_description: Easy professional development records.
 
 ## Smooth notification and collection
 
-We’ve helped our clients process nearly $20 million dollars worth of member dues. This isn’t limited to nice and simple renewals either. It includes many complex dues calculations that nobody should have to do by hand. Ever had a member that is late on their dues get a back-dated reclassification to a new membership category that’s on a different proration schedule but also needs to be refunded their old membership category dues at the same time? We have!
+We’ve helped our clients process nearly $20 million dollars worth of member dues. This isn’t limited to nice, simple renewals either. It includes many complex dues calculations that nobody should have to do by hand. Ever had a member who is late on their dues get a back-dated reclassification to a new membership category that is on a different proration schedule but also needs to be refunded their old membership category dues at the same time? We have!
 
 ## Add extra steps during renewals
 
