@@ -28,8 +28,8 @@ We’ve helped our clients process nearly $20 million dollars worth of member du
 
 ## Add extra steps during renewals
 
-Dues payment may be the only time you reach some members, making it a great opportunity to ask those members to update their demographics, read important announcements, and opt-in to any new programs like mentorship or specialized certification. We will work with you to identify what steps members should go through on an annual basis.
+Dues payment may be the only time you reach some members. This is a great opportunity to ask those members to update their demographics, read important announcements, and opt-in to any new programs like mentorship or specialized certification. We will work with you to identify what steps members should go through on an annual basis.
 
 ## Financials for your accounting package
 
-After payment comes, of course, the reconciliation in your accounting software. We provide all the reports and data you need to make the end of month reconciliation a snap.
+After payment is, of course, the reconciliation in your accounting software. We provide all the reports and data you need to make the end of month reconciliation a snap.
