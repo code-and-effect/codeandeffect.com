@@ -1,26 +1,26 @@
 ---
 layout: page
-title: "Association Dues, Renewals, and Fees"
-titletext: "Calculate complex annual payments"
+title: Association Dues, Renewals, and Fees
+titletext: Calculate complex annual payments
 permalink: "/dues-renewals-fees/"
-description: "Calculate and charge the correct dues or fees, including for complex statuses and changes. Full financial reporting."
+description: Calculate and charge the correct dues or fees, including for complex
+  statuses and changes. Full financial reporting.
 bullets:
-  - "Pay the correct renewal amount, even for your most complex calculations."
-  - "Automatic late fees, membership removal, and reinstatement."
-  - "Send email reminders for dues available and late fees."
-
+- Pay the correct renewal amount, even for your most complex calculations.
+- Automatic late fees, membership removal, and reinstatement.
+- Send email reminders for dues available and late fees.
 show_jump_solutions: true
 jl_title: Applications to Join
-jl_link: /applications-to-join/
-jl_description: "Streamline your member applications and reclassifications."
+jl_link: "/applications-to-join/"
+jl_description: Streamline your member applications and reclassifications.
 jr_title: Professional Development
-jr_link: /professional-development/
-jr_description: "Easy professional development records."
----
+jr_link: "/professional-development/"
+jr_description: Easy professional development records.
 
+---
 **Problem:** Getting members to pay the right amount at the right time.
 
-**Solution:** Solution: Dues are automatically calculated with all conditions so you don’t have to figure it out manually.
+**Solution:** Dues are automatically calculated with all conditions so you don’t have to figure it out manually.
 
 ## Smooth notification and collection
 
