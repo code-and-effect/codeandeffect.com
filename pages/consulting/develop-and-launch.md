@@ -26,11 +26,11 @@ Develop and launch is based on the prototype, feature sheet, estimate, and sched
 
 ## Where does it fit in the overall process?
 
-Develop and Launch is Step 2 out of our 3 step process for designing and developing custom association management software. The first step is [Discover and Plan](/discover-and-plan/), and the third step is [Suppport and Improve](/support-and-improve/).
+Develop and Launch is Step 2 out of our 3 step process for designing and developing custom association management software. The first step is [Discover and Plan](/discover-and-plan/), and the third step is [Support and Improve](/support-and-improve/).
 
 ## Can I change features during development?
 
-Because we know that all projects will have something unexpected come up during development, we plan for it. **Yes you can change features**. When this happens, there are two options:
+Because we know that all projects will have something unexpected come up during development, we plan for it. **Yes, you can change features**. When this happens, there are two options:
 
 1. Keep your budget the same, remove a less important but similarly priced feature, and add the new feature.
 2. Increase your budget and add the new feature.
@@ -49,7 +49,7 @@ Our experience is that a weekly or bi-weekly meeting rhythm is just the right am
 
 We recommend a minimum budget of $35,000.
 
-The scope and cost is determined collaboratively through [Discover and Plan](/discover-and-plan/). We recommend the total cost is no more than 80% of your actual budget. This way you have some flexibility if new requirements come up during development and after launch (for [Support and Improve](/support-and-improve/)!)
+The scope and cost are determined collaboratively through [Discover and Plan](/discover-and-plan/). We recommend the total cost is no more than 80% of your actual budget. This way you have some flexibility if new requirements come up during development and after launch (for [Support and Improve](/support-and-improve/)!)
 
 ## What is the minimum timeline for Develop and Launch?
 
