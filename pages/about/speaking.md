@@ -2,17 +2,23 @@
 layout: simple
 title: Speaking and Workshops
 permalink: "/speaking/"
-subtext: Code and Effect participates in the local Edmonton business and technology communities by sharing our expertise as guests and speakers. We speak on a wide variety of topics such as productivity, meeting and agenda management, web development project management, the challenges of entrepreneurship, and more! To learn more about the topics we can speak on, or to book an engagement, please contact us.
-description: We participate in the local business and technology communities
-  by sharing our expertise as guests and speakers.
----
+subtext: Code and Effect participates in the local Edmonton business and technology
+  communities by sharing our expertise as guests and speakers. We speak on a wide
+  variety of topics such as productivity, meeting and agenda management, web development
+  project management, the challenges of entrepreneurship, and more! To learn more
+  about the topics we can speak on, or to book an engagement, please contact us.
+description: We participate in the local business and technology communities by sharing
+  our expertise as guests and speakers.
 
+---
 ## Upcoming Speaking
 
 Check back soon!
 
 ## 2020
 
+* **ATB X Accelerator** - Calm Your Chaos - Part 2: Self-Care, Themes, Focus, Decision Making, and Task Management (Pandemic Edition) 
+* **ATB X Accelerator** - Calm Your Chaos - Part 1: Email, Calendar, and Meeting Tactics
 * **YEGRB Meetup** - [Ruby on Rails Tips and Tricks](https://www.youtube.com/watch?v=Ci3ViXnVCng)
 
 ## 2019

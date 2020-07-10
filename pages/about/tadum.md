@@ -1,12 +1,14 @@
 ---
 layout: simple
-title: 'Tadum: Meeting Agenda and Minutes App'
+title: Tadum Meeting Agenda and Minutes App
 permalink: "/tadum/"
-subtext: Our customers keep telling us how much they love how we run our project meetings. So we built Tadum to give everyone else the tools and processes that make their meetings awesome too!
-description: Tadum is meeting agenda and minutes software that helps teams get
-  organized and stay accountable.
----
+subtext: Our customers keep telling us how much they love how we run our project meetings.
+  So we built Tadum to give everyone else the tools and processes that make their
+  meetings awesome too!
+description: Tadum is meeting agenda and minutes software that helps teams get organized
+  and stay accountable.
 
+---
 Tadum is our [online meeting agenda and minutes app](https://tadum.app) that helps teams get organized and stay accountable.
 
 ## Automatically Create Agendas
