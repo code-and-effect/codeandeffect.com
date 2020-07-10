@@ -2,8 +2,8 @@
 layout: simple
 title: Contact
 subtext:
-  Ready to get started?
-  Then <a href="https://calendly.com/danaj/30min-zoom" target="_blank">click here</a> to book a call with Dana. <br />Can't wait to hear from you :)
+  We’ve seen what it’s like to run an association on bad software. It doesn’t have to be this way!
+  <a href="https://calendly.com/danaj/30min-zoom" target="_blank">Book a call with Dana</a> to talk about what’s possible.
 permalink: "/contact/"
 description: 'Have a chat with Dana: hello@codeandeffect.com or Call +1 780‑619‑8868'
 ---
