@@ -1,19 +1,16 @@
 ---
 layout: simple
 title: Contact
+subtext:
+  Ready to get started?
+  Then <a href="https://calendly.com/danaj/30min-zoom" target="_blank">click here</a> to book a call with Dana. <br />Can't wait to hear from you :)
 permalink: "/contact/"
 description: 'Have a chat with Dana: hello@codeandeffect.com or Call +1 780‑619‑8868'
 ---
 
-<p class="lead">
-  Ready to get started?
-</p>
-<p class="lead mb-5">
-  Then <a href="https://calendly.com/danaj/30min-zoom" target="_blank">click here</a> to book a call with Dana. Can't wait to hear from you :)
-</p>
 
 <div class="row mb-5">
-  <div class="col-sm-3">
+  <div class="col-md-3">
     <p>
       <strong>Code and Effect</strong>
       <br>
@@ -32,7 +29,7 @@ description: 'Have a chat with Dana: hello@codeandeffect.com or Call +1 780‑61
       Office by appointment
     </p>
   </div>
-  <div class="col-sm-9">
+  <div class="col-md-9">
     <a href="https://g.page/codeandeffect?share">
       <img src="{{ "/assets/images/code-and-effect-parking-map.png" | absolute_url }}" alt="Parking near Code and Effect" class="img-fluid">
     </a>

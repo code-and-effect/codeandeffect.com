@@ -1,5 +1,4 @@
 .page {
-  margin-bottom: 6rem;
 }
 
 .page-title {
@@ -49,7 +48,7 @@
 .organization h3 a:hover { color: $primary; text-decoration: underline; }
 
 
-.metrics { text-align: center; }
+.metric { text-align: center; }
 .metrics .border { border-width: 2px !important; }
 .metrics span { display: block; font-weight: 300; }
 
@@ -67,4 +66,3 @@ hr {
   border-radius: 5px;
 }
 
-body.home-layout .solutions .page-subtitle { display: none; }

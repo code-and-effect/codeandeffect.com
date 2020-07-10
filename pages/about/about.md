@@ -1,8 +1,8 @@
 ---
 layout: about
-title: About
+title: About Code and Effect
+subtext: We have delivered hundreds of projects together since 2007.
 permalink: "/about/"
-subtext: "The Code and Effect team has delivered hundreds of projects together since 2007."
 description: "The Code and Effect team has delivered hundreds of projects together since 2007."
 redirect_from:
   - /our-story/

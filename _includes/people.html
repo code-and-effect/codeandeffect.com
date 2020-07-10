@@ -1,29 +1,27 @@
-<div class="container">
-  <h2 class="page-subtitle">Founders</h2>
+<h2 class="page-subtitle">Founders</h2>
 
-  {% for person in site.data.people %}
-    <div class="row person mb-5">
-      <div class="col-sm-auto">
-        <img src="/assets/images/{{ person.image }}" alt="{{ person.name }}" class="img-fluid mb-2 shadow rounded">
-      </div>
-      <div class="col">
-        <h3 class="mt-0 mb-0">{{ person.name }}</h2>
-        <ul class="list-inline">
-          {% if person.github %}
-            <li class="list-inline-item"><a href= "{{ person.github }}">GitHub</a></li>
-          {% endif %}
-
-          {% if person.linkedin %}
-            <li class="list-inline-item"><a href= "{{ person.linkedin }}">LinkedIn</a></li>
-          {% endif %}
-
-          {% if person.twitter %}
-            <li class="list-inline-item"><a href= "{{ person.twitter }}">Twitter</a></li>
-          {% endif %}
-        </ul>
-        <p>{{ person.description }}</p>
-
-      </div>
+{% for person in site.data.people %}
+  <div class="row person mb-5">
+    <div class="col-sm-auto">
+      <img src="/assets/images/{{ person.image }}" alt="{{ person.name }}" class="img-fluid mb-2 shadow rounded">
     </div>
-  {% endfor %}
-</div>
+    <div class="col">
+      <h3 class="mt-0 mb-0">{{ person.name }}</h2>
+      <ul class="list-inline">
+        {% if person.github %}
+          <li class="list-inline-item"><a href= "{{ person.github }}">GitHub</a></li>
+        {% endif %}
+
+        {% if person.linkedin %}
+          <li class="list-inline-item"><a href= "{{ person.linkedin }}">LinkedIn</a></li>
+        {% endif %}
+
+        {% if person.twitter %}
+          <li class="list-inline-item"><a href= "{{ person.twitter }}">Twitter</a></li>
+        {% endif %}
+      </ul>
+      <p>{{ person.description }}</p>
+
+    </div>
+  </div>
+{% endfor %}

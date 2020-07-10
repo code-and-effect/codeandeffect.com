@@ -6,7 +6,7 @@ navbar:
     identifier: solutions
 
   - url: '#'
-    title: Process
+    title: How we work
     identifier: process
 
   - url: '#'
