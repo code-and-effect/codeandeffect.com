@@ -1,7 +1,7 @@
 ---
 layout: home
 title: 'Member Databases and Portals for Associations'
-description: 'We develop cloud-based software that fits the rules, bylaws, and regulatory requirements of associations.'
+description: 'We custom develop cloud-based software that fits the rules, bylaws, and regulatory requirements of associations.'
 jumbotron_text: ''
 redirect_from:
   - /space/

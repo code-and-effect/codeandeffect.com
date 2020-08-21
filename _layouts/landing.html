@@ -40,27 +40,87 @@ layout: compress
   </head>
 
   <body class="{{ page.layout }}-layout">
-    {%- include navbar.html -%}
+    <nav class="navbar navbar-expand-md navbar-light pt-5 pb-0">
+      <div class="container">
+        <div class="navbar-brand">
+          {% svg "/assets/images/code-and-effect-logo.svg" width="195" height="40" role="img" %}
+        </div>
+      </div>
+    </nav>
 
     <main class="main">
-      {{ content }}
+
+      <div class="container">
+        <header class="jumbotron jumbotron-fluid jumbotron-home pb-3 mb-3">
+          <h1 class="display-1">{{ page.titletext | escape }}</h1>
+          <p class="lead mb-3">{{ page.subtext }}</p>
+        </header>
+
+        <div class="row">
+          <div class="col-md-7 order-2 order-sm-1">
+            <article class="page">
+              {{ content }}
+            </article>
+          </div>
+
+          <div class="col-md-4 offset-md-1 order-1 order-sm-2">
+            {% include schedule-call.html %}
+          </div>
+        </div>
+      </div>
+
+
+      <div class="container mt-5">
+        <h2 class="page-subtitle">How we work</h2>
+
+        <div class="row">
+          {% for process in site.data.processes %}
+            <div class="process col-sm-4 mb-5">
+              <div class="process-step">
+                {% svg "{{ process.icon }}" width=32 class="mb-2" role="img" %}
+                Step {{ process.step }}:
+              </div>
+              <h3>{{ process.title }}</h3>
+              <p>{{ process.description }}</p>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+
+      {% include metrics.html %}
+
+      <br>
+
     </main>
 
-    {%- include footer.html -%}
+    <div class="jumbotron jumbotron-fluid jumbotron-footer">
+      <div class="container">
+        <div class="display-1">
+          Let's create the perfect cloud-based software for your association.
+        </div>
+        <p class="mb-0"><a class="btn btn-primary btn-lg mb-0" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/danaj/30min-zoom?hide_event_type_details=1'});return false;" role="button">Book a free 30 minute Zoom call &rarr;</a></p>
+      </div>
+    </div>
+
+    <footer class="footer">
+      <div class="container footer-main">
+        <div class="row">
+          <div class="col">
+            <div class="copyright text-center" style="border-top: 0">
+              <a href='mailto:hello@codeandeffect.com'>hello@codeandeffect.com</a>
+              <br>
+              &copy; 2007-2020 Code and Effect
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
 
     <div class='js'>
       <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
       <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
       <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
       <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" crossorigin="anonymous"></script>
-
-      <script>
-        $('.nav-item.dropdown').hover(function(){
-            $(this).children('[data-toggle="dropdown"]').click();
-        }, function(){
-            $(this).children('[data-toggle="dropdown"]').click();
-        });
-      </script>
     </div>
   </body>
 </html>
