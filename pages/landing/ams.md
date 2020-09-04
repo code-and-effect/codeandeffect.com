@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Custom Association Management Software
-titletext: Association management software that does exactly what you need.
+titletext: Association management software that works exactly how you need.
 subtext: We custom develop cloud-based software that matches your rules, bylaws, and regulatory requirements. Simplify your processes, empower your members, and run your organization with ease.
 permalink: "/ams/"
 description: "The Code and Effect team has delivered hundreds of projects together since 2007."

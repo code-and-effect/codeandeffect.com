@@ -4,7 +4,7 @@ layout: default
 
 <header class="jumbotron jumbotron-fluid jumbotron-home pb-3 mb-5">
   <div class="container">
-    <h1 class="display-1">Association management software that does exactly what you need.</h1>
+    <h1 class="display-1">Association management software that works exactly how you need.</h1>
 
     <p class="lead mb-4">We custom develop cloud-based software that matches your rules, bylaws, and regulatory requirements. Simplify your processes, empower your members, and run your organization with ease.</p>
 
@@ -38,12 +38,12 @@ layout: default
   </div>
 
 
-  <div class="row text-center logos">
-    <div class="col-sm mb-5"><img src="/assets/images/logos/logo-aspb.png" alt="ASPB Logo" class="img-fluid"></div>
-    <div class="col-sm mb-5"><img src="/assets/images/logos/logo-cab.png"  alt="CAB Logo"  class="img-fluid"></div>
-    <div class="col-sm mb-5"><img src="/assets/images/logos/logo-aala.png" alt="AALA Logo" class="img-fluid"></div>
-    <div class="col-sm mb-5"><img src="/assets/images/logos/logo-acpa.png" alt="ACPA Logo" class="img-fluid"></div>
-  </div>
+  <div class="row text-center logos justify-content-center">
+    {% for logo in site.data.logos %}
+      <div class="col-sm-3 mb-5 ">
+        <img src="/assets/images/logos/{{ logo.filename }}" alt="{{ logo.organization }}" class="img-fluid">
+      </div>
+    {% endfor %}
 </div>
 
 {% include processes.html %}
