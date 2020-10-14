@@ -24,13 +24,13 @@ organizations:
     we: "We help you engage the public and streamline your membership processes."
     link: '/professional-associations/'
 
-  - title: "Trade Associations"
-    you: "You align an industry towards the goals of your membership."
-    we: "We help you coordinate the voice of your membership."
-    link: '/trade-associations/'
-
   - title: "Member Organizations"
     you: "You provide solutions, benefits, and information to benefit your members."
     we: "We help you focus on your purpose instead of your administration."
     link: '/member-organizations/'
+
+  - title: "Trade Associations"
+    you: "You align an industry towards the goals of your membership."
+    we: "We help you coordinate the voice of your membership."
+    link: '/trade-associations/'
 ---

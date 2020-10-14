@@ -23,7 +23,7 @@ Discover and Plan breaks down into four phases:
 * Who will use this software,
 * Why they will use it, and
 * What their specific requirements are.
-  
+
 
   This kickoff meeting will either be through Zoom or in-person, depending on the circumstances.
 

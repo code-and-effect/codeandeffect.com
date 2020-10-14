@@ -19,7 +19,7 @@ layout: default
     {% endif %}
   </header>
 
-  <div class="row">
+  <div class="row mb-5">
     <div class="col-md-8 order-2 order-sm-1">
       <article class="page">
         {{ content }}
@@ -40,13 +40,11 @@ layout: default
   {% include processes.html %}
 {% endif %}
 
-
 {% if page.show_jump_processes %}
 <div class="jump-links">
 {% include processes.html %}
 </div>
 {% endif %}
-
 
 {% if page.show_jump_solutions %}
 <div class="jump-links">
