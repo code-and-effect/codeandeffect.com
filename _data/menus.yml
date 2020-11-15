@@ -18,16 +18,16 @@ navbar:
 
 company:
   - url: /about/
-    title: About
+    title: About Us
 
   - url: /speaking/
     title: Speaking
 
-  - url: /tadum/
-    title: 'Tadum'
+  - url: https://tadum.app
+    title: 'Tadum Meeting Agendas'
 
   - url: /effective-gems/
-    title: Ruby Gems
+    title: Open Source Ruby Gems
 
 
 solutions:

@@ -17,7 +17,7 @@ Check back soon!
 
 ## 2020
 
-* **ATB X Accelerator** - Calm Your Chaos - Part 2: Self-Care, Themes, Focus, Decision Making, and Task Management (Pandemic Edition) 
+* **ATB X Accelerator** - Calm Your Chaos - Part 2: Self-Care, Themes, Focus, Decision Making, and Task Management (Pandemic Edition)
 * **ATB X Accelerator** - Calm Your Chaos - Part 1: Email, Calendar, and Meeting Tactics
 * **YEGRB Meetup** - [Ruby on Rails Tips and Tricks](https://www.youtube.com/watch?v=Ci3ViXnVCng)
 

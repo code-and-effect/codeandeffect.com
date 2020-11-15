@@ -1,7 +1,7 @@
 ---
 layout: home
-title: 'Member Databases and Portals for Associations'
-description: 'We custom develop cloud-based software that fits the rules, bylaws, and regulatory requirements of associations.'
+title: 'Association management software developers'
+description: 'We create and support custom association management software (AMS).'
 jumbotron_text: ''
 redirect_from:
   - /space/

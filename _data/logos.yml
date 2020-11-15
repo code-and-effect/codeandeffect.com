@@ -16,6 +16,9 @@
 - filename: "logo-cab.png"
   organization: "College of Applied Biology of British Columbia"
 
+- filename: "logo-espcn.png"
+  organization: "Edmonton Southside Primary Care Network"
+
 - filename: "logo-fava.png"
   organization: "Film and Video Arts Society of Alberta"
 
@@ -31,5 +34,5 @@
 - filename: "logo-wamea.png"
   organization: "Western Aircraft Maintenance Engineers Association"
 
-- filename: "logo-2020.png"
-  organization: "20/20 Seed Labs"
+#- filename: "logo-2020.png"
+#  organization: "20/20 Seed Labs"

@@ -5,6 +5,14 @@ body { background: #444; }
 
 h2 { margin: 3rem 0 1rem; }
 
+h3.h3-small {
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+  margin-top: 1.5rem;
+  font-size: 1.25rem;
+}
+
 .page h2:first-child { margin-top: 0 !important; }
 
 ol li { margin-bottom: 1rem; }
+

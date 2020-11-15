@@ -9,8 +9,8 @@ description: 'Have a chat with Dana: hello@codeandeffect.com or Call +1 780‑61
 ---
 
 
-<div class="row mb-5">
-  <div class="col-md-3">
+<div class="row mb-3">
+  <div class="col">
     <p>
       <strong>Code and Effect</strong>
       <br>
@@ -21,15 +21,18 @@ description: 'Have a chat with Dana: hello@codeandeffect.com or Call +1 780‑61
       Canada
       <br>
     </p>
+  </div>
+  <div class="col">
     <p>
-      <a href="tel:+17806198868">+1 780-619-8868</a>
       <br>
-      <a href="mailto:hello@codeandeffect.com?subject=hey%20Dana!" target="_blank">hello@codeandeffect.com</a>
+      Phone: <a href="tel:+17806198868">+1 780-619-8868</a>
       <br>
-      Office by appointment
+      Email: <a href="mailto:hello@codeandeffect.com?subject=hey%20Dana!" target="_blank">hello@codeandeffect.com</a>
     </p>
   </div>
-  <div class="col-md-9">
+</div>
+<div class="row mb-5">
+  <div class="col">
     <a href="https://g.page/codeandeffect?share">
       <img src="{{ "/assets/images/code-and-effect-parking-map.png" | absolute_url }}" alt="Parking near Code and Effect" class="img-fluid">
     </a>
