@@ -3,7 +3,7 @@ layout: simple
 title: 2020 Association Conferences
 subtext: It's all virtual conferences this year and we're doing our best to be available. Here's a summary of the events we are involved with in 2020!
 permalink: "/cnar-amsfest-tec20/"
-description: 'TODO'
+description: 'Code and Effect at conferences in 2020'
 ---
 
 ## CNAR 2020
