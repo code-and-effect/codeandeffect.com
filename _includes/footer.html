@@ -7,9 +7,27 @@
       We’ll work with you to create software that takes your association from overwhelmed and frustrated to calm, cool, and collected.
     </p>
     <p class="mb-0">
-      <span class="btn btn-primary btn-lg mb-0"  onclick="Calendly.initPopupWidget({url: 'https://calendly.com/danaj/30min-zoom?hide_event_type_details=1'});return false;" role="button">Book a free 30 minute Zoom call &rarr;</a></p>
+      <span class="btn btn-primary btn-lg mb-0"  onclick="Calendly.initPopupWidget({url: 'https://calendly.com/danaj/30min-zoom?hide_event_type_details=1'});return false;" role="button">Book a free 30 minute Zoom call &rarr;</span></p>
   </div>
 </div>
+
+
+<footer class="partners pt-3">
+  <div class="container">
+    <div class="text-center text-muted">Proud partners of</div>
+    <div class="row text-center logos justify-content-center">
+
+
+      {% for partner in site.data.partners %}
+        <div class="col-sm-4">
+          <a href="{{ partner.website }}">
+            <img src="/assets/images/partners/{{ partner.filename }}" alt="{{ partner.organization }}" class="img-fluid mt-2 mb-3">
+          </a>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</footer>
 
 <footer class="footer">
   <div class="container footer-main">
@@ -39,7 +57,7 @@
 
     <div class="row">
       <div class="col">
-        <div class="copyright">&copy; 2007-2020 Code and Effect</div>
+        <div class="copyright">&copy; 2007-{{ 'now' | date: "%Y" }} Code and Effect</div>
       </div>
     </div>
   </div>
