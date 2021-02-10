@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Association Member Portals
+title: Member Portals for Associations and Colleges
 titletext: Help your members help themselves
 permalink: "/member-portals/"
 description: Empower members to sign in and manage their information, submit payments,

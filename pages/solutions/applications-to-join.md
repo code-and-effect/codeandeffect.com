@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Association Applications to Join and Reclassify"
+title: "Applications to Join or Reclassify for Associations and Colleges"
 titletext: "Streamline your member applications and reclassifications"
 permalink: "/applications-to-join/"
 description: "Streamline complex applicant workflows, including: submissions, references, payments, committee reviews, revisions, and approvals."

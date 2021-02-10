@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Association Websites"
+title: "Websites for Associations and Colleges"
 titletext: "Good looking and easy to update"
 permalink: "/association-websites/"
 description: "Communicate with members and the public with a professional, easy-to-update website."

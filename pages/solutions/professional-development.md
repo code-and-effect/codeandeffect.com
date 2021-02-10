@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Association Professional Development
+title: Professional Development for Associations and Colleges
 titletext: Easy professional development records
 permalink: "/professional-development/"
 description: Web-based tools to track, submit, roll forward, and audit all required

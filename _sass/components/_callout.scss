@@ -11,6 +11,26 @@
 }
 
 .callout-light {
-  background: $primary;
-  color: $black;
+  blockquote,
+  .blockquote {
+    border-left: solid 12px $primary;
+    padding-left: 20px;
+  }
 }
+
+
+.callout-light.callout-flipped {
+  text-align: right;
+
+  blockquote,
+  .blockquote {
+    text-align: right;
+    border-right: solid 12px $primary;
+    padding-right: 20px;
+    border-left: 0 !important;
+    padding-left: 0 !important;
+  }
+}
+
+
+.blockquote-footer::before { content: none; }

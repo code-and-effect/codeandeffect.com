@@ -18,7 +18,10 @@ navbar:
 
 company:
   - url: /about/
-    title: About Us
+    title: About
+
+  - url: /testimonials/
+    title: Testimonials
 
   - url: /speaking/
     title: Speaking

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Association Dues, Renewals, and Fees
+title: Dues, Renewals, and Fees for Associations and Colleges
 titletext: Calculate complex annual payments
 permalink: "/dues-renewals-fees/"
 description: Calculate and charge the correct dues or fees, including for complex

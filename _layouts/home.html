@@ -28,7 +28,7 @@ layout: default
   <div class="row">
     {% for organization in page.organizations %}
       <div class="organization col-sm-6 mb-5">
-        <h3>{{ organization.title }}</a></h3>
+        <h3>{{ organization.title }}</h3>
         <p>
           {{ organization.you }}
           {{ organization.we }}
@@ -44,6 +44,7 @@ layout: default
         <img src="/assets/images/logos/{{ logo.filename }}" alt="{{ logo.organization }}" class="img-fluid">
       </div>
     {% endfor %}
+  </div>
 </div>
 
 {% include processes.html %}

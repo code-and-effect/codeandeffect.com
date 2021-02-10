@@ -1,7 +1,7 @@
 ---
 layout: home
-title: 'Association management software developers'
-description: 'We create and support custom association management software (AMS).'
+title: 'Custom Association Management Software (AMS) Developers'
+description: 'We design and develop custom association management software (AMS).'
 jumbotron_text: ''
 redirect_from:
   - /space/
@@ -14,23 +14,23 @@ redirect_from:
   - /coach-and-grow/
 
 organizations:
-  - title: "Regulated Associations"
-    you: "You have a mandated authority to credential and audit your profession or industry."
+  - title: "Regulated Organizations"
+    you: "You are a college, association, or other regulatory body that has a mandated authority to credential and audit your membership."
     we: "We help you educate, implement, and enforce this responsibility."
     link: '/regulated-associations/'
 
   - title: "Professional Associations"
-    you: "You advocate for key issues on behalf of your profession."
+    you: "You are an organization with an optional (but important!) membership to represent your profession, region, or industry."
     we: "We help you engage the public and streamline your membership processes."
     link: '/professional-associations/'
 
-  - title: "Member Organizations"
-    you: "You provide solutions, benefits, and information to benefit your members."
+  - title: "Member Associations"
+    you: "You provide benefits, education, and networking to your members across professions and industries."
     we: "We help you focus on your purpose instead of your administration."
     link: '/member-organizations/'
 
   - title: "Trade Associations"
-    you: "You align an industry towards the goals of your membership."
+    you: "You align a regional industry towards the goals of your membership."
     we: "We help you coordinate the voice of your membership."
     link: '/trade-associations/'
 ---

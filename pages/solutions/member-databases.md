@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Association Member Databases
+title: Member Databases for Associations and Colleges
 titletext: Information at your fingertips
 permalink: "/member-databases/"
 description: 'Custom member relationship management databases to track anything, including:
@@ -24,7 +24,7 @@ jr_description: Help your members help themselves.
 
 ## Everything in one place
 
-We help associations create and manage online member databases that make it easy to look up information and simplify administrative tasks.
+We help organizations create and manage online member databases that make it easy to look up information and simplify administrative tasks.
 
 These databases dynamically record important events (like every email sent by the database, or the member starting dues payment) in a member’s history so that it can be pulled up later.
 
