@@ -3,8 +3,6 @@ layout: simple
 title: Slides for the Start Alberta RFQ Q&A
 permalink: "/startalberta/"
 description: 'Hey there, Start Alberta Partners :) '
-redirect_from:
-  - /startalberta
 sitemap: false
 ---
 
