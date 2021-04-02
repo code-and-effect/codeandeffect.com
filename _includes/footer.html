@@ -17,11 +17,10 @@
     <div class="text-center text-muted">Proud partners of</div>
     <div class="row text-center logos justify-content-center">
 
-
       {% for partner in site.data.partners %}
         <div class="col-sm-4">
           <a href="{{ partner.website }}">
-            <img src="/assets/images/partners/{{ partner.filename }}" alt="{{ partner.organization }}" class="img-fluid mt-2 mb-3">
+            <img src="/assets/images/partners/{{ partner.filename }}" alt="{{ partner.organization }}" class="img-fluid mt-2 mb-3" height="90" width="200">
           </a>
         </div>
       {% endfor %}
@@ -39,7 +38,7 @@
             <h5 class="nav-title">{{ item.title }}</h5>
             <ul class="nav flex-column">
               {% for item in item.children %}
-                <li class="nav-item">
+                <li class="nav-item my-1">
                   <a class="nav-link nav-link-footer" href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
                 </li>
               {% endfor %}
@@ -49,9 +48,13 @@
       {% endfor %}
       <div class="mb-3 text-right">
         <h5 class="nav-title">Get in touch</h5>
-        <a href="tel:+17806198868">+1 780-619-8868</a>
-        <br />
-        <a href="mailto:hello@codeandeffect.com?subject=hey%20Dana!" target="_blank">hello@codeandeffect.com</a>
+        <ul class="nav flex-column">
+          <li class="nav-item my-1">
+            <a href="tel:+17806198868" class="nav-link nav-link-footer">+1 780-619-8868</a>
+          </li>
+          <li class="nav-item my-1">
+            <a href="mailto:hello@codeandeffect.com?subject=hey%20Dana!" class="nav-link nav-link-footer"target="_blank">hello@codeandeffect.com</a>
+          </li>
       </div>
     </nav>
 
