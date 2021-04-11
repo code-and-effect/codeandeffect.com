@@ -12,6 +12,20 @@ redirect_from:
 
 
 <div class="container">
+
+  <div class="callout callout-light callout-flipped mb-5">
+    <blockquote class="blockquote mb-0">
+      <p class="text-right mb-4">
+        &ldquo;Code & Effect has been an invaluable resource for ARTA as we developed and launched complex benefits administration systems in less than a year. They are extremely professional and capable, and can diagnose issues, propose solutions and implement them in a timely manner. We continue to receive their assistance after launch through a maintenance agreement and look forward to collaborating on additional projects in the future.&rdquo;
+      </p>
+      <footer class="blockquote-footer text-left">
+        Amanda Shaw, Chief Marketing Officer
+        <br>
+        Alberta Retired Teachers' Association
+      </footer>
+    </blockquote>
+  </div>
+
   <div class="callout callout-light mb-5">
     <blockquote class="blockquote mb-0">
       <p class="text-left">
