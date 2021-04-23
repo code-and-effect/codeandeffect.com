@@ -16,7 +16,7 @@ redirect_from:
   <div class="callout callout-light callout-flipped mb-5">
     <blockquote class="blockquote mb-0">
       <p class="text-right mb-4">
-        &ldquo;Code & Effect has been an invaluable resource for ARTA as we developed and launched complex benefits administration systems in less than a year. They are extremely professional and capable, and can diagnose issues, propose solutions and implement them in a timely manner. We continue to receive their assistance after launch through a maintenance agreement and look forward to collaborating on additional projects in the future.&rdquo;
+        &ldquo;Code and Effect has been an invaluable resource for ARTA as we developed and launched complex benefits administration systems in less than a year. They are extremely professional and capable, and can diagnose issues, propose solutions and implement them in a timely manner. We continue to receive their assistance after launch through a maintenance agreement and look forward to collaborating on additional projects in the future.&rdquo;
       </p>
       <footer class="blockquote-footer text-left">
         Amanda Shaw, Chief Marketing Officer
@@ -55,7 +55,7 @@ redirect_from:
   <div class="callout callout-light mb-5">
     <blockquote class="blockquote mb-0">
       <p class="text-left">
-        &ldquo;Code & Effect is a professional, collaborative, knowledgeable and responsive team to work with and have demonstrated exemplary customer service. The product they created, customized and updated as needed for Edmonton Southside Primary Care Network has been invaluable for our business management.&rdquo;
+        &ldquo;Code and Effect is a professional, collaborative, knowledgeable and responsive team to work with and have demonstrated exemplary customer service. The product they created, customized and updated as needed for Edmonton Southside Primary Care Network has been invaluable for our business management.&rdquo;
       </p>
       <footer class="blockquote-footer text-right">
         Karoline Kiddine, Corporate Administrative Coordinator
