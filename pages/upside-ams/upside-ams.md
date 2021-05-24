@@ -3,7 +3,7 @@ layout: page
 title: Upside AMS
 titletext: Custom software that acts like a SaaS
 permalink: "/upside-ams/"
-description: TODO
+description: Upside AMS is our fully customized association managment software.
 bullets:
 - Upside AMS is a platform for custom software development
 - We work with you to implement to your exact requirements

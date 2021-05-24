@@ -12,7 +12,7 @@ bullets:
 show_jump_solutions: true
 jl_title: Elections
 jl_link: /elections/
-jl_description: TODO
+jl_description: Secure and private online voting
 jr_title: Member Databases
 jr_link: /member-databases/
 jr_description: "Information at your fingertips."
