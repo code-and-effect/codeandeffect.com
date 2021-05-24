@@ -1,0 +1,21 @@
+.table td, 
+.table th {
+  vertical-align: middle !important;
+}
+
+.table td,
+.table thead th { text-align: center; }
+
+.table th { font-weight: normal; }
+.table thead th { font-weight: 600; }
+
+.table { font-size: 0.875rem; }
+
+
+.table-bordered th,
+.table-bordered td,
+.table thead th {
+  border: solid 2px #fff;
+}
+
+.table td { height: 70px; }
