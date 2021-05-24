@@ -33,7 +33,7 @@ This the public website for Code and Effect. It used [effective_jekyll](https://
 
 ## License
 
-MIT License. Copyright [Code and Effect Inc.](http://www.codeandeffect.com/)
+Copyright [Code and Effect Inc.](http://www.codeandeffect.com/)
 
 ## Contributing
 

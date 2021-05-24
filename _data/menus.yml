@@ -1,5 +1,7 @@
 ---
 navbar:
+  - url: /upside-ams/
+    title: Upside AMS
 
   - url: '#'
     title: Solutions
@@ -49,17 +51,23 @@ solutions:
   - url: /professional-development/
     title: Professional Development
 
+  - url: /committees/
+    title: Committees
+
+  - url: /elections/
+    title: Elections
+
   - url: /association-websites/
     title: Association Websites
 
 process:
   - url: /discover-and-plan/
-    title: "Step 1: Discover and Plan"
+    title: "Phase 1: Discover and Plan"
 
   - url: /develop-and-launch/
-    title: "Step 2: Develop and Launch"
+    title: "Phase 2: Develop and Launch"
 
   - url: /support-and-improve/
-    title: "Step 3: Support and Improve"
+    title: "Phase 3: Support and Improve"
 
 ---

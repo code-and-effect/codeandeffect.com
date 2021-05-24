@@ -13,9 +13,9 @@ show_jump_solutions: true
 jl_title: Dues, Renewals, and Fees
 jl_link: "/dues-renewals-fees/"
 jl_description: Calculate and collect complex dues or fees
-jr_title: Association Websites
-jr_link: "/association-websites/"
-jr_description: Good looking and easy to update
+jr_title: Committees
+jr_link: "/committees/"
+jr_description: TODO
 
 ---
 **Problem:** Tracking CE and PD can be cumbersome and time-consuming, but it's mandated.

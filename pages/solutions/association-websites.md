@@ -9,11 +9,10 @@ bullets:
   - "Easy to update and maintain."
   - "Looks great on all devices."
 
-
 show_jump_solutions: true
-jl_title: Professional Development
-jl_link: /professional-development/
-jl_description: "Easy professional development records."
+jl_title: Elections
+jl_link: /elections/
+jl_description: TODO
 jr_title: Member Databases
 jr_link: /member-databases/
 jr_description: "Information at your fingertips."
