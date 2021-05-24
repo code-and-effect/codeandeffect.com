@@ -176,5 +176,5 @@ No problem! Just like all of our work that falls under our Master Services Agree
 
 ## What does Support and Improve cost?
 
-It depends on the complexity of your application, integrations, and any other requirements we agree to. We suggest budgeting $500-$1200 per month, but plan on talking it over with us to find a cost point that works for everyone.
+It depends on the complexity of your application, integrations, and any other requirements we agree to. We suggest budgeting $500-$1250 per month, but plan on talking it over with us to find a cost point that works for everyone.
 
