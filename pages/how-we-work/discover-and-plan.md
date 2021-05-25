@@ -55,6 +55,6 @@ Starting at $15,000.
 
 2-3 weeks.
 
-## What's the next step after Discover and Plan?
+## What's the next phase after Discover and Plan?
 
 We move into [Develop and Launch](/develop-and-launch/)!

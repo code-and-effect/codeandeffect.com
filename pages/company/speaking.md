@@ -2,24 +2,26 @@
 layout: simple
 title: Speaking and Workshops
 permalink: "/speaking/"
-subtext: Code and Effect participates in the local Edmonton business and technology
-  communities by sharing our expertise as guests and speakers. We speak on a wide
-  variety of topics such as productivity, meeting and agenda management, web development
-  project management, the challenges of entrepreneurship, and more! To learn more
-  about the topics we can speak on, or to book an engagement, please contact us.
-description: We participate in the local business and technology communities by sharing
-  our expertise as guests and speakers.
+subtext: Code and Effect participates in business and technology communities by sharing our expertise as guests and speakers. We speak on a wide variety of topics such as software development, productivity, meeting and agenda management, and the challenges of entrepreneurship!
+description: We participate in business and technology communities by sharing our expertise as guests and speakers.
 
 ---
-## Upcoming Speaking
 
-Check back soon!
+## 2021
+
+* **Canadian Network of Agencies for Regulation (CNAR)** - Creating a Culture of Calm in your Organization
+* **Canadian Society of Association Executives (CSAE)** - Keeping Pace with Technology: 5 Tactics to Evaluate Where You Stand and Where You Need to Go
+* **Association Trends** - Choosing the Right AMS
+* **ATB X Accelerator** - Calm Your Chaos - Prioritization, Focus, Self-care, Availability, and Imagining your Ideal Week Webinar
+* **Canadian Society of Association Executives (CSAE)** -  Tête-à-Tête - How to evaluate where you stand and where you need to go Virtual Roundtable
 
 ## 2020
 
-* **ATB X Accelerator** - Calm Your Chaos - Part 2: Self-Care, Themes, Focus, Decision Making, and Task Management (Pandemic Edition)
 * **ATB X Accelerator** - Calm Your Chaos - Part 1: Email, Calendar, and Meeting Tactics
+* **ATB X Accelerator** - Calm Your Chaos - Part 2: Self-Care, Themes, Focus, Decision Making, and Task Management (Pandemic Edition)
 * **YEGRB Meetup** - [Ruby on Rails Tips and Tricks](https://www.youtube.com/watch?v=Ci3ViXnVCng)
+
+... then COVID happened and all the events stopped until 2021 :)
 
 ## 2019
 
@@ -64,18 +66,24 @@ Check back soon!
 * **Rotary Club of Edmonton West** - Intentional Networking
 * **ATB Entrepreneur SpeakEasy** - How do you keep your customers coming back for more?
 
-## 2013-2016
+## 2016
 
-* 2016 - **Digital Project Managers Meetup** - Know Yourself, Manage Better
-* 2016 - **DisruptHR YEG** - [Culture = Cash](https://vimeo.com/170539602)
-* 2016 - **Storytelling & Time Management: Tips, Tools & Tactics** - Workshop
-* 2015 - **UX Camp 2015 -** A Framework for Deciding the How After the What (QSRT)
-* 2015 - **#girlbossyeg Panel** - [Panel of Albertan women in leadership roles](https://www.youtube.com/watch?v=qde1xxOf9Rs)
-* 2015 - **UofA Faculty of Arts Q&A -** [Q & A with Ashley Janssen](https://uofa.ualberta.ca/arts/faculty-news/2015/february/q-a-with-ashley-janssen-arts-alumna-and-co-owner-of-web-start-up-agilestyle)
-* 2015 - **ACF Guest Blog** - [Bathroom Cries and Snack Machine Runs](http://albertacancer.tumblr.com/post/108915308328/bathroom-cries-and-snack-machine-runs-supporting)
-* 2015 - **YEGRB Meetup** - [effective_gems](https://docs.google.com/a/agilestyle.com/presentation/d/1RSWghH5SPGulvag6jJ4hPwNc4wTmWwPkRRWvV7cRkQ0/edit?usp=drive_web)
-* 2015 - **ACF Guest Blog** - [World class treatment only 20 minutes from home](http://albertacancer.tumblr.com/post/107324138964/world-class-treatment-only-20-minutes-from-home)
-* 2014 - **UofA Engineering Cancer Head Shave** - What does shaving your head mean to cancer patients?
-* 2014 - **UX Camp 2014** - Deliverables your developers will love
-* 2014 - **Capital Ideas Panel** - Making the transition from freelancer to entrepreneur
-* 2013 - **Alberta Venture Lunch With** - Two family-focused business minds discuss the need to delegate without abdicating
+* **Digital Project Managers Meetup** - Know Yourself, Manage Better
+* **DisruptHR YEG** - [Culture = Cash](https://vimeo.com/170539602)
+* **Storytelling & Time Management: Tips, Tools & Tactics** - Workshop
+
+## 2015
+
+* **UX Camp 2015 -** A Framework for Deciding the How After the What (QSRT)
+* **#girlbossyeg Panel** - [Panel of Albertan women in leadership roles](https://www.youtube.com/watch?v=qde1xxOf9Rs)
+* **UofA Faculty of Arts Q&A -** [Q & A with Ashley Janssen](https://uofa.ualberta.ca/arts/faculty-news/2015/february/q-a-with-ashley-janssen-arts-alumna-and-co-owner-of-web-start-up-agilestyle)
+* **ACF Guest Blog** - [Bathroom Cries and Snack Machine Runs](http://albertacancer.tumblr.com/post/108915308328/bathroom-cries-and-snack-machine-runs-supporting)
+* **YEGRB Meetup** - [effective_gems](https://docs.google.com/a/agilestyle.com/presentation/d/1RSWghH5SPGulvag6jJ4hPwNc4wTmWwPkRRWvV7cRkQ0/edit?usp=drive_web)
+* **ACF Guest Blog** - [World class treatment only 20 minutes from home](http://albertacancer.tumblr.com/post/107324138964/world-class-treatment-only-20-minutes-from-home)
+
+## 2014
+
+* **UofA Engineering Cancer Head Shave** - What does shaving your head mean to cancer patients?
+* **UX Camp 2014** - Deliverables your developers will love
+* **Capital Ideas Panel** - Making the transition from freelancer to entrepreneur
+* **Alberta Venture Lunch With** - Two family-focused business minds discuss the need to delegate without abdicating

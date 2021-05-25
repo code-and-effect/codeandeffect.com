@@ -1,65 +1,75 @@
 ---
 navbar:
-
+  - url: /upside-ams/
+    title: Upside AMS
+    weight: 1
   - url: '#'
     title: Solutions
     identifier: solutions
-
+    weight: 2
   - url: '#'
     title: How we work
     identifier: process
-
+    weight: 3
   - url: '#'
     title: Company
     identifier: company
-
+    weight: 4
   - url: /contact/
     title: Contact
+    weight: 5
 
 company:
   - url: /about/
     title: About
-
+    weight: 1
   - url: /testimonials/
     title: Testimonials
-
+    weight: 2
   - url: /speaking/
     title: Speaking
-
+    weight: 3
   - url: https://tadum.app
     title: 'Tadum Meeting Agendas'
-
+    weight: 4
   - url: /effective-gems/
-    title: Open Source Ruby Gems
-
+    title: Open Source
+    weight: 5
 
 solutions:
   - url: /member-databases/
     title: Member Databases
-
+    weight: 1
   - url: /member-portals/
     title: Member Portals
-
+    weight: 2
   - url: /applications-to-join/
     title: Applications to Join
-
+    weight: 3
   - url: /dues-renewals-fees/
     title: Dues, Renewals, and Fees
-
+    weight: 4
   - url: /professional-development/
     title: Professional Development
-
+    weight: 5
+  - url: /committees/
+    title: Committees
+    weight: 6
+  - url: /elections/
+    title: Elections
+    weight: 7
   - url: /association-websites/
     title: Association Websites
+    weight: 8
 
 process:
   - url: /discover-and-plan/
-    title: "Step 1: Discover and Plan"
-
+    title: "Phase 1: Discover and Plan"
+    weight: 1
   - url: /develop-and-launch/
-    title: "Step 2: Develop and Launch"
-
+    title: "Phase 2: Develop and Launch"
+    weight: 2
   - url: /support-and-improve/
-    title: "Step 3: Support and Improve"
-
+    title: "Phase 3: Support and Improve"
+    weight: 3
 ---

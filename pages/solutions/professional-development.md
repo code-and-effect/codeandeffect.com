@@ -13,9 +13,9 @@ show_jump_solutions: true
 jl_title: Dues, Renewals, and Fees
 jl_link: "/dues-renewals-fees/"
 jl_description: Calculate and collect complex dues or fees
-jr_title: Association Websites
-jr_link: "/association-websites/"
-jr_description: Good looking and easy to update
+jr_title: Committees
+jr_link: "/committees/"
+jr_description: Securely share files
 
 ---
 **Problem:** Tracking CE and PD can be cumbersome and time-consuming, but it's mandated.
@@ -26,7 +26,7 @@ jr_description: Good looking and easy to update
 
 We’ve helped implement online continuing education and professional development trackers that have recorded hundreds of thousands of hours worth of activities. No matter what your annual statements and calculations look like, we’ve handled something like it before.
 
-## Calculations, caps, and carryforwards
+## Calculations, caps, and carry forwards
 
 For members, tracking is necessary to maintain their credentials. We ensure they have easy-to-use online continuing education and professional development tracking that automatically calculates hours or credits, minimums, maximums, per category restrictions, and more. It’s never been easier to stay on top of it!
 

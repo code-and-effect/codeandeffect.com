@@ -1,4 +1,4 @@
-ruby "2.6.3" # forestry.io needs 2.6.3, netlify defaults to 2.6.2 but will install 2.6.3 automatically, github actions needs 2.6.5
+ruby "2.7.1" # forestry.io needs 2.6.3, netlify defaults to 2.6.2 but will install 2.6.3 automatically, github actions needs 2.6.5
 
 source "https://rubygems.org"
 # Hello! This is where you manage which Jekyll version is used to run.
@@ -9,7 +9,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 4.0.0"
+gem "jekyll", "4.2.0"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.5"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
@@ -17,10 +17,10 @@ gem "jekyll", "~> 4.0.0"
 # gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-gzip", "~> 2.4.2"
+  gem "jekyll-gzip", "~> 2.5.1"
   gem "jekyll-menus", "~> 0.6"
   gem "jekyll-redirect-from", "~> 0.16"
-  gem "jekyll-seo-tag", "~> 2.6"
+  gem "jekyll-seo-tag", "~> 2.7.1"
   gem "jekyll-sitemap", "~> 1.4"
   gem "jekyll-inline-svg", "~> 1.1"
 end

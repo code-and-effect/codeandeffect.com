@@ -1,10 +1,10 @@
 - title: "Member Databases"
-  description: "Custom member relationship management databases to track: demographics, activity, history, applications, discipline, continuing education, and more."
+  description: "Member relationship management databases that track demographics, activity, history, applications, and more."
   link: /member-databases/
-  icon: "/assets/images/icons/database.svg"
+  icon: "/assets/images/icons/database2.svg"
 
 - title: "Member Portals"
-  description: "Empower members to sign in and manage their information, submit payments, request changes to their status, and download secure files."
+  description: "Allow members to sign in and manage their information, submit payments, request changes to their status, and securely download files."
   link: /member-portals/
   icon: "/assets/images/icons/website.svg"
 
@@ -14,14 +14,24 @@
   icon: "/assets/images/icons/user-add.svg"
 
 - title: "Dues, Renewals, and Fees"
-  description: "Calculate and charge the correct dues or fees, including situations with complex statuses and changes. Have full financial reporting."
+  description: "Generate and charge the correct dues, including situations with complex statuses and changes."
   link: /dues-renewals-fees/
-  icon: "/assets/images/icons/sand-clock.svg"
+  icon: "/assets/images/icons/shopping-cart.svg"
 
 - title: "Professional Development"
-  description: "Web-based tools to track, submit, roll forward, and audit all required annual continuing education."
+  description: "Calculate credits, submit statements, and perform audits."
   link: /professional-development/
   icon: "/assets/images/icons/readme.svg"
+
+- title: "Committees"
+  description: "Create and track committees (e.g. discipline, events, sponsorship) to share files and coordinate efforts."
+  link: /committees/
+  icon: "/assets/images/icons/users.svg"
+
+- title: "Elections"
+  description: "Run secure and private elections that allow members to submit their ballot online."
+  link: /elections/
+  icon: "/assets/images/icons/check-circle.svg"
 
 - title: "Association Websites"
   description: "Communicate with members and the public with a professional, easy-to-update website."

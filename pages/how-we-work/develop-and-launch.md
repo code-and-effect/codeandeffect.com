@@ -26,7 +26,7 @@ Develop and launch is based on the prototype, feature sheet, estimate, and sched
 
 ## Where does it fit in the overall process?
 
-Develop and Launch is Step 2 out of our 3 step process for designing and developing custom association management software. The first step is [Discover and Plan](/discover-and-plan/), and the third step is [Support and Improve](/support-and-improve/).
+Develop and Launch is Phase 2 out of our 3 phase process for designing and developing custom association management software. The first phase is [Discover and Plan](/discover-and-plan/), and the third phase is [Support and Improve](/support-and-improve/).
 
 ## Can I change features during development?
 
