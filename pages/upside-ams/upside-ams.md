@@ -24,17 +24,17 @@ Upside AMS is our software that blends the benefits of software-as-a-service (Sa
 - You get hosting, support, updates, and training at a fixed cost via Support and Improve.
 - You have no other subscription fees, licenses, restrictions, or hidden costs.
 
-Here’s another way to understand how Upside AMS works: imagine the infrastructure required for any city street: roads, sidewalks, power lines, water lines--that’s all the Upside platform. Each building on the street is unique, built to the needs of whoever is using it, but still relying on that common city infrastructure. A building on that street is your unique implementation of a Upside AMS!
+Here’s another way to understand how Upside AMS works. Imagine the infrastructure required for any city street: roads, sidewalks, power lines, water lines--that’s all the Upside platform. Each building on the street is unique, built to the needs of whoever is using it, but still relying on that common city infrastructure. A building on that street is your unique implementation of a Upside AMS!
 
 ## Why choose Upside AMS?
 
-We developed Upside AMS for organizations that need custom software to run their association, but are hesitant about the risks that come with custom software projects. Everyone has had a custom project not go well, at some point, because the risks were not managed well. We want to minimize the risks of custom software so that it is a great option for associations.
+We developed Upside AMS for organizations that need custom software to run their association, but are hesitant about the risks that come with custom software projects. Everyone has had a custom project not go well because the risks were not managed well. We want to minimize the risks of custom software so that it is a great option for associations.
 
 Some of these risks that Upside AMS solves are:
 
 **No budget or schedule overruns during development.** Upside AMS comes with common modules that are customized to your needs, and with our extensive experience working with associations, we are able to accurately estimate and schedule this work.
 
-**Predictable long term cost.** Our Support and Improve contract gives you a predictable, all-in cost for hosting, support, updates, and training. There are no additional costs, licenses, or fees.
+**Predictable long term cost.** Our [Support and Improve](/support-and-improve/) contract gives you a predictable, all-in cost for hosting, support, updates, and training. There are no additional costs, licenses, or fees.
 
 **Consistent security updates.** Custom software can be expensive to update. But because Upside AMS runs on top of a common shared infrastructure, we are able to apply updates to that infrastructure (and your implementation) for a fraction of the cost you would have with other custom software.
 

@@ -7,7 +7,7 @@ description: We worked with our clients to develop an elections system that meet
 bullets:
 - Create online elections and polls that integrate with Upside AMS
 - A private, ballot-based wizard walks users through voting
-- Schedule email notifications to remind incomplete ballots to submnit
+- Schedule email notifications to remind users to vote
 show_jump_solutions: true
 jl_title: Committees
 jl_link: "/committees/"

@@ -6,13 +6,13 @@ layout: default
   <div class="container">
     <h1 class="display-1">We develop and support association management software that works exactly how you need.</h1>
 
-    <p class="lead mb-4"><a href='/upside-ams/'>Upside AMS</a> is our cloud-based portal software that is customized to exactly match your rules, bylaws, or regulatory requirements. It is designed to delivery the best parts of custom software and the best parts of software as a service.</p>
+    <p class="lead mb-4"><a href='/upside-ams/'>Upside AMS</a> is our cloud-based member portal software that is customized to exactly match your rules, bylaws, or regulatory requirements. It is designed to deliver the best parts of both custom software and software as a service.
 
     <p class="text-right">
       <a class="btn btn-primary btn-lg" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/danaj/30min-zoom?hide_event_type_details=1'});return false;" role="button">
         Learn how we can help &rarr;
       </a>
-    </p>
+
   </div>
 </header>
 
@@ -26,10 +26,10 @@ layout: default
     {% for organization in page.organizations %}
       <div class="organization col-sm-6 mb-5">
         <h3>{{ organization.title }}</h3>
-        <p>
+
           {{ organization.you }}
           {{ organization.we }}
-        </p>
+
       </div>
     {% endfor %}
   </div>

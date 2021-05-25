@@ -27,7 +27,7 @@ We approached committees from an administrator's perspective:
 
 The first thing that is needed is simply tracking who is on what committees and for how long. Also of importance is pulling up historical volunteering for people on these committees.
 
-The second thing that is needed is the ability for these committees to securely access file downloads from within the member portal, instead of relying on a third party service like Dropbox or SharePoint. And knowing which members have downloaded which files, and when is part of this.
+The second thing that is needed is the ability for these committees to securely access file downloads from within the member portal, instead of relying on a third party service like Dropbox or SharePoint. This means there are fewer technical problems and accounts to juggle.
 
 The final thing that is needed is the ability for staff to do both of these things quickly, easily, and from within the existing AMS. Rolling out a new committee should take a few minutes, and it does!
 
@@ -43,7 +43,7 @@ Here are some of the use cases we've run into:
 
 **Discipline:** Collect the formal complaint, evidence, and follow-up reports in one place for the committee to review.
 
-**Registration:** If you're association is small, you can choose to upload application forms to a committee instead of implementing an advanced registration workflow.
+**Registration:** If your organization is small, you can choose to upload application forms to a committee instead of implementing an advanced registration workflow.
 
 **Applicant Appeals:** If your bylaws allow for it, applicants that appeal a decision can go through an appeal committee.
 
