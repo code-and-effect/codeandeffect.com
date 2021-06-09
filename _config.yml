@@ -24,7 +24,7 @@ description: Edmonton-based software consultants. We use Ruby on Rails to design
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.codeandeffect.com" # the base hostname & protocol for your site, e.g. http://example.com
 author: Code and Effect Inc.
-logo: code-and-effect-logo.png # URL to a site-wide logo (e.g., /assets/your-company-logo.png)
+logo: "/assets/images/code-and-effect-logo.svg" # URL to a site-wide logo (e.g., /assets/your-company-logo.png)
 
 twitter:
   username: Code_and_Effect
