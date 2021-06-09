@@ -1,7 +1,7 @@
 ---
 layout: home
-title: 'Custom Association Management Software (AMS) Developers'
-description: 'We design and develop custom association management software (AMS).'
+title: 'Custom Association Management Software (AMS) Developers | Code and Effect'
+description: 'Upside AMS by Code and Effect is cloud-based member portal software that is customized to exactly match your rules, bylaws, or regulatory requirements.'
 jumbotron_text: ''
 redirect_from:
   - /space/
