@@ -1,11 +1,15 @@
-- filename: "partner-awtc.png"
+- filename: "awtc.png"
   organization: "Association Women Technology Champions"
   website: "https://www.awtc.tech/"
 
-- filename: "partner-cnar-rcor.png"
+- filename: "cnar-rcor.png"
   organization: "Canadian Network of Agencies for Regulation"
   website: "https://www.cnar-rcor.ca/"
 
-- filename: "partner-csae-scda.png"
+- filename: "csae-scda.png"
   organization: "Canadian Society of Association Executives"
   website: "https://csae.com/"
+
+- filename: "reviewmyams.png"
+  organization: "Review My AMS"
+  website: "https://reviewmyams.com/"

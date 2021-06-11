@@ -13,11 +13,11 @@
 
 <footer class="partners pt-3">
   <div class="container">
-    <div class="text-center text-muted">Proud partners of</div>
+    <div class="text-center text-muted">Proud partners/supports of</div>
     <div class="row text-center logos justify-content-center">
 
       {% for partner in site.data.partners %}
-        <div class="col-sm-4">
+        <div class="col-sm-3">
           <a href="{{ partner.website }}">
             <img src="/assets/images/partners/{{ partner.filename }}" alt="{{ partner.organization }}" class="img-fluid mt-2 mb-3" height="90" width="200">
           </a>
