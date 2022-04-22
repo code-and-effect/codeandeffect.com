@@ -1,39 +1,95 @@
 - title: "Member Databases"
-  description: "Member relationship management databases that track demographics, activity, history, applications, and more."
-  link: /member-databases/
+  description: "Member relationship management database to track demographics, activity, statuses, payments, history, and more."
   icon: "/assets/images/icons/database2.svg"
 
 - title: "Member Portals"
-  description: "Allow members to sign in and manage their information, submit payments, request changes to their status, and securely download files."
-  link: /member-portals/
-  icon: "/assets/images/icons/website.svg"
+  description: "Allow members to sign in and manage their personal information, submit payments, request changes to their status, and securely download files."
+  icon: "/assets/images/icons/devices.svg"
 
 - title: "Applications to Join"
-  description: "Streamline complex applicant workflows, including: submissions, references, payments, committee reviews, revisions, and approvals."
-  link: /applications-to-join/
-  icon: "/assets/images/icons/user-add.svg"
+  description: "Apply online with simple and complex applicant workflows, including: submissions, references, payments, committee reviews, missing information, and approvals."
+  icon: "/assets/images/icons/user-plus.svg"
 
 - title: "Dues, Renewals, and Fees"
-  description: "Generate and charge the correct dues, including situations with complex statuses and changes."
-  link: /dues-renewals-fees/
-  icon: "/assets/images/icons/shopping-cart.svg"
+  description: "Automatically generate and charge the correct dues, including complex statuses and member history."
+  icon: "/assets/images/icons/shopping-cart-2.svg"
 
 - title: "Professional Development"
-  description: "Calculate credits, submit statements, and perform audits."
-  link: /professional-development/
-  icon: "/assets/images/icons/readme.svg"
+  description: "Track professional development activities and statements, calculate credits earned per activitya nd category, enforce required scores year over year."
+  icon: "/assets/images/icons/graduation-cap.svg"
+  # icon: "/assets/images/icons/notebook.svg"
+  # icon: "/assets/images/icons/readme.svg"
 
-- title: "Committees"
-  description: "Create and track committees (e.g. discipline, events, sponsorship) to share files and coordinate efforts."
-  link: /committees/
-  icon: "/assets/images/icons/users.svg"
+- title: "Committees and Groups"
+  description: "Create and track committees (e.g. discipline, events, sponsorship) or less formal groups to securely share files and coordinate efforts."
+  icon: "/assets/images/icons/briefcase.svg"
 
-- title: "Elections"
-  description: "Run secure and private elections that allow members to submit their ballot online."
+- title: "Elections and Surveys"
+  description: "Run safe and secure member-only elections, or invite users to complete less formal online surveys and polls."
   link: /elections/
-  icon: "/assets/images/icons/check-circle.svg"
+  icon: "/assets/images/icons/check-square-2.svg"
 
 - title: "Association Websites"
-  description: "Communicate with members and the public with a professional, easy-to-update website."
-  link: /association-websites/
-  icon: "/assets/images/icons/screen.svg"
+  description: "Communicate with members and the public with a professional, easy-to-update website that is fully integrated with your member database and portal."
+  icon: "/assets/images/icons/device-desktop.svg"
+
+- title: "Audits"
+  description: "Randomly select members for simple or complex audits and assign audit reviewers to approve the submission."
+  link: /member-audits/
+  icon: "/assets/images/icons/checkup-list.svg"
+
+- title: "Event Registration"
+  description: "Manage events, tickets, add-ons, and registrations. Restrict to your membership or open to the public."
+  link: /event-registration/
+  icon: "/assets/images/icons/ticket.svg"
+  # icon: "/assets/images/icons/calendar-event.svg"
+
+- title: "Courses and Exams"
+  description: "Create courses and require exams to be passed once (or every few years!). Include courses in your applicant or renewal process as required steps."
+  link: /member-audits/
+  icon: "/assets/images/icons/certificate.svg"
+
+- title: "Member Directories"
+  description: "Display members who are in good standing on a public directory, or create a directory for suppliers and associate members."
+  link: /member-and-service-directories/
+  icon: "/assets/images/icons/users-2.svg"
+
+- title: "Classifieds"
+  description: "Allow members to post classified ads for jobs or equipment."
+  link: /classifieds/
+  icon: "/assets/images/icons/mouse-pointer-click.svg"
+
+- title: "Reporting"
+  description: "Drill down or summarize your data with advanced reports."
+  link: /reporting/
+  icon: "/assets/images/icons/bar-chart.svg"
+
+- title: "Digital Documents"
+  description: "Dynamically generate PDFs for membership cards, digital stamps, course certificates, and more."
+  link: /digital-documents/
+  icon: "/assets/images/icons/id-badge-2.svg"
+
+- title: "Custom Integrations"
+  description: "Add support for any third party service with a custom integration."
+  link: /integrations/
+  icon: "/assets/images/icons/apps.svg"
+
+- title: "Managed Cloud Hosting"
+  description: "Fully managed servers, database backups, uptime monitoring, SSL monitoring, and more."
+  link: /managed-hosting/
+  icon: "/assets/images/icons/cloud.svg"
+
+- title: "Training and Support"
+  description: "Unlimited training sessions, phone support, and email support. "
+  link: /training-and-support/
+  icon: "/assets/images/icons/help-circle-2.svg"
+
+- title: "Notifications"
+  description: "Send unlimited scheduled and triggered notifications to members, applicants, references, and administrators."
+  link: /notifications/
+  icon: "/assets/images/icons/megaphone.svg"
+
+- title: "Onboarding"
+  description: "Send unlimited scheduled and triggered notifications to members, applicants, references, and administrators."
+  link: /notifications/
+  icon: "/assets/images/icons/directions.svg"

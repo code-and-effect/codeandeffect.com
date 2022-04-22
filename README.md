@@ -4,6 +4,7 @@
 
 This the public website for Code and Effect. It used [effective_jekyll](https://github.com/code-and-effect/effective_jekyll) as the starter template and is hosted by [Netlify](https://www.netlify.com).
 
+
 ## Installed Plugins
 
 - [jekyll-compress-html](https://github.com/penibelst/jekyll-compress-html)
@@ -13,6 +14,7 @@ This the public website for Code and Effect. It used [effective_jekyll](https://
 - [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag)
 - [jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap)
 
+
 ## Notes re: Bootstrap 4.4.1
 
 - CDNs for the JS (Jquery, Bootstrap, and Popper) are included at the bottom of `_includes/default.html`
@@ -20,10 +22,12 @@ This the public website for Code and Effect. It used [effective_jekyll](https://
 - Comment out unused Bootstrap components @included in `_sass/bootstrap-4.4.1/bootstrap.scss`
 - Override compiled Bootstrap components in `_sass/componenents/*`
 
+
 ## Notes re: Editor
 
 - Sublime Text: add `_site` and `.jekyll-cache` to your `folder_exclude_patterns` via Preferences --> Settings
 - VS.Code: I dunno something similar though :)
+
 
 ## New Site Setup
 
@@ -31,9 +35,26 @@ This the public website for Code and Effect. It used [effective_jekyll](https://
 2. `bundle install`
 3. `bundle exec jekyll serve`
 
+
+## data vs collections
+
+- If it gets it's own page, it's a collection
+- If it only gets looped through somewhere else, it's data
+
+
+## Icons
+
+This website uses a combination of the following icon sets:
+
+- https://github.com/feathericons/feather
+- https://github.com/tabler/tabler-icons
+- https://github.com/lucide-icons/lucide
+
+
 ## License
 
 Copyright [Code and Effect Inc.](http://www.codeandeffect.com/)
+
 
 ## Contributing
 

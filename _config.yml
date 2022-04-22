@@ -43,11 +43,23 @@ social:
     - https://www.linkedin.com/company/code-and-effect
     - https://github.com/code-and-effect
 
-
 # Plugin settings
 sass:
   sass_dir: _sass # _sass is default
   style: compressed # nested, expanded, compact, or compressed
+
+collections_dir: collections
+
+collections:
+  organizations:
+    output: true
+    permalink: /organizations/:name
+    sort_by: priority
+  solutions:
+    output: true
+    permalink: /solutions/:name
+    sort_by: priority
+    layout: solution
 
 compress_html:
   clippings: all
@@ -69,6 +81,8 @@ plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
