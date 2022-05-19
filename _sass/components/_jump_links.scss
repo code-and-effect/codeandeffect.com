@@ -2,7 +2,7 @@
   border-top: solid 1px #ddd;
 }
 
-.jump-links .process { margin-bottom: 0; }
+.jump-links .service { margin-bottom: 0; }
 
 .jump-link {
   padding: 1.5rem 0;
@@ -16,7 +16,7 @@
   }
 }
 
-.jump-link.jump-link-process {
+.jump-link.jump-link-service {
   padding: 1.5rem;
 }
 
@@ -28,7 +28,7 @@
   margin: 0;
 }
 
-.jump-link .process-step,
+.jump-link .service-step,
 .jump-link p {
   color: $body-color;
   margin: 0;

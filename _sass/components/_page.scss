@@ -28,22 +28,22 @@
 }
 
 .value,
-.process,
+.service,
 .solution,
 .organization {
   margin-bottom: 1rem;
 }
 
-.process-step {
+.service-step {
   font-size: $h3-font-size - 0.25rem;
   font-weight: 400;
 }
 
-.process h3 a,
+.service h3 a,
 .solution h3 a,
 .organization h3 a { color: $body-color; text-decoration: none; }
 
-.process a:hover,
+.service a:hover,
 .solution a:hover,
 .organization h3 a:hover { color: $primary; text-decoration: underline; }
 

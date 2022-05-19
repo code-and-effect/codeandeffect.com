@@ -9,7 +9,7 @@ navbar:
     weight: 2
   - url: '#'
     title: How we work
-    identifier: process
+    identifier: services
     weight: 3
   - url: '#'
     title: Company
@@ -59,7 +59,7 @@ solutions:
     title: Association Websites
     weight: 8
 
-process:
+services:
   - url: /discover-and-plan
     title: "Phase 1: Discover and Plan"
     weight: 1

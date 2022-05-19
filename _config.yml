@@ -55,12 +55,19 @@ collections:
     output: true
     permalink: /organizations/:name
     sort_by: priority
+    # layout: organization
   solutions:
     output: true
     # permalink: /solutions/:name
     permalink: :name
     sort_by: priority
     layout: solution
+  services:
+    output: true
+    # permalink: /solutions/:name
+    permalink: :name
+    sort_by: priority
+    layout: service
 
 compress_html:
   clippings: all

@@ -1,8 +1,10 @@
 ---
 layout: page
+priority: 2
 title: Discover and Plan
 titletext: Your expertise + our expertise = the right software for your association
-permalink: "/discover-and-plan"
+description: "We work with you to document your frustrations, clarify your goals, and understand your unique requirements. Your expertise about your association combined with our expertise in association software development means we will make a plan to build exactly what your organization needs."
+icon: "/assets/images/icons/template.svg"
 subtext: false
 bullets:
 - Discover and Plan is a structured, collaborative process that identifies, prioritizes,
@@ -11,7 +13,7 @@ bullets:
 - You don't need to do any planning in advance.
 description: Discover and Plan is a structured, repeatable process that identifies,
   prioritizes, and costs out custom software requirements.
-show_jump_processes: true
+show_jump_services: true
 
 ---
 ## How does it work?

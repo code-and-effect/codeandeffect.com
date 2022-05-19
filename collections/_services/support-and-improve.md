@@ -1,8 +1,12 @@
 ---
 layout: page
+priority: 3
 title: Support and Improve
 titletext: Extend the lifetime of your software
-permalink: "/support-and-improve"
+
+description: "Your software is business-critical. As you use it within your organization and with your members, new ideas for improvements, new use cases, and new processes will come up. We work together long after the first launch to continually improve your software and keep it well-maintained."
+icon: "/assets/images/icons/infinity.svg"
+
 subtext: false
 bullets:
 - Support and Improve is the ongoing maintenance and development of your association
@@ -14,7 +18,7 @@ description: Support and Improve is the ongoing maintenance and development of y
 redirect_from:
 - "/watch-and-maintain"
 - watch-and-maintain
-show_jump_processes: true
+show_jump_services: true
 
 ---
 ## How does Support and Improve work?

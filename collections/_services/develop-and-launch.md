@@ -1,8 +1,12 @@
 ---
 layout: page
+priority: 1
 title: Develop and Launch
 titletext: Software projects that stay inside your budget and schedule
-permalink: "/develop-and-launch"
+
+description: "Based on the plan we make together, we get to work. Our regular update meetings keep you informed of our progress and the project moving smoothly. Clear feedback loops mean there is no guesswork and no surprises. Then we launch!"
+icon: "/assets/images/icons/code-slash.svg"
+
 subtext: 
 bullets:
 - Develop and Launch is our process for building association management software.
@@ -12,7 +16,7 @@ bullets:
   project.
 description: Develop and Launch is a structured development and communication process
   for building custom software.
-show_jump_processes: true
+show_jump_services: true
 
 ---
 ## How does it work?

@@ -1,0 +1,18 @@
+<div class="container">
+  <h2 class="page-subtitle mb-2">How we work</h2>
+  <p class="mb-4">We work with you to scope and launch a completely custom <a href='/upside-ams'>Upside AMS</a> implementation:</p>
+
+  <div class="row">
+    {% for service in site.services %}
+      <div class="service col-sm-4 mb-5">
+        <div class="service-step">
+          {% svg "{{ service.icon }}" width=32 class="mb-2" role="img" %}
+          Phase {{ service.priority }}:
+        </div>
+        <h3><a href="{{ service.url }}" title="{{ service.title }}">{{ service.title }}</a></h3>
+        <p>{{ service.description }}</p>
+        <p><a href="{{ service.url }}" title="Learn more">Learn more &rarr;</a></p>
+      </div>
+    {% endfor %}
+  </div>
+</div>
