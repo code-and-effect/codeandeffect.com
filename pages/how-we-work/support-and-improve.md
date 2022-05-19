@@ -2,7 +2,7 @@
 layout: page
 title: Support and Improve
 titletext: Extend the lifetime of your software
-permalink: "/support-and-improve/"
+permalink: "/support-and-improve"
 subtext: false
 bullets:
 - Support and Improve is the ongoing maintenance and development of your association
@@ -12,7 +12,7 @@ bullets:
 description: Support and Improve is the ongoing maintenance and development of your
   association management software after launch.
 redirect_from:
-- "/watch-and-maintain/"
+- "/watch-and-maintain"
 - watch-and-maintain
 show_jump_processes: true
 

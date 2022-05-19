@@ -4,6 +4,12 @@
 - filename: "acpa.png"
   organization: "Association of the Chemical Profession of Alberta"
 
+- filename: "acpo.png"
+  organization: "Association of the Chemical Profession of Ontario"
+
+- filename: "afsa.png"
+  organization: "Alberta Funeral Service Association "
+
 - filename: "aspb.png"
   organization: "Alberta Society of Professional Biologists"
 
@@ -24,6 +30,12 @@
 
 - filename: "gtl362.png"
   organization: "Teamsters Local 362"
+
+- filename: "oala.png"
+  organization: "Ontario Association of Landscape Architects "
+
+- filename: "seima.png"
+  organization: "Saskatchewan Environmental & Industry Managers Association"
 
 - filename: "volunteeralberta.png"
   organization: "Volunteer Alberta"

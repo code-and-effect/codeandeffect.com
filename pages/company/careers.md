@@ -2,7 +2,7 @@
 layout: page
 title: Careers
 published: false
-permalink: "/careers/"
+permalink: "/careers"
 subtext: |
   "We are actively seeking a Senior Ruby on Rails Developer. We offer a flexible, results-oriented work environment with a talented, experienced team. description: We are actively seeking Ruby on Rails Developers. We offer a flexible, results oriented work environment with a talented, experienced team."
 ---
@@ -28,7 +28,7 @@ Code and Effect has been building custom software for over 12 years.
 
 * Customers come to us when they can’t find an off-the-shelf solution for a business problem. We work with them to find their pain points and develop software that solves that pain.
 * It brings us joy to help people work through their business problems in a structured and process-oriented way, and we’re good at it. We have the technical and strategic expertise to find creative and practical solutions that make a noticeable difference. Applying that expertise really is our idea of fun.
-* We're different from other shops because of our repeatable process, our structured communication, and the values we live and work by: [Relationships First, Give a Damn, and Do the Right Amount](https://www.codeandeffect.com/).
+* We're different from other shops because of our repeatable process, our structured communication, and the values we live and work by: [Relationships First, Give a Damn, and Do the Right Amount](https://www.codeandeffect.com).
 
 ## The Location
 
