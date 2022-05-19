@@ -1,8 +1,9 @@
 ---
 layout: solution
-priority: 999
+priority: 8
+published: true
 
-title: "Associations Websites"
+title: "Association Websites"
 titletext: "Good looking and easy to update"
 description: "Communicate with members and the public with a professional, easy-to-update website that is fully integrated with your member database and portal."
 icon: "/assets/images/icons/device-desktop.svg"

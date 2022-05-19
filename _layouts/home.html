@@ -4,14 +4,14 @@ layout: default
 
 <header class="jumbotron jumbotron-fluid jumbotron-home pb-3 mb-5">
   <div class="container">
-    <h1 class="display-1">We develop and support association management software that works exactly how you need.</h1>
+    <h1 class="display-1">Association Management Software that works exactly how you need.</h1>
 
     <!- TODO ->
     <p class="lead mb-4"><a href='/upside-ams/'>Upside AMS</a> is our cloud-based member portal software that is customized to exactly match your rules, bylaws, or regulatory requirements. It is designed to deliver the best parts of both custom software and software as a service.
 
     <p class="text-right">
       <a class="btn btn-primary btn-lg" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/danaj/30min-zoom?hide_event_type_details=1'});return false;" role="button">
-        Learn how we can help &rarr;
+        Book a free call to learn more &rarr;
       </a>
 
   </div>
@@ -20,10 +20,11 @@ layout: default
 {% include metrics.html %}
 
 <div class="container solutions">
-  <h2 class="page-subtitle">Solutions we implement</h2>
+  <h2 class="page-subtitle">Solutions we implemen</h2>
+  <p>
   <div class="row">
     {% for solution in site.solutions %}
-      <div class="solution col-sm-6 mb-4">
+      <div class="solution col-sm-6 mb-3">
         {% svg "{{ solution.icon }}" width=24 role="img" class="mb-1 ce-icon" %}
         <h3><a href="{{ solution.url }}" title="{{ solution.title }}">{{ solution.title }}</a></h3>
         <p>{{ solution.description }}</p>
@@ -38,7 +39,7 @@ layout: default
   <div class="row pb-5">
     {% for organization in site.organizations %}
       <div class="organization col-sm-6 mb-4">
-        <h3><a href="{{ organization.url }}" title="{{ organization.title }}">{{ organization.title }}</a></h3>
+        <h3>{{ organization.title }}</a></h3>
           {{ organization.you }}
           {{ organization.we }}
       </div>

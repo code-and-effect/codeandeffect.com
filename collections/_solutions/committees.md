@@ -1,6 +1,7 @@
 ---
 layout: solution
-priority: 999
+priority: 6
+published: true
 
 title: Committees and Groups
 titletext: Get your committees organized

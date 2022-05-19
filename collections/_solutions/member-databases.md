@@ -1,6 +1,7 @@
 ---
 layout: solution
-priority: 999
+priority: 1
+published: true
 
 title: "Member Databases"
 description: "Member relationship management database to track demographics, activity, statuses, payments, history, and more."

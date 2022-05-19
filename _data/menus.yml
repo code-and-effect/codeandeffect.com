@@ -26,9 +26,6 @@ company:
   - url: /testimonials/
     title: Testimonials
     weight: 2
-  - url: /speaking/
-    title: Speaking
-    weight: 3
   - url: https://tadum.app
     title: 'Tadum Meeting Agendas'
     weight: 4

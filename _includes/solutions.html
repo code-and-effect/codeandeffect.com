@@ -1,12 +1,12 @@
 <div class="container solutions">
   <h2 class="page-subtitle">Solutions we implement</h2>
   <div class="row">
-    {% for solution in site.data.solutions %}
+    {% for solution in site.solutions %}
       <div class="solution col-sm-6 mb-4">
         {% svg "{{ solution.icon }}" width=24 role="img" class="mb-1 ce-icon" %}
-        <h3><a href="{{ solution.link }}" title="{{ solution.title }}">{{ solution.title }}</a></h3>
+        <h3><a href="{{ solution.url }}" title="{{ solution.title }}">{{ solution.title }}</a></h3>
         <p>{{ solution.description }}</p>
-        <p><a href="{{ solution.link }}" title="Learn more">Learn more &rarr;</a></p>
+        <p><a href="{{ solution.url }}" title="Learn more">Learn more &rarr;</a></p>
       </div>
     {% endfor %}
   </div>

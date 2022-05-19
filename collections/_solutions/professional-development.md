@@ -1,10 +1,11 @@
 ---
 layout: solution
-priority: 999
+priority: 5
+published: true
 
-title: Professional Development for Associations and Colleges
+title: Professional Development
 titletext: Easy professional development records
-description: "Track professional development activities and statements, calculate credits earned per activitya nd category, enforce required scores year over year."
+description: "Track professional development activities and statements, calculate credits earned per activity and category, enforce required scores year over year."
 icon: "/assets/images/icons/graduation-cap.svg"
 bullets:
 - Report and audit your continuing education and professional development.

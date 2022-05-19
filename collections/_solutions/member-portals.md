@@ -1,6 +1,7 @@
 ---
 layout: solution
-priority: 999
+priority: 2
+published: true
 
 title: Member Portals
 titletext: Help your members help themselves

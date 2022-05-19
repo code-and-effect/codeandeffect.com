@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Code and Effect  # The site title used as part of the title tag like 'page.title | title'.
-tagline: Member Databases and Portals for Associations # A short description used as part of the title tag of the home page like 'title | tagline'.
+tagline: Association Management Software # A short description used as part of the title tag of the home page like 'title | tagline'.
 email: hello@codeandeffect.com
 description: Edmonton-based software consultants. We use Ruby on Rails to design and develop web and mobile applications. # Used for the description meta tag and is the fallback for pages that don't provide their own description
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -57,7 +57,8 @@ collections:
     sort_by: priority
   solutions:
     output: true
-    permalink: /solutions/:name
+    # permalink: /solutions/:name
+    permalink: :name
     sort_by: priority
     layout: solution
 

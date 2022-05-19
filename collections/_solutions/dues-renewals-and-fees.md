@@ -1,6 +1,7 @@
 ---
 layout: solution
-priority: 999
+priority: 4
+published: true
 
 title: Dues, Renewals, and Fees
 titletext: Calculate complex annual payments

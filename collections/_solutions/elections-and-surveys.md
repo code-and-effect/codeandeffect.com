@@ -1,6 +1,7 @@
 ---
 layout: solution
-priority: 999
+priority: 7
+published: true
 
 title: Elections and Surveys
 titletext: Secure and private online voting

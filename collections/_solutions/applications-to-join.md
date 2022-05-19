@@ -1,6 +1,7 @@
 ---
 layout: solution
-priority: 999
+priority: 3
+published: true
 
 title: "Applications to Join"
 titletext: "Streamline your member applications and reclassifications"
