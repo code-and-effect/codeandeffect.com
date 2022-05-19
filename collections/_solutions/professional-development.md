@@ -13,10 +13,10 @@ bullets:
 - Track and enforce mandatory training like courses and exams.
 
 jl_title: Dues, Renewals, and Fees
-jl_link: "/dues-renewals-fees/"
+jl_link: "/dues-renewals-fees"
 jl_description: Calculate and collect complex dues or fees
 jr_title: Committees
-jr_link: "/committees/"
+jr_link: "/committees"
 jr_description: Securely share files
 ---
 

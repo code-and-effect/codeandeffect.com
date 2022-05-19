@@ -13,10 +13,10 @@ bullets:
 - Integrated with Upside AMS
 show_jump_solutions: true
 jl_title: Professional Development
-jl_link: /professional-development/
+jl_link: "/professional-development"
 jl_description: "Easy professional development records."
 jr_title: Elections
-jr_link: "/elections/"
+jr_link: "/elections-and-surveys"
 jr_description: "Secure and private online voting"
 
 ---

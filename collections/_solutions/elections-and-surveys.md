@@ -13,10 +13,10 @@ bullets:
 - Schedule email notifications to remind users to vote
 
 jl_title: Committees
-jl_link: "/committees/"
+jl_link: "/committees"
 jl_description: Securely share files
 jr_title: Association Websites
-jr_link: "/association-websites/"
+jr_link: "/association-websites"
 jr_description: Good looking and easy to update
 
 ---

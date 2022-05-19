@@ -2,7 +2,7 @@
 layout: page
 title: Develop and Launch
 titletext: Software projects that stay inside your budget and schedule
-permalink: "/develop-and-launch/"
+permalink: "/develop-and-launch"
 subtext: 
 bullets:
 - Develop and Launch is our process for building association management software.
@@ -26,7 +26,7 @@ Develop and launch is based on the prototype, feature sheet, estimate, and sched
 
 ## Where does it fit in the overall process?
 
-Develop and Launch is Phase 2 out of our 3 phase process for designing and developing custom association management software. The first phase is [Discover and Plan](/discover-and-plan/), and the third phase is [Support and Improve](/support-and-improve/).
+Develop and Launch is Phase 2 out of our 3 phase process for designing and developing custom association management software. The first phase is [Discover and Plan](/discover-and-plan), and the third phase is [Support and Improve](/support-and-improve).
 
 ## Can I change features during development?
 
@@ -49,7 +49,7 @@ Our experience is that a weekly or bi-weekly meeting rhythm is just the right am
 
 We recommend a minimum budget of $35,000.
 
-The scope and cost are determined collaboratively through [Discover and Plan](/discover-and-plan/). We recommend the total cost is no more than 80% of your actual budget. This way you have some flexibility if new requirements come up during development and after launch (for [Support and Improve](/support-and-improve/)!)
+The scope and cost are determined collaboratively through [Discover and Plan](/discover-and-plan). We recommend the total cost is no more than 80% of your actual budget. This way you have some flexibility if new requirements come up during development and after launch (for [Support and Improve](/support-and-improve)!)
 
 ## What is the minimum timeline for Develop and Launch?
 

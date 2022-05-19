@@ -74,7 +74,7 @@ compress_html:
 
 # Build settings
 show_excerpts: true
-permalink: :title/ # always trailing slashes
+permalink: :title # always trailing slashes
 plugins:
   - jekyll-gzip
   - jekyll-inline-svg

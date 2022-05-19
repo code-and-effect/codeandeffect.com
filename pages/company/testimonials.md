@@ -3,7 +3,7 @@ layout: simple
 title: Testimonials
 subtext:
   We’re different from other firms because of our repeatable process, our structured communication, and the values we live and work by. The following testimonials from our clients attest to that!
-permalink: "/testimonials/"
+permalink: "/testimonials"
 description: 'Nice things that our happy clients say about us.'
 redirect_from:
   - /clients/

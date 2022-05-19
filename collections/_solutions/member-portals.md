@@ -12,10 +12,10 @@ bullets:
 - Wizards guide users step-by-step through applications, dues renewal, and more.
 - Access important information like order history and member downloads.
 jl_title: Member Databases
-jl_link: "/member-databases/"
+jl_link: "/member-databases"
 jl_description: Information at your fingertips.
 jr_title: Applications to Join
-jr_link: "/applications-to-join/"
+jr_link: "/applications-to-join"
 jr_description: Streamline your member applications and reclassifications.
 ---
 

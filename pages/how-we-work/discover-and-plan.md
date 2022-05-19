@@ -2,7 +2,7 @@
 layout: page
 title: Discover and Plan
 titletext: Your expertise + our expertise = the right software for your association
-permalink: "/discover-and-plan/"
+permalink: "/discover-and-plan"
 subtext: false
 bullets:
 - Discover and Plan is a structured, collaborative process that identifies, prioritizes,
@@ -57,4 +57,4 @@ Starting at $15,000.
 
 ## What's the next phase after Discover and Plan?
 
-We move into [Develop and Launch](/develop-and-launch/)!
+We move into [Develop and Launch](/develop-and-launch)!

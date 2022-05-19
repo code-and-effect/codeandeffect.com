@@ -11,6 +11,14 @@ bullets:
 - Cloud-based database that allows you to browse, search, and export.
 - Track everything in one place (members, applicants, payments).
 - Record a history of all changes, emails, and important events.
+
+show_jump_solutions: true
+jl_title: Association Websites
+jl_link: "/association-websites"
+jl_description: Good looking and easy to update.
+jr_title: Member Portals
+jr_link: "/member-portals"
+jr_description: Help your members help themselves.
 ---
 
 **Problem:** You can’t find the information you need for administration, reporting, and decision making.

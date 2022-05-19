@@ -13,10 +13,10 @@ bullets:
 - Send email reminders for dues available and late fees.
 
 jl_title: Applications to Join
-jl_link: "/applications-to-join/"
+jl_link: "/applications-to-join"
 jl_description: Streamline your member applications and reclassifications.
 jr_title: Professional Development
-jr_link: "/professional-development/"
+jr_link: "/professional-development"
 jr_description: Easy professional development records.
 
 ---

@@ -1,17 +1,17 @@
 - title: "Discover and Plan"
   description: "We work with you to document your frustrations, clarify your goals, and understand your unique requirements. Your expertise about your association combined with our expertise in association software development means we will make a plan to build exactly what your organization needs."
-  link: /discover-and-plan/
+  link: /discover-and-plan
   icon: "/assets/images/icons/template.svg"
   step: 1
 
 - title: "Develop and Launch"
   description: "Based on the plan we make together, we get to work. Our regular update meetings keep you informed of our progress and the project moving smoothly. Clear feedback loops mean there is no guesswork and no surprises. Then we launch!"
-  link: /develop-and-launch/
+  link: /develop-and-launch
   icon: "/assets/images/icons/code-slash.svg"
   step: 2
 
 - title: "Support and Improve"
   description: "Your software is business-critical. As you use it within your organization and with your members, new ideas for improvements, new use cases, and new processes will come up. We work together long after the first launch to continually improve your software and keep it well-maintained."
-  link: /support-and-improve/
+  link: /support-and-improve
   icon: "/assets/images/icons/infinity.svg"
   step: 3
